@@ -1,0 +1,2 @@
+method,dataset,status,accuracy,macro_f1,note
+scfoundation,pbmc3k,not_available,,,scFoundation model not available in this environment

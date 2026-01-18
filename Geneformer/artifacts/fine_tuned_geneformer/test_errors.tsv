@@ -1,0 +1,4340 @@
+soma_joinid	predicted_cell_subclass	true_cell_subclass
+5814464	hematopoietic precursor cell	B cell
+5818739	hematopoietic precursor cell	B cell
+5822571	hematopoietic precursor cell	B cell
+5831191	hematopoietic precursor cell	B cell
+5836984	hematopoietic precursor cell	B cell
+5837733	hematopoietic precursor cell	B cell
+5837787	hematopoietic precursor cell	B cell
+5841127	hematopoietic precursor cell	B cell
+5841200	hematopoietic precursor cell	B cell
+5842939	hematopoietic precursor cell	B cell
+5843683	hematopoietic precursor cell	B cell
+5845127	hematopoietic precursor cell	B cell
+5845306	hematopoietic precursor cell	B cell
+5846039	hematopoietic precursor cell	B cell
+5846896	hematopoietic precursor cell	B cell
+5865174	hematopoietic precursor cell	B cell
+5865657	hematopoietic precursor cell	B cell
+5868269	hematopoietic precursor cell	B cell
+5874107	hematopoietic precursor cell	B cell
+5874829	hematopoietic precursor cell	B cell
+5875784	T cell	B cell
+5877445	hematopoietic precursor cell	B cell
+5886727	hematopoietic precursor cell	B cell
+5887103	hematopoietic precursor cell	B cell
+5887877	hematopoietic precursor cell	B cell
+5888841	hematopoietic precursor cell	B cell
+5890409	hematopoietic precursor cell	B cell
+5890557	hematopoietic precursor cell	B cell
+5891644	hematopoietic precursor cell	B cell
+5892783	hematopoietic precursor cell	B cell
+5893253	hematopoietic precursor cell	B cell
+5894403	hematopoietic precursor cell	B cell
+5895077	hematopoietic precursor cell	B cell
+5895270	hematopoietic precursor cell	B cell
+5895672	hematopoietic precursor cell	B cell
+5896518	hematopoietic precursor cell	B cell
+5899940	hematopoietic precursor cell	B cell
+5903437	myeloid cell	B cell
+5907444	hematopoietic precursor cell	B cell
+5911062	hematopoietic precursor cell	B cell
+5911544	hematopoietic precursor cell	B cell
+5918555	hematopoietic precursor cell	B cell
+5925399	hematopoietic precursor cell	B cell
+5934315	hematopoietic precursor cell	B cell
+7540578	dendritic cell	B cell
+11642954	hematopoietic precursor cell	B cell
+11649519	hematopoietic precursor cell	B cell
+11649571	hematopoietic precursor cell	B cell
+11652340	hematopoietic precursor cell	B cell
+11689974	hematopoietic precursor cell	B cell
+11694047	lymphocyte	B cell
+22300394	leukocyte	B cell
+32615745	hematopoietic precursor cell	B cell
+32643386	myeloid cell	B cell
+32682605	hematopoietic precursor cell	B cell
+32716082	hematopoietic precursor cell	B cell
+32747613	hematopoietic precursor cell	B cell
+32756344	hematopoietic precursor cell	B cell
+33009361	hematopoietic precursor cell	B cell
+33258523	hematopoietic precursor cell	B cell
+33259599	hematopoietic precursor cell	B cell
+33429554	hematopoietic precursor cell	B cell
+33437074	hematopoietic precursor cell	B cell
+33437532	hematopoietic precursor cell	B cell
+33737030	hematopoietic precursor cell	B cell
+39949963	hematopoietic precursor cell	B cell
+39989353	hematopoietic precursor cell	B cell
+40033725	myeloid cell	B cell
+42318386	hematopoietic precursor cell	B cell
+42320762	hematopoietic precursor cell	B cell
+42322959	hematopoietic precursor cell	B cell
+42323026	hematopoietic precursor cell	B cell
+42327771	hematopoietic precursor cell	B cell
+42327843	hematopoietic precursor cell	B cell
+42331380	hematopoietic precursor cell	B cell
+42646978	T cell	B cell
+42856061	lymphocyte	B cell
+42907397	lymphocyte	B cell
+43662034	T cell	B cell
+45460403	animal cell	B cell
+45481318	animal cell	B cell
+45488830	animal cell	B cell
+45506846	animal cell	B cell
+45555504	lymphocyte	B cell
+45610939	leukocyte	B cell
+45939705	lymphocyte	B cell
+45940236	lymphocyte	B cell
+45946344	lymphocyte	B cell
+45956129	lymphocyte	B cell
+45987077	CD4-positive, alpha-beta T cell	B cell
+45989532	CD4-positive, alpha-beta T cell	B cell
+46547510	CD4-positive, alpha-beta T cell	B cell
+47319895	lymphocyte	B cell
+47404262	hematopoietic cell	B cell
+47464637	dendritic cell	B cell
+47466733	myeloid cell	B cell
+47645683	lymphocyte	B cell
+48809361	neoplastic cell	B cell
+49091472	hematopoietic cell	B cell
+49208155	hematopoietic cell	B cell
+50734426	lymphocyte	B cell
+50736585	lymphocyte	B cell
+50747987	lymphocyte	B cell
+50918724	lymphocyte	B cell
+50995272	lymphocyte	B cell
+51129820	lymphocyte	B cell
+51148051	lymphocyte	B cell
+51304816	lymphocyte	B cell
+54035213	lymphocyte	B cell
+54522002	lymphocyte	B cell
+54632697	lymphocyte	B cell
+54754470	lymphocyte	B cell
+64284471	T cell	B cell
+64343128	hematopoietic precursor cell	B cell
+65094174	leukocyte	B cell
+65357638	T cell	B cell
+25738195	endo-epithelial cell	BEST4+ intestinal epithelial cell, human
+6550041	T cell	CD4-positive, alpha-beta T cell
+6551700	T cell	CD4-positive, alpha-beta T cell
+6560694	T cell	CD4-positive, alpha-beta T cell
+6568288	T cell	CD4-positive, alpha-beta T cell
+6570960	T cell	CD4-positive, alpha-beta T cell
+6577584	T cell	CD4-positive, alpha-beta T cell
+6598708	T cell	CD4-positive, alpha-beta T cell
+6602549	T cell	CD4-positive, alpha-beta T cell
+6607165	T cell	CD4-positive, alpha-beta T cell
+6607215	T cell	CD4-positive, alpha-beta T cell
+6607245	T cell	CD4-positive, alpha-beta T cell
+6607255	T cell	CD4-positive, alpha-beta T cell
+6611473	T cell	CD4-positive, alpha-beta T cell
+6611665	T cell	CD4-positive, alpha-beta T cell
+6617372	T cell	CD4-positive, alpha-beta T cell
+6617410	T cell	CD4-positive, alpha-beta T cell
+6617663	T cell	CD4-positive, alpha-beta T cell
+6617697	T cell	CD4-positive, alpha-beta T cell
+6617817	T cell	CD4-positive, alpha-beta T cell
+6617914	T cell	CD4-positive, alpha-beta T cell
+6631950	T cell	CD4-positive, alpha-beta T cell
+6636567	T cell	CD4-positive, alpha-beta T cell
+6641000	T cell	CD4-positive, alpha-beta T cell
+6646603	T cell	CD4-positive, alpha-beta T cell
+10641809	T cell	CD4-positive, alpha-beta T cell
+10653938	T cell	CD4-positive, alpha-beta T cell
+10670818	lymphocyte	CD4-positive, alpha-beta T cell
+10935949	T cell	CD4-positive, alpha-beta T cell
+10937858	T cell	CD4-positive, alpha-beta T cell
+10938787	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+10998253	T cell	CD4-positive, alpha-beta T cell
+11004334	T cell	CD4-positive, alpha-beta T cell
+11020468	T cell	CD4-positive, alpha-beta T cell
+11035401	T cell	CD4-positive, alpha-beta T cell
+11035805	T cell	CD4-positive, alpha-beta T cell
+11038394	T cell	CD4-positive, alpha-beta T cell
+11042174	T cell	CD4-positive, alpha-beta T cell
+11057140	T cell	CD4-positive, alpha-beta T cell
+15038542	hematopoietic precursor cell	CD4-positive, alpha-beta T cell
+15040249	T cell	CD4-positive, alpha-beta T cell
+15115174	T cell	CD4-positive, alpha-beta T cell
+15368619	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+15370018	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+15379721	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+15381132	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+15381354	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+15383276	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+15627611	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+15628054	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+15628998	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+15634323	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+15637789	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+15723954	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+16728387	T cell	CD4-positive, alpha-beta T cell
+16996329	T cell	CD4-positive, alpha-beta T cell
+17487321	T cell	CD4-positive, alpha-beta T cell
+18218194	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+18535983	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+18557205	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+18611887	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+18809416	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+18877186	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+19072945	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+19236106	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+19334256	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+19466498	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+20157096	lymphocyte	CD4-positive, alpha-beta T cell
+23404069	lymphocyte	CD4-positive, alpha-beta T cell
+23429729	hematopoietic precursor cell	CD4-positive, alpha-beta T cell
+23657006	T cell	CD4-positive, alpha-beta T cell
+23661026	T cell	CD4-positive, alpha-beta T cell
+23661316	T cell	CD4-positive, alpha-beta T cell
+23663238	T cell	CD4-positive, alpha-beta T cell
+23664369	T cell	CD4-positive, alpha-beta T cell
+23676702	T cell	CD4-positive, alpha-beta T cell
+23685821	T cell	CD4-positive, alpha-beta T cell
+23689508	T cell	CD4-positive, alpha-beta T cell
+23694600	T cell	CD4-positive, alpha-beta T cell
+23700541	T cell	CD4-positive, alpha-beta T cell
+23711279	T cell	CD4-positive, alpha-beta T cell
+24660844	T cell	CD4-positive, alpha-beta T cell
+24685741	lymphocyte	CD4-positive, alpha-beta T cell
+24712434	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+24714582	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+24719745	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+24726600	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+24749421	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+24784623	leukocyte	CD4-positive, alpha-beta T cell
+24811586	lymphocyte	CD4-positive, alpha-beta T cell
+24881070	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+24892571	leukocyte	CD4-positive, alpha-beta T cell
+24927310	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+25107968	T cell	CD4-positive, alpha-beta T cell
+25109090	T cell	CD4-positive, alpha-beta T cell
+25113021	T cell	CD4-positive, alpha-beta T cell
+25124705	T cell	CD4-positive, alpha-beta T cell
+25126062	T cell	CD4-positive, alpha-beta T cell
+25469549	T cell	CD4-positive, alpha-beta T cell
+25476636	T cell	CD4-positive, alpha-beta T cell
+25478875	T cell	CD4-positive, alpha-beta T cell
+25497766	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+25502031	T cell	CD4-positive, alpha-beta T cell
+25503692	T cell	CD4-positive, alpha-beta T cell
+25504247	T cell	CD4-positive, alpha-beta T cell
+25504525	T cell	CD4-positive, alpha-beta T cell
+25519992	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+25521536	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+25526213	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+25527311	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+25528292	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+25535850	T cell	CD4-positive, alpha-beta T cell
+25536623	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+25539401	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+25540378	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+25550954	T cell	CD4-positive, alpha-beta T cell
+25552091	T cell	CD4-positive, alpha-beta T cell
+25563027	monocyte	CD4-positive, alpha-beta T cell
+25570500	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+25572884	T cell	CD4-positive, alpha-beta T cell
+25573339	T cell	CD4-positive, alpha-beta T cell
+25574665	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+25575186	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+25576862	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+35740989	T cell	CD4-positive, alpha-beta T cell
+35756741	T cell	CD4-positive, alpha-beta T cell
+35756974	lymphocyte	CD4-positive, alpha-beta T cell
+35761643	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+35766579	T cell	CD4-positive, alpha-beta T cell
+35768401	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+37225977	T cell	CD4-positive, alpha-beta T cell
+37226985	T cell	CD4-positive, alpha-beta T cell
+37246127	T cell	CD4-positive, alpha-beta T cell
+37284841	T cell	CD4-positive, alpha-beta T cell
+37394866	T cell	CD4-positive, alpha-beta T cell
+37395787	T cell	CD4-positive, alpha-beta T cell
+37414418	T cell	CD4-positive, alpha-beta T cell
+37464337	T cell	CD4-positive, alpha-beta T cell
+37968188	T cell	CD4-positive, alpha-beta T cell
+38175264	T cell	CD4-positive, alpha-beta T cell
+38239740	T cell	CD4-positive, alpha-beta T cell
+39918587	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+42041360	transit amplifying cell	CD4-positive, alpha-beta T cell
+42464178	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+42818694	lymphocyte	CD4-positive, alpha-beta T cell
+42826387	T cell	CD4-positive, alpha-beta T cell
+42826405	T cell	CD4-positive, alpha-beta T cell
+42826446	T cell	CD4-positive, alpha-beta T cell
+42833573	T cell	CD4-positive, alpha-beta T cell
+42838459	T cell	CD4-positive, alpha-beta T cell
+42838664	T cell	CD4-positive, alpha-beta T cell
+42839356	T cell	CD4-positive, alpha-beta T cell
+42839550	T cell	CD4-positive, alpha-beta T cell
+42852036	T cell	CD4-positive, alpha-beta T cell
+45454149	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+45456437	T cell	CD4-positive, alpha-beta T cell
+45475006	lymphocyte	CD4-positive, alpha-beta T cell
+45518848	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+45519075	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+45529836	T cell	CD4-positive, alpha-beta T cell
+45537286	T cell	CD4-positive, alpha-beta T cell
+45541522	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+45546071	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+45554627	T cell	CD4-positive, alpha-beta T cell
+45570376	T cell	CD4-positive, alpha-beta T cell
+45583427	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+45588187	T cell	CD4-positive, alpha-beta T cell
+45597271	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+45656545	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+45696026	T cell	CD4-positive, alpha-beta T cell
+45716632	T cell	CD4-positive, alpha-beta T cell
+45756692	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+45767850	T cell	CD4-positive, alpha-beta T cell
+45775360	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+45775435	T cell	CD4-positive, alpha-beta T cell
+45927343	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+45948069	lymphocyte	CD4-positive, alpha-beta T cell
+45977730	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+45985040	lymphocyte	CD4-positive, alpha-beta T cell
+45993595	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+45997009	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+45999605	lymphocyte	CD4-positive, alpha-beta T cell
+46072324	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46075494	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46095460	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46121300	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46130498	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46139653	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46150719	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46176870	T cell	CD4-positive, alpha-beta T cell
+46177938	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46177951	T cell	CD4-positive, alpha-beta T cell
+46198740	T cell	CD4-positive, alpha-beta T cell
+46428766	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46458681	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46464020	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46466239	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46479768	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46487833	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46489404	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46505583	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46587656	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46668134	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46699623	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46744692	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46746580	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46753408	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46791752	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46836806	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46865579	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46907905	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+46927402	T cell	CD4-positive, alpha-beta T cell
+47050636	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+47124639	T cell	CD4-positive, alpha-beta T cell
+47156855	T cell	CD4-positive, alpha-beta T cell
+47186997	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+47227638	T cell	CD4-positive, alpha-beta T cell
+47230987	T cell	CD4-positive, alpha-beta T cell
+47275659	T cell	CD4-positive, alpha-beta T cell
+47277090	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+47371542	T cell	CD4-positive, alpha-beta T cell
+47396397	lymphocyte	CD4-positive, alpha-beta T cell
+47408871	T cell	CD4-positive, alpha-beta T cell
+47750733	T cell	CD4-positive, alpha-beta T cell
+47781098	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+47810888	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+47813616	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+47825182	animal cell	CD4-positive, alpha-beta T cell
+47831335	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+47834815	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+47846640	T cell	CD4-positive, alpha-beta T cell
+47929037	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+47981465	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+48063524	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+48064378	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+48109355	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+48128707	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+48131912	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+48807095	T cell	CD4-positive, alpha-beta T cell
+48815218	T cell	CD4-positive, alpha-beta T cell
+48840742	T cell	CD4-positive, alpha-beta T cell
+48845876	T cell	CD4-positive, alpha-beta T cell
+48904322	T cell	CD4-positive, alpha-beta T cell
+48918792	T cell	CD4-positive, alpha-beta T cell
+48946461	T cell	CD4-positive, alpha-beta T cell
+49130246	T cell	CD4-positive, alpha-beta T cell
+49164113	hematopoietic cell	CD4-positive, alpha-beta T cell
+49238767	hematopoietic cell	CD4-positive, alpha-beta T cell
+49347751	T cell	CD4-positive, alpha-beta T cell
+49431974	hematopoietic cell	CD4-positive, alpha-beta T cell
+49467120	T cell	CD4-positive, alpha-beta T cell
+49491148	T cell	CD4-positive, alpha-beta T cell
+49498769	hematopoietic cell	CD4-positive, alpha-beta T cell
+49516267	T cell	CD4-positive, alpha-beta T cell
+49527798	T cell	CD4-positive, alpha-beta T cell
+49557102	T cell	CD4-positive, alpha-beta T cell
+49598764	T cell	CD4-positive, alpha-beta T cell
+49600825	T cell	CD4-positive, alpha-beta T cell
+49713072	T cell	CD4-positive, alpha-beta T cell
+49719807	T cell	CD4-positive, alpha-beta T cell
+49761242	T cell	CD4-positive, alpha-beta T cell
+50353870	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+50379171	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+50397378	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+50794374	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+50937847	T cell	CD4-positive, alpha-beta T cell
+50939789	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+50978211	T cell	CD4-positive, alpha-beta T cell
+50978708	T cell	CD4-positive, alpha-beta T cell
+51100768	T cell	CD4-positive, alpha-beta T cell
+51148238	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+51158160	T cell	CD4-positive, alpha-beta T cell
+51184933	T cell	CD4-positive, alpha-beta T cell
+51193463	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+51199850	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+51229699	T cell	CD4-positive, alpha-beta T cell
+51249718	myeloid cell	CD4-positive, alpha-beta T cell
+51255381	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+51269889	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+51303946	myeloid cell	CD4-positive, alpha-beta T cell
+51343170	myeloid cell	CD4-positive, alpha-beta T cell
+51362113	lymphocyte	CD4-positive, alpha-beta T cell
+51366367	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+51369770	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+51372536	lymphocyte	CD4-positive, alpha-beta T cell
+51959283	lymphocyte	CD4-positive, alpha-beta T cell
+52103307	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+52322930	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+52424010	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+52648998	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+52664306	lymphocyte	CD4-positive, alpha-beta T cell
+52815928	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+52922203	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+52977643	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+53092549	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+53735387	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+53898951	animal cell	CD4-positive, alpha-beta T cell
+54051344	lymphocyte	CD4-positive, alpha-beta T cell
+54317402	T cell	CD4-positive, alpha-beta T cell
+54324133	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+54324433	T cell	CD4-positive, alpha-beta T cell
+54327044	T cell	CD4-positive, alpha-beta T cell
+54337236	T cell	CD4-positive, alpha-beta T cell
+54338972	T cell	CD4-positive, alpha-beta T cell
+54345480	fibroblast	CD4-positive, alpha-beta T cell
+54361443	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+54366010	T cell	CD4-positive, alpha-beta T cell
+54472107	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+54474144	hematopoietic precursor cell	CD4-positive, alpha-beta T cell
+54474794	T cell	CD4-positive, alpha-beta T cell
+54478601	exocrine cell	CD4-positive, alpha-beta T cell
+54588735	T cell	CD4-positive, alpha-beta T cell
+54598893	lymphocyte	CD4-positive, alpha-beta T cell
+54599818	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+54603662	T cell	CD4-positive, alpha-beta T cell
+54639237	T cell	CD4-positive, alpha-beta T cell
+54640244	T cell	CD4-positive, alpha-beta T cell
+54642853	T cell	CD4-positive, alpha-beta T cell
+54673254	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+54676457	T cell	CD4-positive, alpha-beta T cell
+54732379	T cell	CD4-positive, alpha-beta T cell
+54732750	T cell	CD4-positive, alpha-beta T cell
+54735025	T cell	CD4-positive, alpha-beta T cell
+54737075	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+54900639	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+63586656	lymphocyte	CD4-positive, alpha-beta T cell
+63620230	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+63626862	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+63639317	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+63647307	lymphocyte	CD4-positive, alpha-beta T cell
+63695069	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+63906928	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+63914958	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+63920855	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+63923582	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+63925988	lymphocyte	CD4-positive, alpha-beta T cell
+63928898	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+63969436	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+64152389	leukocyte	CD4-positive, alpha-beta T cell
+64155006	T cell	CD4-positive, alpha-beta T cell
+64194874	leukocyte	CD4-positive, alpha-beta T cell
+64211889	T cell	CD4-positive, alpha-beta T cell
+64245709	leukocyte	CD4-positive, alpha-beta T cell
+64260113	T cell	CD4-positive, alpha-beta T cell
+64273948	T cell	CD4-positive, alpha-beta T cell
+64290563	T cell	CD4-positive, alpha-beta T cell
+64294582	T cell	CD4-positive, alpha-beta T cell
+64295264	leukocyte	CD4-positive, alpha-beta T cell
+64335039	T cell	CD4-positive, alpha-beta T cell
+64781485	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+64782830	T cell	CD4-positive, alpha-beta T cell
+64785770	T cell	CD4-positive, alpha-beta T cell
+64793454	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+64806614	T cell	CD4-positive, alpha-beta T cell
+64818898	CD8-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell
+65089251	leukocyte	CD4-positive, alpha-beta T cell
+65122384	T cell	CD4-positive, alpha-beta T cell
+65784951	T cell	CD4-positive, alpha-beta T cell
+10714846	T cell	CD8-positive, alpha-beta T cell
+10720254	lymphocyte	CD8-positive, alpha-beta T cell
+10722037	T cell	CD8-positive, alpha-beta T cell
+10725164	T cell	CD8-positive, alpha-beta T cell
+10764472	T cell	CD8-positive, alpha-beta T cell
+10776493	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+10777469	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+10780008	animal cell	CD8-positive, alpha-beta T cell
+10942406	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+15370400	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+16761040	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+17752898	lymphocyte	CD8-positive, alpha-beta T cell
+17934551	T cell	CD8-positive, alpha-beta T cell
+18602231	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+18753639	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+18789185	T cell	CD8-positive, alpha-beta T cell
+18906811	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+19124005	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+19382031	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+19390633	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+19392457	T cell	CD8-positive, alpha-beta T cell
+19452480	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+19461560	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+19519516	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+23664611	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+23666443	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+23675369	T cell	CD8-positive, alpha-beta T cell
+23712342	T cell	CD8-positive, alpha-beta T cell
+23720054	T cell	CD8-positive, alpha-beta T cell
+24005334	T cell	CD8-positive, alpha-beta T cell
+24030173	T cell	CD8-positive, alpha-beta T cell
+24655191	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24656649	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24668773	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24684628	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24691370	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24691999	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24695433	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24699082	T cell	CD8-positive, alpha-beta T cell
+24708737	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24714249	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24715680	T cell	CD8-positive, alpha-beta T cell
+24719015	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24720446	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24722520	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24724777	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24725777	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24738875	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24739164	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24748317	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24756943	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24764223	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24764402	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24772335	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24777998	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24787903	T cell	CD8-positive, alpha-beta T cell
+24790890	T cell	CD8-positive, alpha-beta T cell
+24791130	T cell	CD8-positive, alpha-beta T cell
+24797674	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24798800	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24802148	T cell	CD8-positive, alpha-beta T cell
+24819687	T cell	CD8-positive, alpha-beta T cell
+24824585	leukocyte	CD8-positive, alpha-beta T cell
+24832439	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24837543	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24841304	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24843108	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24845124	T cell	CD8-positive, alpha-beta T cell
+24854575	T cell	CD8-positive, alpha-beta T cell
+24856504	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24856676	T cell	CD8-positive, alpha-beta T cell
+24859246	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24872603	lymphocyte	CD8-positive, alpha-beta T cell
+24883243	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24889008	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24892464	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24894035	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24904549	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24913947	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+24914283	T cell	CD8-positive, alpha-beta T cell
+24919022	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+25113031	B cell	CD8-positive, alpha-beta T cell
+25131605	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+25474643	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+25494381	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+25495993	T cell	CD8-positive, alpha-beta T cell
+25496587	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+25505603	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+25508436	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+25512247	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+25516523	T cell	CD8-positive, alpha-beta T cell
+25528362	T cell	CD8-positive, alpha-beta T cell
+25556388	T cell	CD8-positive, alpha-beta T cell
+25575791	T cell	CD8-positive, alpha-beta T cell
+25576767	T cell	CD8-positive, alpha-beta T cell
+33253609	T cell	CD8-positive, alpha-beta T cell
+33577298	T cell	CD8-positive, alpha-beta T cell
+35768592	lymphocyte	CD8-positive, alpha-beta T cell
+37287468	T cell	CD8-positive, alpha-beta T cell
+37993338	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+40011174	T cell	CD8-positive, alpha-beta T cell
+40033684	non-terminally differentiated cell	CD8-positive, alpha-beta T cell
+40041547	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+42132984	T cell	CD8-positive, alpha-beta T cell
+42134654	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+42158693	T cell	CD8-positive, alpha-beta T cell
+42458352	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+42534140	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+45490024	lymphocyte	CD8-positive, alpha-beta T cell
+45504762	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+45509494	T cell	CD8-positive, alpha-beta T cell
+45527312	T cell	CD8-positive, alpha-beta T cell
+45536940	lymphocyte	CD8-positive, alpha-beta T cell
+45582486	T cell	CD8-positive, alpha-beta T cell
+45592821	T cell	CD8-positive, alpha-beta T cell
+45593235	T cell	CD8-positive, alpha-beta T cell
+45638897	T cell	CD8-positive, alpha-beta T cell
+45666414	lymphocyte	CD8-positive, alpha-beta T cell
+45725094	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+45742587	animal cell	CD8-positive, alpha-beta T cell
+45746605	animal cell	CD8-positive, alpha-beta T cell
+45747740	animal cell	CD8-positive, alpha-beta T cell
+45761208	T cell	CD8-positive, alpha-beta T cell
+45771436	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+45920854	T cell	CD8-positive, alpha-beta T cell
+45933488	T cell	CD8-positive, alpha-beta T cell
+45972224	T cell	CD8-positive, alpha-beta T cell
+45973679	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+45975019	T cell	CD8-positive, alpha-beta T cell
+45975345	T cell	CD8-positive, alpha-beta T cell
+45975923	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+45983270	T cell	CD8-positive, alpha-beta T cell
+45989299	T cell	CD8-positive, alpha-beta T cell
+45999324	T cell	CD8-positive, alpha-beta T cell
+46008141	T cell	CD8-positive, alpha-beta T cell
+46010055	T cell	CD8-positive, alpha-beta T cell
+46010250	T cell	CD8-positive, alpha-beta T cell
+46033280	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46038069	lymphocyte	CD8-positive, alpha-beta T cell
+46042932	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46057669	transit amplifying cell	CD8-positive, alpha-beta T cell
+46105677	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46163000	T cell	CD8-positive, alpha-beta T cell
+46204356	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46209390	lymphocyte	CD8-positive, alpha-beta T cell
+46249542	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46253513	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46403377	T cell	CD8-positive, alpha-beta T cell
+46432220	lymphocyte	CD8-positive, alpha-beta T cell
+46435712	T cell	CD8-positive, alpha-beta T cell
+46458174	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46477207	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46505203	lymphocyte	CD8-positive, alpha-beta T cell
+46557971	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46558606	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46560720	lymphocyte	CD8-positive, alpha-beta T cell
+46571574	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46574946	T cell	CD8-positive, alpha-beta T cell
+46652194	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46667239	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46678253	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46729516	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46729713	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46836374	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46862235	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46911139	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46946989	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+46994211	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+47002420	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+47029552	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+47164510	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+47192341	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+47200435	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+47213548	T cell	CD8-positive, alpha-beta T cell
+47357852	lymphocyte	CD8-positive, alpha-beta T cell
+47375693	lymphocyte	CD8-positive, alpha-beta T cell
+47398842	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+47407893	T cell	CD8-positive, alpha-beta T cell
+47420704	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+47454730	T cell	CD8-positive, alpha-beta T cell
+47456426	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+47719368	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+47721181	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+47737631	T cell	CD8-positive, alpha-beta T cell
+47737842	lymphocyte	CD8-positive, alpha-beta T cell
+47743292	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+47750829	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+47770817	T cell	CD8-positive, alpha-beta T cell
+47780346	animal cell	CD8-positive, alpha-beta T cell
+47808067	T cell	CD8-positive, alpha-beta T cell
+48047970	T cell	CD8-positive, alpha-beta T cell
+48114254	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+48126103	T cell	CD8-positive, alpha-beta T cell
+48807130	T cell	CD8-positive, alpha-beta T cell
+48810108	T cell	CD8-positive, alpha-beta T cell
+48810209	T cell	CD8-positive, alpha-beta T cell
+48830204	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+48869884	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+48871470	T cell	CD8-positive, alpha-beta T cell
+48885620	T cell	CD8-positive, alpha-beta T cell
+48893911	T cell	CD8-positive, alpha-beta T cell
+48902104	T cell	CD8-positive, alpha-beta T cell
+48948237	T cell	CD8-positive, alpha-beta T cell
+49144626	T cell	CD8-positive, alpha-beta T cell
+49205608	T cell	CD8-positive, alpha-beta T cell
+49276012	T cell	CD8-positive, alpha-beta T cell
+49276452	T cell	CD8-positive, alpha-beta T cell
+49405873	T cell	CD8-positive, alpha-beta T cell
+49477427	T cell	CD8-positive, alpha-beta T cell
+49499304	hematopoietic cell	CD8-positive, alpha-beta T cell
+49581774	T cell	CD8-positive, alpha-beta T cell
+50370746	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+50387458	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+50387575	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+50807828	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+50841479	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+50863623	T cell	CD8-positive, alpha-beta T cell
+50965205	T cell	CD8-positive, alpha-beta T cell
+51112282	T cell	CD8-positive, alpha-beta T cell
+51144505	T cell	CD8-positive, alpha-beta T cell
+51148121	lymphocyte	CD8-positive, alpha-beta T cell
+51181534	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+51209739	animal cell	CD8-positive, alpha-beta T cell
+51282628	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+51305091	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+51325668	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+52181885	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+52194316	T cell	CD8-positive, alpha-beta T cell
+52500889	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+52904370	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+53695742	T cell	CD8-positive, alpha-beta T cell
+53718974	myeloid cell	CD8-positive, alpha-beta T cell
+53817646	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+53861207	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+54000313	T cell	CD8-positive, alpha-beta T cell
+54323570	T cell	CD8-positive, alpha-beta T cell
+54336431	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+54339658	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+54346469	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+54367548	T cell	CD8-positive, alpha-beta T cell
+54460491	T cell	CD8-positive, alpha-beta T cell
+54469296	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+54520201	T cell	CD8-positive, alpha-beta T cell
+54529310	T cell	CD8-positive, alpha-beta T cell
+54600541	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+54602525	T cell	CD8-positive, alpha-beta T cell
+54609401	T cell	CD8-positive, alpha-beta T cell
+54632113	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+54634973	lymphocyte	CD8-positive, alpha-beta T cell
+54710655	T cell	CD8-positive, alpha-beta T cell
+54726835	T cell	CD8-positive, alpha-beta T cell
+54735746	T cell	CD8-positive, alpha-beta T cell
+54752348	T cell	CD8-positive, alpha-beta T cell
+54753346	T cell	CD8-positive, alpha-beta T cell
+54754288	hematopoietic precursor cell	CD8-positive, alpha-beta T cell
+56237425	T cell	CD8-positive, alpha-beta T cell
+56251719	T cell	CD8-positive, alpha-beta T cell
+56290041	T cell	CD8-positive, alpha-beta T cell
+56392600	T cell	CD8-positive, alpha-beta T cell
+56554129	T cell	CD8-positive, alpha-beta T cell
+56806303	T cell	CD8-positive, alpha-beta T cell
+56812824	T cell	CD8-positive, alpha-beta T cell
+57265171	T cell	CD8-positive, alpha-beta T cell
+57406749	T cell	CD8-positive, alpha-beta T cell
+57412657	T cell	CD8-positive, alpha-beta T cell
+57416844	T cell	CD8-positive, alpha-beta T cell
+57482802	T cell	CD8-positive, alpha-beta T cell
+57608921	lymphocyte	CD8-positive, alpha-beta T cell
+57636688	T cell	CD8-positive, alpha-beta T cell
+57649929	T cell	CD8-positive, alpha-beta T cell
+57694389	T cell	CD8-positive, alpha-beta T cell
+63613723	lymphocyte	CD8-positive, alpha-beta T cell
+63624881	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+63634779	lymphocyte	CD8-positive, alpha-beta T cell
+63652307	lymphocyte	CD8-positive, alpha-beta T cell
+63724422	lymphocyte	CD8-positive, alpha-beta T cell
+63727135	myeloid cell	CD8-positive, alpha-beta T cell
+63857713	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+63944788	leukocyte	CD8-positive, alpha-beta T cell
+63964361	T cell	CD8-positive, alpha-beta T cell
+63971106	T cell	CD8-positive, alpha-beta T cell
+64147754	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+64183504	T cell	CD8-positive, alpha-beta T cell
+64205639	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+64220315	T cell	CD8-positive, alpha-beta T cell
+64260740	leukocyte	CD8-positive, alpha-beta T cell
+64266608	T cell	CD8-positive, alpha-beta T cell
+64286375	T cell	CD8-positive, alpha-beta T cell
+64308303	T cell	CD8-positive, alpha-beta T cell
+64335608	T cell	CD8-positive, alpha-beta T cell
+64340711	lymphocyte	CD8-positive, alpha-beta T cell
+64363518	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+64369253	T cell	CD8-positive, alpha-beta T cell
+64372146	T cell	CD8-positive, alpha-beta T cell
+64472111	T cell	CD8-positive, alpha-beta T cell
+64492311	T cell	CD8-positive, alpha-beta T cell
+64781648	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+64824525	CD4-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell
+65079024	B cell	CD8-positive, alpha-beta T cell
+65098547	B cell	CD8-positive, alpha-beta T cell
+51416871	glial cell	CNS neuron (sensu Vertebrata)
+54656331	muscle cell	CNS neuron (sensu Vertebrata)
+57701992	interneuron	CNS neuron (sensu Vertebrata)
+57709608	interneuron	CNS neuron (sensu Vertebrata)
+57720492	interneuron	CNS neuron (sensu Vertebrata)
+57729546	interneuron	CNS neuron (sensu Vertebrata)
+57742202	interneuron	CNS neuron (sensu Vertebrata)
+57746027	interneuron	CNS neuron (sensu Vertebrata)
+58142913	glial cell	CNS neuron (sensu Vertebrata)
+58148888	neuron associated cell	CNS neuron (sensu Vertebrata)
+58152136	neuron associated cell	CNS neuron (sensu Vertebrata)
+58156519	neuron associated cell	CNS neuron (sensu Vertebrata)
+58207820	glial cell	CNS neuron (sensu Vertebrata)
+58256709	glial cell	CNS neuron (sensu Vertebrata)
+58275851	neuron associated cell	CNS neuron (sensu Vertebrata)
+58291788	neuron associated cell	CNS neuron (sensu Vertebrata)
+58296111	neuron associated cell	CNS neuron (sensu Vertebrata)
+58327015	neuron associated cell	CNS neuron (sensu Vertebrata)
+58336338	neuron associated cell	CNS neuron (sensu Vertebrata)
+58394709	glial cell	CNS neuron (sensu Vertebrata)
+58485701	neuron associated cell	CNS neuron (sensu Vertebrata)
+58513425	neuron associated cell	CNS neuron (sensu Vertebrata)
+58519473	neuron associated cell	CNS neuron (sensu Vertebrata)
+58522039	glial cell	CNS neuron (sensu Vertebrata)
+58526272	glial cell	CNS neuron (sensu Vertebrata)
+58546557	glial cell	CNS neuron (sensu Vertebrata)
+58582667	glial cell	CNS neuron (sensu Vertebrata)
+58624334	neuron associated cell	CNS neuron (sensu Vertebrata)
+58630307	glial cell	CNS neuron (sensu Vertebrata)
+58693272	neuron associated cell	CNS neuron (sensu Vertebrata)
+58718313	neuron associated cell	CNS neuron (sensu Vertebrata)
+58721626	glial cell	CNS neuron (sensu Vertebrata)
+58733226	neuron associated cell	CNS neuron (sensu Vertebrata)
+58784178	neuron associated cell	CNS neuron (sensu Vertebrata)
+58810415	glial cell	CNS neuron (sensu Vertebrata)
+58847723	glial cell	CNS neuron (sensu Vertebrata)
+58862233	glial cell	CNS neuron (sensu Vertebrata)
+58877553	glial cell	CNS neuron (sensu Vertebrata)
+58903272	glial cell	CNS neuron (sensu Vertebrata)
+59029047	glial cell	CNS neuron (sensu Vertebrata)
+59059130	neuron associated cell	CNS neuron (sensu Vertebrata)
+59090802	glial cell	CNS neuron (sensu Vertebrata)
+59164471	neuron associated cell	CNS neuron (sensu Vertebrata)
+59174686	glial cell	CNS neuron (sensu Vertebrata)
+105516	interneuron	GABAergic neuron
+226171	interneuron	GABAergic neuron
+844236	interneuron	GABAergic neuron
+25448593	interneuron	GABAergic neuron
+25449251	interneuron	GABAergic neuron
+25454433	interneuron	GABAergic neuron
+25455986	interneuron	GABAergic neuron
+51452019	progenitor cell	GABAergic neuron
+51619162	progenitor cell	GABAergic neuron
+51619227	progenitor cell	GABAergic neuron
+51626996	CNS neuron (sensu Vertebrata)	GABAergic neuron
+51713568	progenitor cell	GABAergic neuron
+51792807	progenitor cell	GABAergic neuron
+59356302	glial cell	GABAergic neuron
+59369444	CNS neuron (sensu Vertebrata)	GABAergic neuron
+59585590	interneuron	GABAergic neuron
+59703158	interneuron	GABAergic neuron
+60005275	glutamatergic neuron	GABAergic neuron
+60014485	neuron associated cell	GABAergic neuron
+60075566	glial cell	GABAergic neuron
+60235814	CNS neuron (sensu Vertebrata)	GABAergic neuron
+60275845	interneuron	GABAergic neuron
+60355100	CNS neuron (sensu Vertebrata)	GABAergic neuron
+60361118	interneuron	GABAergic neuron
+60504728	CNS neuron (sensu Vertebrata)	GABAergic neuron
+60539084	CNS neuron (sensu Vertebrata)	GABAergic neuron
+60598652	interneuron	GABAergic neuron
+60625953	CNS neuron (sensu Vertebrata)	GABAergic neuron
+60681256	CNS neuron (sensu Vertebrata)	GABAergic neuron
+60927159	CNS neuron (sensu Vertebrata)	GABAergic neuron
+64899749	interneuron	GABAergic neuron
+64940383	interneuron	GABAergic neuron
+5812700	lymphocyte	T cell
+5838894	CD4-positive, alpha-beta T cell	T cell
+5860046	CD8-positive, alpha-beta T cell	T cell
+6547895	CD4-positive, alpha-beta T cell	T cell
+6548567	CD4-positive, alpha-beta T cell	T cell
+6549484	CD4-positive, alpha-beta T cell	T cell
+6576718	CD4-positive, alpha-beta T cell	T cell
+6598484	CD4-positive, alpha-beta T cell	T cell
+6602559	CD4-positive, alpha-beta T cell	T cell
+6610743	CD4-positive, alpha-beta T cell	T cell
+6632800	CD4-positive, alpha-beta T cell	T cell
+6636485	CD4-positive, alpha-beta T cell	T cell
+6645512	CD4-positive, alpha-beta T cell	T cell
+7485052	transit amplifying cell	T cell
+7486469	transit amplifying cell	T cell
+7489906	CD4-positive, alpha-beta T cell	T cell
+7498339	CD4-positive, alpha-beta T cell	T cell
+7500990	transit amplifying cell	T cell
+7530394	transit amplifying cell	T cell
+7534720	transit amplifying cell	T cell
+7541015	transit amplifying cell	T cell
+10389599	CD4-positive, alpha-beta T cell	T cell
+10441341	lymphocyte	T cell
+10475575	lymphocyte	T cell
+10614714	lymphocyte	T cell
+10680378	CD8-positive, alpha-beta T cell	T cell
+10683449	CD8-positive, alpha-beta T cell	T cell
+10693492	CD8-positive, alpha-beta T cell	T cell
+10694124	CD8-positive, alpha-beta T cell	T cell
+10710726	CD8-positive, alpha-beta T cell	T cell
+10711923	CD8-positive, alpha-beta T cell	T cell
+10754793	CD8-positive, alpha-beta T cell	T cell
+10763081	CD8-positive, alpha-beta T cell	T cell
+10850031	CD8-positive, alpha-beta T cell	T cell
+10850064	CD8-positive, alpha-beta T cell	T cell
+10851107	CD8-positive, alpha-beta T cell	T cell
+10860919	lymphocyte	T cell
+10861962	lymphocyte	T cell
+10863431	lymphocyte	T cell
+10865441	lymphocyte	T cell
+10884568	lymphocyte	T cell
+10905694	CD4-positive, alpha-beta T cell	T cell
+10906431	CD4-positive, alpha-beta T cell	T cell
+10937864	CD4-positive, alpha-beta T cell	T cell
+10940217	CD4-positive, alpha-beta T cell	T cell
+10951082	CD4-positive, alpha-beta T cell	T cell
+11000074	CD4-positive, alpha-beta T cell	T cell
+11007663	CD4-positive, alpha-beta T cell	T cell
+11013278	CD4-positive, alpha-beta T cell	T cell
+11020715	CD4-positive, alpha-beta T cell	T cell
+11023505	CD4-positive, alpha-beta T cell	T cell
+11032013	CD4-positive, alpha-beta T cell	T cell
+11062009	CD4-positive, alpha-beta T cell	T cell
+11062671	CD4-positive, alpha-beta T cell	T cell
+11938361	lymphocyte	T cell
+15113759	transit amplifying cell	T cell
+15396117	CD4-positive, alpha-beta T cell	T cell
+15638236	CD4-positive, alpha-beta T cell	T cell
+15720565	CD8-positive, alpha-beta T cell	T cell
+15844880	leukocyte	T cell
+15860853	CD8-positive, alpha-beta T cell	T cell
+18560261	CD4-positive, alpha-beta T cell	T cell
+18655139	CD4-positive, alpha-beta T cell	T cell
+18836789	CD8-positive, alpha-beta T cell	T cell
+18894426	dendritic cell	T cell
+18912414	CD8-positive, alpha-beta T cell	T cell
+18945741	CD4-positive, alpha-beta T cell	T cell
+19026273	CD4-positive, alpha-beta T cell	T cell
+19027272	CD4-positive, alpha-beta T cell	T cell
+19158885	CD4-positive, alpha-beta T cell	T cell
+19213070	animal cell	T cell
+19298012	CD8-positive, alpha-beta T cell	T cell
+19330070	CD4-positive, alpha-beta T cell	T cell
+19414089	CD8-positive, alpha-beta T cell	T cell
+19498693	CD8-positive, alpha-beta T cell	T cell
+19592928	CD4-positive, alpha-beta T cell	T cell
+19612486	CD8-positive, alpha-beta T cell	T cell
+21696466	lymphocyte	T cell
+23662729	transit amplifying cell	T cell
+23662915	lymphocyte	T cell
+23664556	endothelial cell	T cell
+23664849	dendritic cell	T cell
+23665226	lymphocyte	T cell
+23703731	CD4-positive, alpha-beta T cell	T cell
+23730175	CD8-positive, alpha-beta T cell	T cell
+23808961	dendritic cell	T cell
+23992415	CD4-positive, alpha-beta T cell	T cell
+23999733	CD4-positive, alpha-beta T cell	T cell
+23999844	CD4-positive, alpha-beta T cell	T cell
+24434909	interneuron	T cell
+24435828	glial cell	T cell
+24436898	glial cell	T cell
+24447266	glial cell	T cell
+24665960	CD8-positive, alpha-beta T cell	T cell
+24675028	lymphocyte	T cell
+24714897	CD4-positive, alpha-beta T cell	T cell
+24721318	CD4-positive, alpha-beta T cell	T cell
+24741724	CD4-positive, alpha-beta T cell	T cell
+24742397	CD4-positive, alpha-beta T cell	T cell
+24743749	CD4-positive, alpha-beta T cell	T cell
+24751376	CD8-positive, alpha-beta T cell	T cell
+24795678	CD8-positive, alpha-beta T cell	T cell
+24815005	leukocyte	T cell
+24831170	CD4-positive, alpha-beta T cell	T cell
+24838159	lymphocyte	T cell
+24840051	CD4-positive, alpha-beta T cell	T cell
+24847288	CD8-positive, alpha-beta T cell	T cell
+24881692	CD8-positive, alpha-beta T cell	T cell
+24892634	leukocyte	T cell
+24893255	CD4-positive, alpha-beta T cell	T cell
+24933006	CD4-positive, alpha-beta T cell	T cell
+25125919	CD4-positive, alpha-beta T cell	T cell
+25469618	CD4-positive, alpha-beta T cell	T cell
+25472740	CD8-positive, alpha-beta T cell	T cell
+25473442	CD4-positive, alpha-beta T cell	T cell
+25485098	CD4-positive, alpha-beta T cell	T cell
+25486064	CD4-positive, alpha-beta T cell	T cell
+25486870	CD8-positive, alpha-beta T cell	T cell
+25489745	CD4-positive, alpha-beta T cell	T cell
+25492139	CD8-positive, alpha-beta T cell	T cell
+25492425	CD4-positive, alpha-beta T cell	T cell
+25494030	CD8-positive, alpha-beta T cell	T cell
+25497238	CD8-positive, alpha-beta T cell	T cell
+25505636	CD4-positive, alpha-beta T cell	T cell
+25508165	lymphocyte	T cell
+25510947	CD8-positive, alpha-beta T cell	T cell
+25511940	CD4-positive, alpha-beta T cell	T cell
+25514504	CD4-positive, alpha-beta T cell	T cell
+25531089	CD4-positive, alpha-beta T cell	T cell
+25531472	CD4-positive, alpha-beta T cell	T cell
+25533027	CD4-positive, alpha-beta T cell	T cell
+25535493	CD4-positive, alpha-beta T cell	T cell
+25536025	CD8-positive, alpha-beta T cell	T cell
+25538051	CD4-positive, alpha-beta T cell	T cell
+25542374	CD4-positive, alpha-beta T cell	T cell
+25542394	CD8-positive, alpha-beta T cell	T cell
+25542687	CD4-positive, alpha-beta T cell	T cell
+25545053	CD4-positive, alpha-beta T cell	T cell
+25547733	CD4-positive, alpha-beta T cell	T cell
+25550254	CD4-positive, alpha-beta T cell	T cell
+25552883	CD4-positive, alpha-beta T cell	T cell
+25554323	CD4-positive, alpha-beta T cell	T cell
+25557143	CD4-positive, alpha-beta T cell	T cell
+25560073	CD4-positive, alpha-beta T cell	T cell
+25560515	CD8-positive, alpha-beta T cell	T cell
+25562450	CD8-positive, alpha-beta T cell	T cell
+25563007	CD8-positive, alpha-beta T cell	T cell
+25564537	CD4-positive, alpha-beta T cell	T cell
+25566948	CD4-positive, alpha-beta T cell	T cell
+25568552	CD4-positive, alpha-beta T cell	T cell
+25574410	CD4-positive, alpha-beta T cell	T cell
+25574777	CD4-positive, alpha-beta T cell	T cell
+25575722	CD8-positive, alpha-beta T cell	T cell
+25681783	CD4-positive, alpha-beta T cell	T cell
+25824102	CD8-positive, alpha-beta T cell	T cell
+25834775	CD8-positive, alpha-beta T cell	T cell
+25846508	CD4-positive, alpha-beta T cell	T cell
+32846473	macrophage	T cell
+32852793	lymphocyte	T cell
+33089178	lymphocyte	T cell
+33432110	CD4-positive, alpha-beta T cell	T cell
+33480686	CD8-positive, alpha-beta T cell	T cell
+35579374	CD4-positive, alpha-beta T cell	T cell
+35756655	CD8-positive, alpha-beta T cell	T cell
+35759748	CD4-positive, alpha-beta T cell	T cell
+35760384	CD4-positive, alpha-beta T cell	T cell
+37162084	CD4-positive, alpha-beta T cell	T cell
+37243483	CD4-positive, alpha-beta T cell	T cell
+37289225	CD4-positive, alpha-beta T cell	T cell
+37953824	CD4-positive, alpha-beta T cell	T cell
+38757260	CD4-positive, alpha-beta T cell	T cell
+39294013	CD4-positive, alpha-beta T cell	T cell
+39750719	lymphocyte	T cell
+39948844	CD4-positive, alpha-beta T cell	T cell
+39994061	CD8-positive, alpha-beta T cell	T cell
+42103628	hematopoietic precursor cell	T cell
+42107331	hematopoietic precursor cell	T cell
+42117229	hematopoietic precursor cell	T cell
+42163508	hematopoietic precursor cell	T cell
+42252600	lymphocyte	T cell
+42461018	CD8-positive, alpha-beta T cell	T cell
+42540349	lymphocyte	T cell
+42598420	hematopoietic precursor cell	T cell
+42598867	hematopoietic precursor cell	T cell
+42606882	hematopoietic precursor cell	T cell
+42645433	hematopoietic precursor cell	T cell
+42648981	hematopoietic precursor cell	T cell
+42820603	CD4-positive, alpha-beta T cell	T cell
+42825876	CD4-positive, alpha-beta T cell	T cell
+42826433	CD4-positive, alpha-beta T cell	T cell
+42827334	CD4-positive, alpha-beta T cell	T cell
+42827414	CD4-positive, alpha-beta T cell	T cell
+42838283	CD4-positive, alpha-beta T cell	T cell
+42839783	CD4-positive, alpha-beta T cell	T cell
+42840771	CD4-positive, alpha-beta T cell	T cell
+42899572	CD8-positive, alpha-beta T cell	T cell
+43163093	leukocyte	T cell
+45465251	dendritic cell	T cell
+45474650	CD4-positive, alpha-beta T cell	T cell
+45474945	CD8-positive, alpha-beta T cell	T cell
+45477166	CD4-positive, alpha-beta T cell	T cell
+45489800	CD4-positive, alpha-beta T cell	T cell
+45495581	CD8-positive, alpha-beta T cell	T cell
+45567472	CD8-positive, alpha-beta T cell	T cell
+45569075	CD4-positive, alpha-beta T cell	T cell
+45577164	CD4-positive, alpha-beta T cell	T cell
+45578586	CD8-positive, alpha-beta T cell	T cell
+45586063	CD8-positive, alpha-beta T cell	T cell
+45587854	CD8-positive, alpha-beta T cell	T cell
+45592677	CD8-positive, alpha-beta T cell	T cell
+45606635	CD8-positive, alpha-beta T cell	T cell
+45608336	CD8-positive, alpha-beta T cell	T cell
+45636573	CD8-positive, alpha-beta T cell	T cell
+45679988	CD8-positive, alpha-beta T cell	T cell
+45681529	CD8-positive, alpha-beta T cell	T cell
+45685979	CD4-positive, alpha-beta T cell	T cell
+45743829	CD8-positive, alpha-beta T cell	T cell
+45755423	CD8-positive, alpha-beta T cell	T cell
+45756266	lymphocyte	T cell
+45763414	CD4-positive, alpha-beta T cell	T cell
+45814724	transit amplifying cell	T cell
+45926414	CD8-positive, alpha-beta T cell	T cell
+45940377	CD8-positive, alpha-beta T cell	T cell
+45972488	CD8-positive, alpha-beta T cell	T cell
+45973396	CD8-positive, alpha-beta T cell	T cell
+45989107	CD8-positive, alpha-beta T cell	T cell
+46045078	CD4-positive, alpha-beta T cell	T cell
+46071545	lymphocyte	T cell
+46101065	CD8-positive, alpha-beta T cell	T cell
+46120156	CD4-positive, alpha-beta T cell	T cell
+46144606	CD4-positive, alpha-beta T cell	T cell
+46177514	CD8-positive, alpha-beta T cell	T cell
+46196350	CD4-positive, alpha-beta T cell	T cell
+46218673	lymphocyte	T cell
+46249723	CD8-positive, alpha-beta T cell	T cell
+46256599	CD4-positive, alpha-beta T cell	T cell
+46259316	CD8-positive, alpha-beta T cell	T cell
+46294243	CD4-positive, alpha-beta T cell	T cell
+46303027	CD4-positive, alpha-beta T cell	T cell
+46303053	CD8-positive, alpha-beta T cell	T cell
+46320108	CD8-positive, alpha-beta T cell	T cell
+46389782	CD4-positive, alpha-beta T cell	T cell
+46394464	CD8-positive, alpha-beta T cell	T cell
+46424949	CD4-positive, alpha-beta T cell	T cell
+46484820	CD4-positive, alpha-beta T cell	T cell
+46503427	CD4-positive, alpha-beta T cell	T cell
+46510664	CD4-positive, alpha-beta T cell	T cell
+46572777	CD4-positive, alpha-beta T cell	T cell
+46669132	CD8-positive, alpha-beta T cell	T cell
+46674766	CD4-positive, alpha-beta T cell	T cell
+46679545	CD8-positive, alpha-beta T cell	T cell
+46690068	CD4-positive, alpha-beta T cell	T cell
+46690796	CD4-positive, alpha-beta T cell	T cell
+46706120	CD8-positive, alpha-beta T cell	T cell
+46727755	CD8-positive, alpha-beta T cell	T cell
+46739919	CD4-positive, alpha-beta T cell	T cell
+46750478	CD4-positive, alpha-beta T cell	T cell
+46763745	CD8-positive, alpha-beta T cell	T cell
+46764465	CD4-positive, alpha-beta T cell	T cell
+46816076	CD8-positive, alpha-beta T cell	T cell
+46856210	CD4-positive, alpha-beta T cell	T cell
+46873032	CD4-positive, alpha-beta T cell	T cell
+46911623	CD4-positive, alpha-beta T cell	T cell
+46924207	CD8-positive, alpha-beta T cell	T cell
+46934725	CD4-positive, alpha-beta T cell	T cell
+46973344	CD4-positive, alpha-beta T cell	T cell
+47036864	CD4-positive, alpha-beta T cell	T cell
+47071875	CD4-positive, alpha-beta T cell	T cell
+47203830	CD8-positive, alpha-beta T cell	T cell
+47210376	CD8-positive, alpha-beta T cell	T cell
+47216557	CD4-positive, alpha-beta T cell	T cell
+47234973	B cell	T cell
+47243517	CD4-positive, alpha-beta T cell	T cell
+47307992	CD4-positive, alpha-beta T cell	T cell
+47314551	CD4-positive, alpha-beta T cell	T cell
+47323034	animal cell	T cell
+47324732	CD8-positive, alpha-beta T cell	T cell
+47330880	CD4-positive, alpha-beta T cell	T cell
+47362733	lymphocyte	T cell
+47452805	CD8-positive, alpha-beta T cell	T cell
+47469464	lymphocyte	T cell
+47495003	CD8-positive, alpha-beta T cell	T cell
+47516346	CD8-positive, alpha-beta T cell	T cell
+47598903	CD4-positive, alpha-beta T cell	T cell
+47653086	CD4-positive, alpha-beta T cell	T cell
+47658543	CD8-positive, alpha-beta T cell	T cell
+47660365	CD4-positive, alpha-beta T cell	T cell
+47703944	CD4-positive, alpha-beta T cell	T cell
+47737931	CD4-positive, alpha-beta T cell	T cell
+47766795	CD4-positive, alpha-beta T cell	T cell
+47804908	CD8-positive, alpha-beta T cell	T cell
+47815494	CD8-positive, alpha-beta T cell	T cell
+47823212	CD8-positive, alpha-beta T cell	T cell
+47885650	CD8-positive, alpha-beta T cell	T cell
+48807446	CD8-positive, alpha-beta T cell	T cell
+48807606	CD4-positive, alpha-beta T cell	T cell
+48815889	CD4-positive, alpha-beta T cell	T cell
+48853406	CD4-positive, alpha-beta T cell	T cell
+48853556	CD4-positive, alpha-beta T cell	T cell
+48876500	lymphocyte	T cell
+48876883	CD4-positive, alpha-beta T cell	T cell
+48908351	lymphocyte	T cell
+48937145	hematopoietic cell	T cell
+48938566	hematopoietic cell	T cell
+48946594	hematopoietic cell	T cell
+48948584	CD4-positive, alpha-beta T cell	T cell
+48967696	hematopoietic cell	T cell
+48967848	CD8-positive, alpha-beta T cell	T cell
+49022239	hematopoietic cell	T cell
+49091305	CD4-positive, alpha-beta T cell	T cell
+49113998	CD4-positive, alpha-beta T cell	T cell
+49138852	CD4-positive, alpha-beta T cell	T cell
+49155284	CD8-positive, alpha-beta T cell	T cell
+49176297	hematopoietic cell	T cell
+49178792	CD8-positive, alpha-beta T cell	T cell
+49295221	CD4-positive, alpha-beta T cell	T cell
+49368044	hematopoietic cell	T cell
+49394878	hematopoietic cell	T cell
+49415161	hematopoietic cell	T cell
+49424393	CD8-positive, alpha-beta T cell	T cell
+49476725	hematopoietic cell	T cell
+49493274	hematopoietic cell	T cell
+49502568	CD8-positive, alpha-beta T cell	T cell
+49516482	CD8-positive, alpha-beta T cell	T cell
+49523775	CD8-positive, alpha-beta T cell	T cell
+49562051	hematopoietic cell	T cell
+49565472	hematopoietic cell	T cell
+49568000	hematopoietic cell	T cell
+49573004	hematopoietic cell	T cell
+49590533	CD8-positive, alpha-beta T cell	T cell
+49601830	hematopoietic cell	T cell
+49692560	CD4-positive, alpha-beta T cell	T cell
+49702535	lymphocyte	T cell
+49711588	CD8-positive, alpha-beta T cell	T cell
+49713607	CD8-positive, alpha-beta T cell	T cell
+49786070	kidney epithelial cell	T cell
+50524551	CD8-positive, alpha-beta T cell	T cell
+50539668	CD4-positive, alpha-beta T cell	T cell
+50542106	dendritic cell	T cell
+50551183	CD4-positive, alpha-beta T cell	T cell
+50553671	CD4-positive, alpha-beta T cell	T cell
+50738624	CD4-positive, alpha-beta T cell	T cell
+50741320	CD4-positive, alpha-beta T cell	T cell
+50743868	CD8-positive, alpha-beta T cell	T cell
+50780294	CD8-positive, alpha-beta T cell	T cell
+50824097	CD4-positive, alpha-beta T cell	T cell
+50871416	CD8-positive, alpha-beta T cell	T cell
+50891207	CD4-positive, alpha-beta T cell	T cell
+50913698	lymphocyte	T cell
+50933123	CD8-positive, alpha-beta T cell	T cell
+50935493	CD8-positive, alpha-beta T cell	T cell
+50940716	CD8-positive, alpha-beta T cell	T cell
+50944270	CD8-positive, alpha-beta T cell	T cell
+50947581	CD8-positive, alpha-beta T cell	T cell
+50979574	monocyte	T cell
+50980016	CD4-positive, alpha-beta T cell	T cell
+51011057	CD4-positive, alpha-beta T cell	T cell
+51016605	CD8-positive, alpha-beta T cell	T cell
+51017640	CD4-positive, alpha-beta T cell	T cell
+51018609	CD4-positive, alpha-beta T cell	T cell
+51042823	CD4-positive, alpha-beta T cell	T cell
+51044527	CD8-positive, alpha-beta T cell	T cell
+51051526	CD8-positive, alpha-beta T cell	T cell
+51054207	CD8-positive, alpha-beta T cell	T cell
+51057534	CD8-positive, alpha-beta T cell	T cell
+51058024	lymphocyte	T cell
+51076170	CD8-positive, alpha-beta T cell	T cell
+51085719	CD8-positive, alpha-beta T cell	T cell
+51136423	CD4-positive, alpha-beta T cell	T cell
+51172914	CD8-positive, alpha-beta T cell	T cell
+51187196	CD4-positive, alpha-beta T cell	T cell
+51206133	CD4-positive, alpha-beta T cell	T cell
+51207863	lymphocyte	T cell
+51217142	CD8-positive, alpha-beta T cell	T cell
+51219426	CD4-positive, alpha-beta T cell	T cell
+51223856	CD4-positive, alpha-beta T cell	T cell
+51246156	CD8-positive, alpha-beta T cell	T cell
+51269715	CD4-positive, alpha-beta T cell	T cell
+51272303	CD4-positive, alpha-beta T cell	T cell
+51301840	CD4-positive, alpha-beta T cell	T cell
+51332533	CD4-positive, alpha-beta T cell	T cell
+51336567	CD4-positive, alpha-beta T cell	T cell
+51344537	CD8-positive, alpha-beta T cell	T cell
+51352372	CD8-positive, alpha-beta T cell	T cell
+51352878	CD4-positive, alpha-beta T cell	T cell
+51362828	CD4-positive, alpha-beta T cell	T cell
+53703191	CD8-positive, alpha-beta T cell	T cell
+53747796	CD8-positive, alpha-beta T cell	T cell
+53751257	CD8-positive, alpha-beta T cell	T cell
+53859368	CD8-positive, alpha-beta T cell	T cell
+53860676	lymphocyte	T cell
+54023621	CD8-positive, alpha-beta T cell	T cell
+54096323	CD8-positive, alpha-beta T cell	T cell
+54140875	CD8-positive, alpha-beta T cell	T cell
+54310458	endo-epithelial cell	T cell
+54311063	epithelial cell of urethra	T cell
+54320733	CD4-positive, alpha-beta T cell	T cell
+54323689	CD4-positive, alpha-beta T cell	T cell
+54325099	CD8-positive, alpha-beta T cell	T cell
+54326266	CD4-positive, alpha-beta T cell	T cell
+54329633	endo-epithelial cell	T cell
+54337647	CD4-positive, alpha-beta T cell	T cell
+54349984	CD8-positive, alpha-beta T cell	T cell
+54350363	CD4-positive, alpha-beta T cell	T cell
+54356659	fibroblast	T cell
+54449779	CD8-positive, alpha-beta T cell	T cell
+54450932	CD8-positive, alpha-beta T cell	T cell
+54451140	CD8-positive, alpha-beta T cell	T cell
+54454300	CD8-positive, alpha-beta T cell	T cell
+54456402	CD8-positive, alpha-beta T cell	T cell
+54457101	CD8-positive, alpha-beta T cell	T cell
+54457820	CD8-positive, alpha-beta T cell	T cell
+54458081	CD8-positive, alpha-beta T cell	T cell
+54458753	CD8-positive, alpha-beta T cell	T cell
+54463731	CD8-positive, alpha-beta T cell	T cell
+54463827	CD8-positive, alpha-beta T cell	T cell
+54464413	CD8-positive, alpha-beta T cell	T cell
+54464908	CD8-positive, alpha-beta T cell	T cell
+54466948	hematopoietic precursor cell	T cell
+54469031	CD4-positive, alpha-beta T cell	T cell
+54471197	CD4-positive, alpha-beta T cell	T cell
+54473017	CD4-positive, alpha-beta T cell	T cell
+54475519	lymphocyte	T cell
+54527047	CD8-positive, alpha-beta T cell	T cell
+54544771	CD8-positive, alpha-beta T cell	T cell
+54545404	lymphocyte	T cell
+54600278	CD4-positive, alpha-beta T cell	T cell
+54600923	hematopoietic cell	T cell
+54602689	CD4-positive, alpha-beta T cell	T cell
+54607229	CD4-positive, alpha-beta T cell	T cell
+54608807	CD8-positive, alpha-beta T cell	T cell
+54609477	CD4-positive, alpha-beta T cell	T cell
+54609939	CD8-positive, alpha-beta T cell	T cell
+54649553	B cell	T cell
+54691282	CD4-positive, alpha-beta T cell	T cell
+54695533	hematopoietic precursor cell	T cell
+54696773	CD4-positive, alpha-beta T cell	T cell
+54697685	lymphocyte	T cell
+54721378	leukocyte	T cell
+54727733	CD4-positive, alpha-beta T cell	T cell
+54729013	CD4-positive, alpha-beta T cell	T cell
+54736859	CD4-positive, alpha-beta T cell	T cell
+54737464	lymphocyte	T cell
+54738442	hematopoietic precursor cell	T cell
+54751698	CD8-positive, alpha-beta T cell	T cell
+54752236	CD4-positive, alpha-beta T cell	T cell
+54752469	CD8-positive, alpha-beta T cell	T cell
+54809159	lymphocyte	T cell
+56434145	CD8-positive, alpha-beta T cell	T cell
+56495654	CD8-positive, alpha-beta T cell	T cell
+56644922	CD8-positive, alpha-beta T cell	T cell
+56689849	CD8-positive, alpha-beta T cell	T cell
+57098861	lymphocyte	T cell
+57123656	CD8-positive, alpha-beta T cell	T cell
+57403942	CD8-positive, alpha-beta T cell	T cell
+57421443	lymphocyte	T cell
+57432790	CD8-positive, alpha-beta T cell	T cell
+57675622	CD8-positive, alpha-beta T cell	T cell
+61749942	lymphocyte	T cell
+61750246	lymphocyte	T cell
+61756294	lymphocyte	T cell
+63930778	CD8-positive, alpha-beta T cell	T cell
+63964689	lymphocyte	T cell
+63969867	lymphocyte	T cell
+63987645	lymphocyte	T cell
+64192204	CD8-positive, alpha-beta T cell	T cell
+64242099	CD8-positive, alpha-beta T cell	T cell
+64251564	CD4-positive, alpha-beta T cell	T cell
+64258644	CD4-positive, alpha-beta T cell	T cell
+64287071	CD4-positive, alpha-beta T cell	T cell
+64292863	CD4-positive, alpha-beta T cell	T cell
+64294057	B cell	T cell
+64312718	CD8-positive, alpha-beta T cell	T cell
+64313510	CD8-positive, alpha-beta T cell	T cell
+64315104	lymphocyte	T cell
+64315813	CD4-positive, alpha-beta T cell	T cell
+64316154	CD4-positive, alpha-beta T cell	T cell
+64325134	CD4-positive, alpha-beta T cell	T cell
+64330894	CD4-positive, alpha-beta T cell	T cell
+64333486	CD4-positive, alpha-beta T cell	T cell
+64338178	CD4-positive, alpha-beta T cell	T cell
+64344167	CD8-positive, alpha-beta T cell	T cell
+64346343	CD4-positive, alpha-beta T cell	T cell
+64347816	CD4-positive, alpha-beta T cell	T cell
+64349215	CD4-positive, alpha-beta T cell	T cell
+64351156	CD4-positive, alpha-beta T cell	T cell
+64354200	CD4-positive, alpha-beta T cell	T cell
+64355340	CD4-positive, alpha-beta T cell	T cell
+64358538	CD8-positive, alpha-beta T cell	T cell
+64361862	CD4-positive, alpha-beta T cell	T cell
+64366905	CD8-positive, alpha-beta T cell	T cell
+64369632	CD8-positive, alpha-beta T cell	T cell
+64794467	CD4-positive, alpha-beta T cell	T cell
+65092442	CD8-positive, alpha-beta T cell	T cell
+65096711	myeloid cell	T cell
+65100861	B cell	T cell
+65108141	monocyte	T cell
+65110635	CD8-positive, alpha-beta T cell	T cell
+65118723	lymphocyte	T cell
+65282024	leukocyte	T cell
+10913103	myofibroblast cell	abnormal cell
+10948412	dendritic cell	abnormal cell
+10955130	dendritic cell	abnormal cell
+10983267	myofibroblast cell	abnormal cell
+11061681	monocyte	abnormal cell
+54824544	fibroblast	adventitial cell
+45485065	myeloid cell	animal cell
+45499684	B cell	animal cell
+45505924	lymphocyte	animal cell
+45585097	B cell	animal cell
+45611868	myeloid cell	animal cell
+45638087	B cell	animal cell
+45717993	lymphocyte	animal cell
+45748326	CD8-positive, alpha-beta T cell	animal cell
+47721663	lymphocyte	animal cell
+47813134	CD8-positive, alpha-beta T cell	animal cell
+47841947	lymphocyte	animal cell
+48108765	lymphocyte	animal cell
+48109776	CD4-positive, alpha-beta T cell	animal cell
+25580928	progenitor cell	cardiocyte
+25599433	progenitor cell	cardiocyte
+40053150	lymphocyte	cardiocyte
+40093919	hematopoietic precursor cell	cardiocyte
+40126077	sensory neuron	cardiocyte
+40178956	lymphocyte	cardiocyte
+40224475	hematopoietic precursor cell	cardiocyte
+40225067	neuron associated cell	cardiocyte
+40225461	hematopoietic precursor cell	cardiocyte
+40974254	neuron	cardiocyte
+41204715	meso-epithelial cell	cardiocyte
+41217778	fibroblast	cardiocyte
+54581478	endothelial cell	cardiocyte
+60980228	endo-epithelial cell	cardiocyte
+60985923	endothelial cell	cardiocyte
+60988992	endothelial cell	cardiocyte
+60990460	meso-epithelial cell	cardiocyte
+61022785	endo-epithelial cell	cardiocyte
+63613718	fat cell	cardiocyte
+63634339	fat cell	cardiocyte
+63635876	fat cell	cardiocyte
+65431868	cardiocyte	cell of skeletal muscle
+65505815	stromal cell	cell of skeletal muscle
+65509027	stromal cell	cell of skeletal muscle
+23394632	seromucus secreting cell	ciliated cell
+36077609	primary cultured cell	ciliated cell
+36083520	primary cultured cell	ciliated cell
+36096281	fibroblast	ciliated cell
+36113199	epithelial cell of lung	ciliated cell
+45091858	stromal cell	ciliated cell
+46045161	epithelial cell	ciliated cell
+47703322	endo-epithelial cell	ciliated cell
+56631926	squamous epithelial cell	ciliated cell
+65758689	epithelial cell	ciliated cell
+10793590	meso-epithelial cell	columnar/cuboidal epithelial cell
+19613405	meso-epithelial cell	columnar/cuboidal epithelial cell
+19615875	meso-epithelial cell	columnar/cuboidal epithelial cell
+19616430	meso-epithelial cell	columnar/cuboidal epithelial cell
+19619052	meso-epithelial cell	columnar/cuboidal epithelial cell
+24478674	meso-epithelial cell	columnar/cuboidal epithelial cell
+25342115	vertebrate lens cell	columnar/cuboidal epithelial cell
+25346851	glial cell	columnar/cuboidal epithelial cell
+25347610	sensory neuron	columnar/cuboidal epithelial cell
+35816169	mesodermal cell	columnar/cuboidal epithelial cell
+64847015	kidney epithelial cell	columnar/cuboidal epithelial cell
+64848737	kidney epithelial cell	columnar/cuboidal epithelial cell
+64859896	kidney epithelial cell	columnar/cuboidal epithelial cell
+42990348	muscle cell	contractile cell
+43068624	mural cell	contractile cell
+43137709	pericyte	contractile cell
+43154261	muscle cell	contractile cell
+43166145	pericyte	contractile cell
+47664782	pigment cell	defensive cell
+48875096	endothelial cell	defensive cell
+48909007	endothelial cell	defensive cell
+7501607	phagocyte	dendritic cell
+10915155	monocyte	dendritic cell
+10924264	abnormal cell	dendritic cell
+10926075	monocyte	dendritic cell
+10927798	abnormal cell	dendritic cell
+10972184	abnormal cell	dendritic cell
+10992476	abnormal cell	dendritic cell
+10998420	monocyte	dendritic cell
+11010289	monocyte	dendritic cell
+11047938	monocyte	dendritic cell
+11648050	hematopoietic precursor cell	dendritic cell
+11649363	hematopoietic precursor cell	dendritic cell
+11668752	monocyte	dendritic cell
+11668805	lymphocyte	dendritic cell
+11682640	myeloid cell	dendritic cell
+11694853	myeloid cell	dendritic cell
+11721532	lymphocyte	dendritic cell
+15119310	macrophage	dendritic cell
+16325328	macrophage	dendritic cell
+16599811	macrophage	dendritic cell
+17013785	macrophage	dendritic cell
+17090002	macrophage	dendritic cell
+17565591	macrophage	dendritic cell
+17951895	macrophage	dendritic cell
+17956790	macrophage	dendritic cell
+18193788	monocyte	dendritic cell
+18323356	macrophage	dendritic cell
+18698896	monocyte	dendritic cell
+19376001	monocyte	dendritic cell
+21720647	macrophage	dendritic cell
+23800124	endo-epithelial cell	dendritic cell
+23817774	macrophage	dendritic cell
+23837408	macrophage	dendritic cell
+23846579	macrophage	dendritic cell
+24118556	leukocyte	dendritic cell
+24835517	endothelial cell	dendritic cell
+24845149	leukocyte	dendritic cell
+25518148	T cell	dendritic cell
+25528609	monocyte	dendritic cell
+25548000	monocyte	dendritic cell
+25763222	macrophage	dendritic cell
+32680801	hematopoietic precursor cell	dendritic cell
+32748510	leukocyte	dendritic cell
+33015251	neuron	dendritic cell
+33085345	myeloid cell	dendritic cell
+33605908	myeloid cell	dendritic cell
+33649726	monocyte	dendritic cell
+35722709	macrophage	dendritic cell
+35860997	macrophage	dendritic cell
+35872975	hematopoietic cell	dendritic cell
+38179651	macrophage	dendritic cell
+38184747	macrophage	dendritic cell
+38782525	macrophage	dendritic cell
+39411151	macrophage	dendritic cell
+39435822	macrophage	dendritic cell
+39477429	B cell	dendritic cell
+39706606	monocyte	dendritic cell
+39908264	monocyte	dendritic cell
+40015174	myeloid cell	dendritic cell
+42067056	hematopoietic cell	dendritic cell
+42846580	macrophage	dendritic cell
+42882040	hematopoietic precursor cell	dendritic cell
+43022993	endo-epithelial cell	dendritic cell
+43049592	leukocyte	dendritic cell
+43570313	leukocyte	dendritic cell
+43593355	abnormal cell	dendritic cell
+45719234	animal cell	dendritic cell
+46033790	macrophage	dendritic cell
+47435829	monocyte	dendritic cell
+47462311	monocyte	dendritic cell
+47472487	myeloid cell	dendritic cell
+47473044	monocyte	dendritic cell
+47583303	endo-epithelial cell	dendritic cell
+47606491	endo-epithelial cell	dendritic cell
+47612175	endo-epithelial cell	dendritic cell
+47702936	hematopoietic cell	dendritic cell
+49768088	phagocyte	dendritic cell
+49791405	phagocyte	dendritic cell
+49817722	phagocyte	dendritic cell
+50881383	monocyte	dendritic cell
+51223387	monocyte	dendritic cell
+51371490	B cell	dendritic cell
+52220779	monocyte	dendritic cell
+52510918	monocyte	dendritic cell
+54520970	hematopoietic precursor cell	dendritic cell
+54823748	myeloid cell	dendritic cell
+54829972	myeloid cell	dendritic cell
+54830087	myeloid cell	dendritic cell
+54859658	myeloid cell	dendritic cell
+57423105	monocyte	dendritic cell
+63649503	myeloid cell	dendritic cell
+64092190	B cell	dendritic cell
+64797726	leukocyte	dendritic cell
+65253887	myeloid cell	dendritic cell
+65651429	macrophage	dendritic cell
+65740906	macrophage	dendritic cell
+65772390	myeloid cell	dendritic cell
+65780016	macrophage	dendritic cell
+11884682	fibroblast	duct epithelial cell
+15033016	progenitor cell	duct epithelial cell
+15271697	mammary gland epithelial cell	duct epithelial cell
+15275852	stem cell	duct epithelial cell
+15282292	mammary gland epithelial cell	duct epithelial cell
+15284160	mammary gland epithelial cell	duct epithelial cell
+15286058	mammary gland epithelial cell	duct epithelial cell
+15292012	mammary gland epithelial cell	duct epithelial cell
+15852812	T cell	duct epithelial cell
+42712061	stromal cell	duct epithelial cell
+42714580	hepatocyte	duct epithelial cell
+42997458	ecto-epithelial cell	duct epithelial cell
+43004731	ecto-epithelial cell	duct epithelial cell
+47515052	endo-epithelial cell	duct epithelial cell
+47515674	endo-epithelial cell	duct epithelial cell
+47522003	endo-epithelial cell	duct epithelial cell
+47634471	endo-epithelial cell	duct epithelial cell
+47634882	endo-epithelial cell	duct epithelial cell
+50608998	endothelial cell	duct epithelial cell
+50627297	hepatocyte	duct epithelial cell
+50638297	hepatocyte	duct epithelial cell
+50639385	hepatocyte	duct epithelial cell
+50641068	hepatocyte	duct epithelial cell
+50655100	hepatocyte	duct epithelial cell
+50656451	hepatocyte	duct epithelial cell
+50658917	hepatocyte	duct epithelial cell
+54504777	mammary gland epithelial cell	duct epithelial cell
+54509341	mammary gland epithelial cell	duct epithelial cell
+54613337	exocrine cell	duct epithelial cell
+54624942	exocrine cell	duct epithelial cell
+54627201	exocrine cell	duct epithelial cell
+54627726	exocrine cell	duct epithelial cell
+54629119	exocrine cell	duct epithelial cell
+54629651	exocrine cell	duct epithelial cell
+54630240	exocrine cell	duct epithelial cell
+54630389	exocrine cell	duct epithelial cell
+64402961	exocrine cell	duct epithelial cell
+64439875	endocrine cell	duct epithelial cell
+43169757	squamous epithelial cell	ecto-epithelial cell
+43170303	sebaceous gland cell	ecto-epithelial cell
+43174577	duct epithelial cell	ecto-epithelial cell
+7569007	stem cell	endo-epithelial cell
+16306238	glandular epithelial cell	endo-epithelial cell
+16485910	glandular epithelial cell	endo-epithelial cell
+16496882	glandular epithelial cell	endo-epithelial cell
+16563982	glandular epithelial cell	endo-epithelial cell
+16574680	seromucus secreting cell	endo-epithelial cell
+16587076	epithelial cell of lung	endo-epithelial cell
+16785501	glandular epithelial cell	endo-epithelial cell
+16964880	glandular epithelial cell	endo-epithelial cell
+17042905	epithelial cell	endo-epithelial cell
+17086881	glandular epithelial cell	endo-epithelial cell
+17088673	epithelial cell	endo-epithelial cell
+17280415	epithelial cell of lung	endo-epithelial cell
+17371952	glandular epithelial cell	endo-epithelial cell
+17459883	glandular epithelial cell	endo-epithelial cell
+17611823	glandular epithelial cell	endo-epithelial cell
+18010988	secretory cell	endo-epithelial cell
+18017097	glandular epithelial cell	endo-epithelial cell
+18087372	secretory cell	endo-epithelial cell
+18100632	glandular epithelial cell	endo-epithelial cell
+18452653	secretory cell	endo-epithelial cell
+23397392	epithelial cell of lung	endo-epithelial cell
+23399560	epithelial cell of lung	endo-epithelial cell
+23406103	epithelial cell of lung	endo-epithelial cell
+23407114	epithelial cell of lung	endo-epithelial cell
+23410229	epithelial cell of lung	endo-epithelial cell
+23410309	epithelial cell of lung	endo-epithelial cell
+23456657	epithelial cell of lung	endo-epithelial cell
+23520457	endocrine cell	endo-epithelial cell
+23532304	stem cell	endo-epithelial cell
+23533737	stem cell	endo-epithelial cell
+23538201	stem cell	endo-epithelial cell
+23541281	stem cell	endo-epithelial cell
+23550072	glandular epithelial cell	endo-epithelial cell
+23551858	glandular epithelial cell	endo-epithelial cell
+23554398	lymphocyte	endo-epithelial cell
+23555095	stem cell	endo-epithelial cell
+23556584	stem cell	endo-epithelial cell
+23560277	glandular epithelial cell	endo-epithelial cell
+23568890	stem cell	endo-epithelial cell
+23594113	stem cell	endo-epithelial cell
+23594260	endothelial cell	endo-epithelial cell
+23598418	endocrine cell	endo-epithelial cell
+23599800	stem cell	endo-epithelial cell
+23614485	B cell	endo-epithelial cell
+23644402	stem cell	endo-epithelial cell
+23645105	stem cell	endo-epithelial cell
+23645703	stem cell	endo-epithelial cell
+23917838	glandular epithelial cell	endo-epithelial cell
+23930531	stem cell	endo-epithelial cell
+23931844	stem cell	endo-epithelial cell
+23934094	glandular epithelial cell	endo-epithelial cell
+23984398	stem cell	endo-epithelial cell
+23989361	stem cell	endo-epithelial cell
+23990385	stem cell	endo-epithelial cell
+24695703	stem cell	endo-epithelial cell
+24697736	glandular epithelial cell	endo-epithelial cell
+24706797	lymphocyte	endo-epithelial cell
+24709812	lymphocyte	endo-epithelial cell
+24710901	glandular epithelial cell	endo-epithelial cell
+24721897	glandular epithelial cell	endo-epithelial cell
+24761484	glandular epithelial cell	endo-epithelial cell
+24768439	squamous epithelial cell	endo-epithelial cell
+24775551	squamous epithelial cell	endo-epithelial cell
+24826824	glandular epithelial cell	endo-epithelial cell
+24860249	glandular epithelial cell	endo-epithelial cell
+24910339	glandular epithelial cell	endo-epithelial cell
+25644710	endocrine cell	endo-epithelial cell
+25697043	transit amplifying cell	endo-epithelial cell
+25701204	transit amplifying cell	endo-epithelial cell
+25701324	transit amplifying cell	endo-epithelial cell
+25701541	transit amplifying cell	endo-epithelial cell
+25713199	transit amplifying cell	endo-epithelial cell
+25720680	transit amplifying cell	endo-epithelial cell
+25723566	transit amplifying cell	endo-epithelial cell
+25726594	transit amplifying cell	endo-epithelial cell
+25726934	stem cell	endo-epithelial cell
+25730833	transit amplifying cell	endo-epithelial cell
+25731520	transit amplifying cell	endo-epithelial cell
+25732500	BEST4+ intestinal epithelial cell, human	endo-epithelial cell
+25732889	transit amplifying cell	endo-epithelial cell
+25732897	transit amplifying cell	endo-epithelial cell
+25736805	transit amplifying cell	endo-epithelial cell
+25738581	transit amplifying cell	endo-epithelial cell
+35584995	progenitor cell	endo-epithelial cell
+35585275	progenitor cell	endo-epithelial cell
+35585361	progenitor cell	endo-epithelial cell
+35585836	transit amplifying cell	endo-epithelial cell
+35586280	progenitor cell	endo-epithelial cell
+35705946	transit amplifying cell	endo-epithelial cell
+35707030	transit amplifying cell	endo-epithelial cell
+35715314	transit amplifying cell	endo-epithelial cell
+35723112	transit amplifying cell	endo-epithelial cell
+35724120	transit amplifying cell	endo-epithelial cell
+35728179	transit amplifying cell	endo-epithelial cell
+35728339	transit amplifying cell	endo-epithelial cell
+35729043	transit amplifying cell	endo-epithelial cell
+35730549	transit amplifying cell	endo-epithelial cell
+35731136	transit amplifying cell	endo-epithelial cell
+35743923	transit amplifying cell	endo-epithelial cell
+35818605	transit amplifying cell	endo-epithelial cell
+35835927	endocrine cell	endo-epithelial cell
+35836458	stem cell	endo-epithelial cell
+36073749	secretory cell	endo-epithelial cell
+36075536	secretory cell	endo-epithelial cell
+36075698	secretory cell	endo-epithelial cell
+36075909	secretory cell	endo-epithelial cell
+36079725	secretory cell	endo-epithelial cell
+36081096	secretory cell	endo-epithelial cell
+36081478	secretory cell	endo-epithelial cell
+36087165	secretory cell	endo-epithelial cell
+37386880	seromucus secreting cell	endo-epithelial cell
+37818100	glandular epithelial cell	endo-epithelial cell
+42004065	stem cell	endo-epithelial cell
+42036038	transit amplifying cell	endo-epithelial cell
+42036136	stem cell	endo-epithelial cell
+42040132	endocrine cell	endo-epithelial cell
+43011051	pericyte	endo-epithelial cell
+43027392	dendritic cell	endo-epithelial cell
+43028184	fibroblast	endo-epithelial cell
+43028761	ecto-epithelial cell	endo-epithelial cell
+43028963	squamous epithelial cell	endo-epithelial cell
+43110015	epithelial cell of lung	endo-epithelial cell
+43111376	epithelial cell of lung	endo-epithelial cell
+43112956	epithelial cell of lung	endo-epithelial cell
+43113202	epithelial cell of lung	endo-epithelial cell
+43120225	epithelial cell of lung	endo-epithelial cell
+43121627	ciliated cell	endo-epithelial cell
+43124672	epithelial cell of lung	endo-epithelial cell
+43127397	epithelial cell of lung	endo-epithelial cell
+43130254	epithelial cell of lung	endo-epithelial cell
+43142695	ecto-epithelial cell	endo-epithelial cell
+43148739	glandular epithelial cell	endo-epithelial cell
+43149591	muscle cell	endo-epithelial cell
+43156069	muscle cell	endo-epithelial cell
+43169560	contractile cell	endo-epithelial cell
+45796281	lymphocyte	endo-epithelial cell
+47497677	secretory cell	endo-epithelial cell
+47501058	secretory cell	endo-epithelial cell
+47516108	duct epithelial cell	endo-epithelial cell
+47533853	dendritic cell	endo-epithelial cell
+47548829	dendritic cell	endo-epithelial cell
+47550225	dendritic cell	endo-epithelial cell
+47554643	secretory cell	endo-epithelial cell
+47566724	secretory cell	endo-epithelial cell
+47569913	ciliated cell	endo-epithelial cell
+47585067	secretory cell	endo-epithelial cell
+47595008	secretory cell	endo-epithelial cell
+47596140	secretory cell	endo-epithelial cell
+47596666	secretory cell	endo-epithelial cell
+47600444	duct epithelial cell	endo-epithelial cell
+47608272	secretory cell	endo-epithelial cell
+47608626	secretory cell	endo-epithelial cell
+47618866	secretory cell	endo-epithelial cell
+47621011	secretory cell	endo-epithelial cell
+47625662	secretory cell	endo-epithelial cell
+47629389	secretory cell	endo-epithelial cell
+47631108	duct epithelial cell	endo-epithelial cell
+47674840	duct epithelial cell	endo-epithelial cell
+47685874	secretory cell	endo-epithelial cell
+47692000	secretory cell	endo-epithelial cell
+54287782	epithelial cell of urethra	endo-epithelial cell
+54289325	epithelial cell of urethra	endo-epithelial cell
+54289873	epithelial cell of urethra	endo-epithelial cell
+54289925	epithelial cell of urethra	endo-epithelial cell
+54297575	epithelial cell of urethra	endo-epithelial cell
+54299188	epithelial cell of urethra	endo-epithelial cell
+54303864	epithelial cell of urethra	endo-epithelial cell
+54304036	epithelial cell of urethra	endo-epithelial cell
+54304491	epithelial cell of urethra	endo-epithelial cell
+54311360	epithelial cell of urethra	endo-epithelial cell
+54317291	fibroblast	endo-epithelial cell
+54320344	epithelial cell of urethra	endo-epithelial cell
+54327131	T cell	endo-epithelial cell
+54330612	epithelial cell of urethra	endo-epithelial cell
+54341671	fibroblast	endo-epithelial cell
+54342088	T cell	endo-epithelial cell
+54342331	T cell	endo-epithelial cell
+54343138	fibroblast	endo-epithelial cell
+54364145	endothelial cell	endo-epithelial cell
+54572891	epithelial cell	endo-epithelial cell
+54577088	epithelial cell	endo-epithelial cell
+54672183	transit amplifying cell	endo-epithelial cell
+54687420	transit amplifying cell	endo-epithelial cell
+54687687	transit amplifying cell	endo-epithelial cell
+54701614	meso-epithelial cell	endo-epithelial cell
+54821474	transit amplifying cell	endo-epithelial cell
+54831511	epithelial cell of lung	endo-epithelial cell
+54846487	epithelial cell of lung	endo-epithelial cell
+54908300	stem cell	endo-epithelial cell
+61742324	glandular epithelial cell	endo-epithelial cell
+61746508	glandular epithelial cell	endo-epithelial cell
+63056860	endocrine cell	endo-epithelial cell
+63057073	transit amplifying cell	endo-epithelial cell
+65272082	epithelial cell of pancreas	endo-epithelial cell
+65273816	glandular epithelial cell	endo-epithelial cell
+65274020	glandular epithelial cell	endo-epithelial cell
+65434074	epithelial cell	endo-epithelial cell
+65608023	transit amplifying cell	endo-epithelial cell
+65608182	stem cell	endo-epithelial cell
+65638982	glandular epithelial cell	endo-epithelial cell
+65641898	glandular epithelial cell	endo-epithelial cell
+65649581	glandular epithelial cell	endo-epithelial cell
+65725297	epithelial cell of lung	endo-epithelial cell
+7493083	neuron	endocrine cell
+21691076	endo-epithelial cell	endocrine cell
+22342117	endo-epithelial cell	endocrine cell
+22347628	neuron	endocrine cell
+22347903	glial cell	endocrine cell
+22426996	neuron	endocrine cell
+23537089	neuron	endocrine cell
+23537173	neuron	endocrine cell
+23537876	neuron	endocrine cell
+23537892	neuron	endocrine cell
+24742157	endo-epithelial cell	endocrine cell
+24799967	endo-epithelial cell	endocrine cell
+24826819	endo-epithelial cell	endocrine cell
+24836369	endo-epithelial cell	endocrine cell
+24847856	endo-epithelial cell	endocrine cell
+25695966	transit amplifying cell	endocrine cell
+25712533	endo-epithelial cell	endocrine cell
+25736000	endo-epithelial cell	endocrine cell
+35786370	endo-epithelial cell	endocrine cell
+35789360	endo-epithelial cell	endocrine cell
+35808138	endo-epithelial cell	endocrine cell
+35828442	neuron	endocrine cell
+35830525	neuron	endocrine cell
+35841308	endo-epithelial cell	endocrine cell
+35862782	neuron	endocrine cell
+35873032	endo-epithelial cell	endocrine cell
+41979051	stem cell	endocrine cell
+41982158	endo-epithelial cell	endocrine cell
+54889052	exocrine cell	endocrine cell
+61648706	duct epithelial cell	endocrine cell
+61673734	neuron	endocrine cell
+61687765	neuron	endocrine cell
+64381256	duct epithelial cell	endocrine cell
+64438676	duct epithelial cell	endocrine cell
+64440076	exocrine cell	endocrine cell
+6021517	stromal cell	endothelial cell
+7400959	glial cell	endothelial cell
+10344473	lymphocyte	endothelial cell
+10572494	stromal cell	endothelial cell
+10612354	lymphocyte	endothelial cell
+10785685	stromal cell	endothelial cell
+10787884	stromal cell	endothelial cell
+11597465	myofibroblast cell	endothelial cell
+11974680	endo-epithelial cell	endothelial cell
+15058186	stem cell	endothelial cell
+15061803	stem cell	endothelial cell
+15157415	stem cell	endothelial cell
+15164657	muscle cell	endothelial cell
+17350332	lymphocyte	endothelial cell
+17362113	macrophage	endothelial cell
+17732642	epithelial cell of lung	endothelial cell
+18094822	defensive cell	endothelial cell
+18112258	fibroblast	endothelial cell
+20134058	hematopoietic cell	endothelial cell
+20309571	meso-epithelial cell	endothelial cell
+22188408	neuron	endothelial cell
+22370064	lymphocyte	endothelial cell
+23403269	pericyte	endothelial cell
+23859568	myofibroblast cell	endothelial cell
+23866266	muscle cell	endothelial cell
+24172033	lymphocyte	endothelial cell
+24173781	myofibroblast cell	endothelial cell
+24174454	endo-epithelial cell	endothelial cell
+25188990	columnar/cuboidal epithelial cell	endothelial cell
+25229854	stem cell	endothelial cell
+32828427	glial cell	endothelial cell
+35793793	neuron	endothelial cell
+35799346	neuron	endothelial cell
+35806497	neuron	endothelial cell
+35813659	neuron	endothelial cell
+35874347	neuron	endothelial cell
+35875544	neuron	endothelial cell
+37216828	epithelial cell of lung	endothelial cell
+37522986	epithelial cell of lung	endothelial cell
+41467342	meso-epithelial cell	endothelial cell
+42008038	neuron	endothelial cell
+42805555	stem cell	endothelial cell
+42999383	fibroblast	endothelial cell
+43031181	endo-epithelial cell	endothelial cell
+45046017	supporting cell	endothelial cell
+50603734	stromal cell	endothelial cell
+50616873	hepatocyte	endothelial cell
+50640878	hepatocyte	endothelial cell
+50653543	stromal cell	endothelial cell
+50653922	duct epithelial cell	endothelial cell
+50657119	hepatocyte	endothelial cell
+51485424	glial cell	endothelial cell
+54288473	endo-epithelial cell	endothelial cell
+54298533	endo-epithelial cell	endothelial cell
+54302093	endo-epithelial cell	endothelial cell
+54304522	epithelial cell of urethra	endothelial cell
+54364339	endo-epithelial cell	endothelial cell
+54837552	glandular epithelial cell	endothelial cell
+54901358	CD4-positive, alpha-beta T cell	endothelial cell
+63598061	neuron	endothelial cell
+63909093	stem cell	endothelial cell
+63938438	stem cell	endothelial cell
+63963747	dendritic cell	endothelial cell
+64913908	glial cell	endothelial cell
+65148438	leukocyte	endothelial cell
+65220861	dendritic cell	endothelial cell
+65740840	muscle cell	endothelial cell
+7499202	endo-epithelial cell	epithelial cell
+7555226	glial cell	epithelial cell
+16396385	endo-epithelial cell	epithelial cell
+16684086	glandular epithelial cell	epithelial cell
+16688495	endo-epithelial cell	epithelial cell
+17234232	endo-epithelial cell	epithelial cell
+17331658	glandular epithelial cell	epithelial cell
+17957631	endo-epithelial cell	epithelial cell
+18076482	endo-epithelial cell	epithelial cell
+18083111	endo-epithelial cell	epithelial cell
+18116527	endo-epithelial cell	epithelial cell
+18340737	endo-epithelial cell	epithelial cell
+19533294	epithelial cell of lung	epithelial cell
+19533721	epithelial cell of lung	epithelial cell
+19577383	endo-epithelial cell	epithelial cell
+19579342	epithelial cell of lung	epithelial cell
+21752594	interstitial cell	epithelial cell
+23475450	epithelial cell of lung	epithelial cell
+23493206	seromucus secreting cell	epithelial cell
+23504988	stem cell	epithelial cell
+23528270	endo-epithelial cell	epithelial cell
+23536528	lymphocyte	epithelial cell
+23554848	lymphocyte	epithelial cell
+23599007	stem cell	epithelial cell
+23917981	stem cell	epithelial cell
+23920468	glandular epithelial cell	epithelial cell
+23930300	glandular epithelial cell	epithelial cell
+23969499	glandular epithelial cell	epithelial cell
+23989554	stem cell	epithelial cell
+25141338	squamous epithelial cell	epithelial cell
+25159643	squamous epithelial cell	epithelial cell
+25187598	endothelial cell	epithelial cell
+35791606	endo-epithelial cell	epithelial cell
+37751194	stratified epithelial cell	epithelial cell
+45075563	glandular epithelial cell	epithelial cell
+45080147	glandular epithelial cell	epithelial cell
+45088994	leukocyte	epithelial cell
+45089574	glandular epithelial cell	epithelial cell
+45111876	glandular epithelial cell	epithelial cell
+45843840	stratified epithelial cell	epithelial cell
+45884243	stratified epithelial cell	epithelial cell
+47548497	endo-epithelial cell	epithelial cell
+47685342	endo-epithelial cell	epithelial cell
+53528931	epithelial cell of lung	epithelial cell
+53540770	epithelial cell of lung	epithelial cell
+53541249	epithelial cell of lung	epithelial cell
+53546029	endo-epithelial cell	epithelial cell
+54493441	stem cell	epithelial cell
+54514997	endo-epithelial cell	epithelial cell
+54651554	glial cell	epithelial cell
+54652184	glial cell	epithelial cell
+54652185	glial cell	epithelial cell
+54654252	squamous epithelial cell	epithelial cell
+54654486	glial cell	epithelial cell
+61738462	squamous epithelial cell	epithelial cell
+65128715	myeloid cell	epithelial cell
+65147964	fibroblast	epithelial cell
+65177285	endo-epithelial cell	epithelial cell
+65224998	T cell	epithelial cell
+65227170	glandular epithelial cell	epithelial cell
+65227228	glandular epithelial cell	epithelial cell
+65232456	endothelial cell	epithelial cell
+65445308	primordial germ cell	epithelial cell
+65462604	primordial germ cell	epithelial cell
+65643711	endo-epithelial cell	epithelial cell
+65652432	endo-epithelial cell	epithelial cell
+65692159	endo-epithelial cell	epithelial cell
+65788667	endo-epithelial cell	epithelial cell
+65788684	epithelial cell of lung	epithelial cell
+65788738	epithelial cell of lung	epithelial cell
+65788950	epithelial cell of lung	epithelial cell
+16791185	endo-epithelial cell	epithelial cell of lung
+17103899	macrophage	epithelial cell of lung
+17414719	endo-epithelial cell	epithelial cell of lung
+22307724	endo-epithelial cell	epithelial cell of lung
+22342996	stem cell	epithelial cell of lung
+22367878	stem cell	epithelial cell of lung
+23388161	seromucus secreting cell	epithelial cell of lung
+23411735	seromucus secreting cell	epithelial cell of lung
+23411981	seromucus secreting cell	epithelial cell of lung
+23419482	endo-epithelial cell	epithelial cell of lung
+23430733	seromucus secreting cell	epithelial cell of lung
+23442762	fibroblast	epithelial cell of lung
+23443575	seromucus secreting cell	epithelial cell of lung
+23445310	endo-epithelial cell	epithelial cell of lung
+23450632	seromucus secreting cell	epithelial cell of lung
+23456623	seromucus secreting cell	epithelial cell of lung
+23496681	endo-epithelial cell	epithelial cell of lung
+36076256	ciliated cell	epithelial cell of lung
+37179013	T cell	epithelial cell of lung
+37414933	neoplastic cell	epithelial cell of lung
+37636183	endo-epithelial cell	epithelial cell of lung
+37854684	eukaryotic cell	epithelial cell of lung
+38259244	neoplastic cell	epithelial cell of lung
+39894765	endo-epithelial cell	epithelial cell of lung
+43110142	endo-epithelial cell	epithelial cell of lung
+43131837	endo-epithelial cell	epithelial cell of lung
+43133584	endo-epithelial cell	epithelial cell of lung
+43133833	endo-epithelial cell	epithelial cell of lung
+46018319	endo-epithelial cell	epithelial cell of lung
+46036082	endo-epithelial cell	epithelial cell of lung
+46038896	endo-epithelial cell	epithelial cell of lung
+46042197	stratified epithelial cell	epithelial cell of lung
+47521897	endo-epithelial cell	epithelial cell of lung
+47590999	endo-epithelial cell	epithelial cell of lung
+47629318	endo-epithelial cell	epithelial cell of lung
+47653885	endo-epithelial cell	epithelial cell of lung
+65725817	endo-epithelial cell	epithelial cell of lung
+65795832	seromucus secreting cell	epithelial cell of lung
+65795850	endo-epithelial cell	epithelial cell of lung
+65795855	endo-epithelial cell	epithelial cell of lung
+54288366	endo-epithelial cell	epithelial cell of urethra
+54288808	endo-epithelial cell	epithelial cell of urethra
+54290992	endothelial cell	epithelial cell of urethra
+54291786	endo-epithelial cell	epithelial cell of urethra
+54296065	endo-epithelial cell	epithelial cell of urethra
+54298236	endo-epithelial cell	epithelial cell of urethra
+54298811	endo-epithelial cell	epithelial cell of urethra
+54301334	endo-epithelial cell	epithelial cell of urethra
+54306430	endo-epithelial cell	epithelial cell of urethra
+54307187	endo-epithelial cell	epithelial cell of urethra
+54312524	endo-epithelial cell	epithelial cell of urethra
+54313430	endo-epithelial cell	epithelial cell of urethra
+54318215	endo-epithelial cell	epithelial cell of urethra
+54327486	secretory cell	epithelial cell of urethra
+54328765	endo-epithelial cell	epithelial cell of urethra
+54357655	secretory cell	epithelial cell of urethra
+54359245	endo-epithelial cell	epithelial cell of urethra
+45033326	endothelial cell	eukaryotic cell
+45057092	leukocyte	eukaryotic cell
+45057686	epithelial cell	eukaryotic cell
+45092142	stromal cell	eukaryotic cell
+7575473	inflammatory cell	exocrine cell
+7577854	progenitor cell	exocrine cell
+7584196	progenitor cell	exocrine cell
+7588753	progenitor cell	exocrine cell
+7595269	progenitor cell	exocrine cell
+7597526	progenitor cell	exocrine cell
+7606203	duct epithelial cell	exocrine cell
+7617638	progenitor cell	exocrine cell
+54480162	duct epithelial cell	exocrine cell
+54620467	duct epithelial cell	exocrine cell
+54624457	duct epithelial cell	exocrine cell
+54624585	duct epithelial cell	exocrine cell
+54625967	duct epithelial cell	exocrine cell
+54626041	duct epithelial cell	exocrine cell
+64398809	duct epithelial cell	exocrine cell
+64436262	duct epithelial cell	exocrine cell
+5652556	cardiocyte	fat cell
+5653667	cardiocyte	fat cell
+5654308	cardiocyte	fat cell
+5690378	cardiocyte	fat cell
+5704536	cardiocyte	fat cell
+5719425	cardiocyte	fat cell
+14979597	neuron associated cell	fat cell
+14988222	neuron associated cell	fat cell
+14988836	neuron associated cell	fat cell
+14989258	neuron associated cell	fat cell
+32731479	non-terminally differentiated cell	fat cell
+32745470	non-terminally differentiated cell	fat cell
+41029567	cardiocyte	fat cell
+41468583	cardiocyte	fat cell
+41491497	cardiocyte	fat cell
+41492427	cardiocyte	fat cell
+43002637	fibroblast	fat cell
+4106024	muscle cell	fibroblast
+4635565	pericyte	fibroblast
+5710564	cardiocyte	fibroblast
+7574688	inflammatory cell	fibroblast
+7621389	stem cell	fibroblast
+9243390	muscle cell	fibroblast
+10430070	pericyte	fibroblast
+10557660	endothelial cell	fibroblast
+10797521	pericyte	fibroblast
+11912418	stromal cell	fibroblast
+15126586	muscle cell	fibroblast
+16171502	CD4-positive, alpha-beta T cell	fibroblast
+16171645	lymphocyte	fibroblast
+16172442	T cell	fibroblast
+16173494	squamous epithelial cell	fibroblast
+16174115	squamous epithelial cell	fibroblast
+16176467	squamous epithelial cell	fibroblast
+16177568	squamous epithelial cell	fibroblast
+16178913	squamous epithelial cell	fibroblast
+16180084	squamous epithelial cell	fibroblast
+16183044	squamous epithelial cell	fibroblast
+16183927	squamous epithelial cell	fibroblast
+16184519	secretory cell	fibroblast
+16185270	squamous epithelial cell	fibroblast
+17189073	muscle cell	fibroblast
+17779000	endo-epithelial cell	fibroblast
+17921145	glandular epithelial cell	fibroblast
+19558645	pericyte	fibroblast
+20165269	meso-epithelial cell	fibroblast
+20189375	mural cell	fibroblast
+20191523	glial cell	fibroblast
+20219919	duct epithelial cell	fibroblast
+20269179	mural cell	fibroblast
+20361264	mural cell	fibroblast
+20416181	endothelial cell	fibroblast
+20425133	mural cell	fibroblast
+23426488	neuron associated cell	fibroblast
+23455157	stromal cell	fibroblast
+23472306	muscle cell	fibroblast
+24191948	myofibroblast cell	fibroblast
+24724520	pericyte	fibroblast
+25357662	columnar/cuboidal epithelial cell	fibroblast
+25373715	muscle cell	fibroblast
+33031938	hematopoietic cell	fibroblast
+33284395	myofibroblast cell	fibroblast
+33284835	myofibroblast cell	fibroblast
+33837475	muscle cell	fibroblast
+35767798	stromal cell	fibroblast
+36114887	epithelial cell of lung	fibroblast
+36115269	endothelial cell	fibroblast
+36125750	ciliated cell	fibroblast
+37207446	pericyte	fibroblast
+37810580	lymphocyte	fibroblast
+42804937	inflammatory cell	fibroblast
+42806743	inflammatory cell	fibroblast
+42807076	secretory cell	fibroblast
+42812055	inflammatory cell	fibroblast
+42815524	inflammatory cell	fibroblast
+42815536	inflammatory cell	fibroblast
+42815649	inflammatory cell	fibroblast
+42815935	inflammatory cell	fibroblast
+42816025	inflammatory cell	fibroblast
+42985998	fat cell	fibroblast
+43003927	duct epithelial cell	fibroblast
+43144374	muscle cell	fibroblast
+43157272	muscle cell	fibroblast
+43172568	dendritic cell	fibroblast
+50063357	pericyte	fibroblast
+50205428	kidney epithelial cell	fibroblast
+50246289	pericyte	fibroblast
+50265789	abnormal cell	fibroblast
+50272760	pericyte	fibroblast
+50312755	cardiocyte	fibroblast
+50316601	macrophage	fibroblast
+50337927	pericyte	fibroblast
+50491092	stromal cell	fibroblast
+54315709	endothelial cell	fibroblast
+54317476	endo-epithelial cell	fibroblast
+54325631	muscle cell	fibroblast
+54330146	muscle cell	fibroblast
+54344055	muscle cell	fibroblast
+54345087	muscle cell	fibroblast
+54350146	muscle cell	fibroblast
+54363064	endothelial cell	fibroblast
+54363559	muscle cell	fibroblast
+54479208	adventitial cell	fibroblast
+54533453	stem cell	fibroblast
+54583093	fat cell	fibroblast
+54643985	connective tissue cell	fibroblast
+54722127	stem cell	fibroblast
+54780165	stromal cell	fibroblast
+54917989	adventitial cell	fibroblast
+63551090	mural cell	fibroblast
+63570736	cardiocyte	fibroblast
+63625140	cardiocyte	fibroblast
+63685542	cardiocyte	fibroblast
+64395373	duct epithelial cell	fibroblast
+64414769	pericyte	fibroblast
+64434866	exocrine cell	fibroblast
+65492699	primordial germ cell	fibroblast
+21820299	meso-epithelial cell	germ cell
+7559758	endo-epithelial cell	glandular epithelial cell
+16228848	endo-epithelial cell	glandular epithelial cell
+16453601	endo-epithelial cell	glandular epithelial cell
+16599597	endo-epithelial cell	glandular epithelial cell
+16777501	epithelial cell of lung	glandular epithelial cell
+16982963	endo-epithelial cell	glandular epithelial cell
+17049574	endo-epithelial cell	glandular epithelial cell
+17112594	endo-epithelial cell	glandular epithelial cell
+17151425	epithelial cell of lung	glandular epithelial cell
+17153842	endo-epithelial cell	glandular epithelial cell
+17248236	endo-epithelial cell	glandular epithelial cell
+17274273	endo-epithelial cell	glandular epithelial cell
+17375815	ionocyte	glandular epithelial cell
+17541370	endo-epithelial cell	glandular epithelial cell
+17704215	endo-epithelial cell	glandular epithelial cell
+17862501	endo-epithelial cell	glandular epithelial cell
+17936267	endo-epithelial cell	glandular epithelial cell
+18252324	endo-epithelial cell	glandular epithelial cell
+18331983	endo-epithelial cell	glandular epithelial cell
+18437584	endo-epithelial cell	glandular epithelial cell
+23499624	endo-epithelial cell	glandular epithelial cell
+23511644	endo-epithelial cell	glandular epithelial cell
+23523083	endo-epithelial cell	glandular epithelial cell
+23580282	endo-epithelial cell	glandular epithelial cell
+23581585	endo-epithelial cell	glandular epithelial cell
+23600455	stem cell	glandular epithelial cell
+23624094	endo-epithelial cell	glandular epithelial cell
+23922601	stem cell	glandular epithelial cell
+23926991	stem cell	glandular epithelial cell
+23991013	stem cell	glandular epithelial cell
+24657720	endo-epithelial cell	glandular epithelial cell
+24726580	endocrine cell	glandular epithelial cell
+24736280	endo-epithelial cell	glandular epithelial cell
+24742155	endo-epithelial cell	glandular epithelial cell
+24743998	endo-epithelial cell	glandular epithelial cell
+24751834	endo-epithelial cell	glandular epithelial cell
+24760226	endo-epithelial cell	glandular epithelial cell
+24765246	endo-epithelial cell	glandular epithelial cell
+24771261	endo-epithelial cell	glandular epithelial cell
+24775997	endo-epithelial cell	glandular epithelial cell
+24872778	endo-epithelial cell	glandular epithelial cell
+24921265	endocrine cell	glandular epithelial cell
+24938666	endo-epithelial cell	glandular epithelial cell
+25697146	transit amplifying cell	glandular epithelial cell
+25728383	B cell	glandular epithelial cell
+43014804	endo-epithelial cell	glandular epithelial cell
+43015821	endo-epithelial cell	glandular epithelial cell
+45063362	epithelial cell	glandular epithelial cell
+45082855	stromal cell	glandular epithelial cell
+45087700	leukocyte	glandular epithelial cell
+45109589	eukaryotic cell	glandular epithelial cell
+45110048	epithelial cell	glandular epithelial cell
+53530306	endo-epithelial cell	glandular epithelial cell
+54852450	seromucus secreting cell	glandular epithelial cell
+54891003	endocrine cell	glandular epithelial cell
+61738051	endo-epithelial cell	glandular epithelial cell
+61740858	endo-epithelial cell	glandular epithelial cell
+61747557	seromucus secreting cell	glandular epithelial cell
+61748711	endo-epithelial cell	glandular epithelial cell
+65331701	epithelial cell	glandular epithelial cell
+65333033	stratified epithelial cell	glandular epithelial cell
+65529000	primordial germ cell	glandular epithelial cell
+6801173	progenitor cell	glial cell
+6876647	neural cell	glial cell
+22430437	neuron	glial cell
+24428258	T cell	glial cell
+24430404	T cell	glial cell
+24430438	T cell	glial cell
+24438702	T cell	glial cell
+24443272	interneuron	glial cell
+25345549	columnar/cuboidal epithelial cell	glial cell
+35746729	transit amplifying cell	glial cell
+35847759	macrophage	glial cell
+35861125	non-terminally differentiated cell	glial cell
+35867815	macrophage	glial cell
+35870798	hematopoietic cell	glial cell
+39926481	progenitor cell	glial cell
+43016719	neuron	glial cell
+43032938	fibroblast	glial cell
+43061635	muscle cell	glial cell
+51390279	progenitor cell	glial cell
+51410446	CNS neuron (sensu Vertebrata)	glial cell
+51416928	CNS neuron (sensu Vertebrata)	glial cell
+51485121	progenitor cell	glial cell
+53323143	pigment cell	glial cell
+54651671	epithelial cell	glial cell
+54653144	epithelial cell	glial cell
+54653567	epithelial cell	glial cell
+57702796	endo-epithelial cell	glial cell
+57713613	sensory neuron	glial cell
+57730079	sensory neuron	glial cell
+57735525	sensory neuron	glial cell
+58176295	CNS neuron (sensu Vertebrata)	glial cell
+58182925	CNS neuron (sensu Vertebrata)	glial cell
+58206309	CNS neuron (sensu Vertebrata)	glial cell
+58216580	CNS neuron (sensu Vertebrata)	glial cell
+58249024	CNS neuron (sensu Vertebrata)	glial cell
+58260512	CNS neuron (sensu Vertebrata)	glial cell
+58268642	CNS neuron (sensu Vertebrata)	glial cell
+58280921	CNS neuron (sensu Vertebrata)	glial cell
+58315649	CNS neuron (sensu Vertebrata)	glial cell
+58321038	CNS neuron (sensu Vertebrata)	glial cell
+58327303	CNS neuron (sensu Vertebrata)	glial cell
+58331083	CNS neuron (sensu Vertebrata)	glial cell
+58410293	CNS neuron (sensu Vertebrata)	glial cell
+58417670	neuron associated cell	glial cell
+58423805	neuron associated cell	glial cell
+58424805	CNS neuron (sensu Vertebrata)	glial cell
+58546364	CNS neuron (sensu Vertebrata)	glial cell
+58572621	neuron associated cell	glial cell
+58632039	CNS neuron (sensu Vertebrata)	glial cell
+58686577	neuron associated cell	glial cell
+58714102	neuron associated cell	glial cell
+58767550	CNS neuron (sensu Vertebrata)	glial cell
+58770477	CNS neuron (sensu Vertebrata)	glial cell
+58775124	neuron associated cell	glial cell
+58792700	GABAergic neuron	glial cell
+58822814	CNS neuron (sensu Vertebrata)	glial cell
+58825606	neuron associated cell	glial cell
+58870858	CNS neuron (sensu Vertebrata)	glial cell
+58904871	neuron associated cell	glial cell
+58965875	neuron associated cell	glial cell
+59006663	CNS neuron (sensu Vertebrata)	glial cell
+59072872	CNS neuron (sensu Vertebrata)	glial cell
+59087695	CNS neuron (sensu Vertebrata)	glial cell
+59107166	neuron associated cell	glial cell
+64950983	endothelial cell	glial cell
+65164395	glutamatergic neuron	glial cell
+65337724	macrophage	glial cell
+65347051	endothelial cell	glial cell
+43252010	non-terminally differentiated cell	glutamatergic neuron
+43267086	non-terminally differentiated cell	glutamatergic neuron
+43301350	non-terminally differentiated cell	glutamatergic neuron
+51454193	progenitor cell	glutamatergic neuron
+51649397	GABAergic neuron	glutamatergic neuron
+51658377	GABAergic neuron	glutamatergic neuron
+51691003	progenitor cell	glutamatergic neuron
+51745106	progenitor cell	glutamatergic neuron
+51782173	progenitor cell	glutamatergic neuron
+51810813	progenitor cell	glutamatergic neuron
+51811092	progenitor cell	glutamatergic neuron
+59325879	motor neuron	glutamatergic neuron
+59725174	motor neuron	glutamatergic neuron
+14936501	myeloid cell	hematopoietic cell
+20113729	T cell	hematopoietic cell
+20135471	lymphocyte	hematopoietic cell
+21738910	leukocyte	hematopoietic cell
+21739529	hematopoietic precursor cell	hematopoietic cell
+21739637	T cell	hematopoietic cell
+21741019	progenitor cell	hematopoietic cell
+21750846	dendritic cell	hematopoietic cell
+21752841	myeloid cell	hematopoietic cell
+21754551	macrophage	hematopoietic cell
+21754627	myeloid cell	hematopoietic cell
+21791249	myeloid cell	hematopoietic cell
+21815263	hematopoietic precursor cell	hematopoietic cell
+21831954	myeloid cell	hematopoietic cell
+22176014	lymphocyte	hematopoietic cell
+22216933	hematopoietic precursor cell	hematopoietic cell
+22242474	abnormal cell	hematopoietic cell
+22251184	myeloid cell	hematopoietic cell
+41966172	leukocyte	hematopoietic cell
+41978496	dendritic cell	hematopoietic cell
+42004386	macrophage	hematopoietic cell
+42008336	myeloid cell	hematopoietic cell
+42020772	hematopoietic precursor cell	hematopoietic cell
+48967543	T cell	hematopoietic cell
+49001917	monocyte	hematopoietic cell
+49033852	CD4-positive, alpha-beta T cell	hematopoietic cell
+49117165	hematopoietic precursor cell	hematopoietic cell
+49180133	T cell	hematopoietic cell
+49190203	T cell	hematopoietic cell
+49201457	T cell	hematopoietic cell
+49203814	lymphocyte	hematopoietic cell
+49234324	T cell	hematopoietic cell
+49277396	CD4-positive, alpha-beta T cell	hematopoietic cell
+49294999	T cell	hematopoietic cell
+49312976	CD8-positive, alpha-beta T cell	hematopoietic cell
+49325818	lymphocyte	hematopoietic cell
+49339803	CD4-positive, alpha-beta T cell	hematopoietic cell
+49366551	CD4-positive, alpha-beta T cell	hematopoietic cell
+49373809	B cell	hematopoietic cell
+49375297	lymphocyte	hematopoietic cell
+49430126	CD4-positive, alpha-beta T cell	hematopoietic cell
+49445086	B cell	hematopoietic cell
+49509702	T cell	hematopoietic cell
+49523653	monocyte	hematopoietic cell
+49530263	T cell	hematopoietic cell
+49551296	monocyte	hematopoietic cell
+49551932	monocyte	hematopoietic cell
+49590783	T cell	hematopoietic cell
+49613015	lymphocyte	hematopoietic cell
+49620063	T cell	hematopoietic cell
+49625735	monocyte	hematopoietic cell
+49631188	monocyte	hematopoietic cell
+49653317	T cell	hematopoietic cell
+49669410	T cell	hematopoietic cell
+49670144	B cell	hematopoietic cell
+49692707	B cell	hematopoietic cell
+49716487	monocyte	hematopoietic cell
+49751651	lymphocyte	hematopoietic cell
+49759818	T cell	hematopoietic cell
+50356945	myeloid cell	hematopoietic cell
+50397256	B cell	hematopoietic cell
+61727288	stem cell	hematopoietic cell
+61730922	stromal cell	hematopoietic cell
+61731418	GABAergic neuron	hematopoietic cell
+61731441	leukocyte	hematopoietic cell
+61736863	stromal cell	hematopoietic cell
+5809321	myeloid cell	hematopoietic precursor cell
+5814060	B cell	hematopoietic precursor cell
+5841015	myeloid cell	hematopoietic precursor cell
+5842231	B cell	hematopoietic precursor cell
+5843411	B cell	hematopoietic precursor cell
+5844057	myeloid cell	hematopoietic precursor cell
+5845234	myeloid cell	hematopoietic precursor cell
+5845347	B cell	hematopoietic precursor cell
+5847347	B cell	hematopoietic precursor cell
+5847696	myeloid cell	hematopoietic precursor cell
+5868932	B cell	hematopoietic precursor cell
+5870593	B cell	hematopoietic precursor cell
+5878650	B cell	hematopoietic precursor cell
+5885981	B cell	hematopoietic precursor cell
+5890399	B cell	hematopoietic precursor cell
+5891808	B cell	hematopoietic precursor cell
+5894340	B cell	hematopoietic precursor cell
+5895008	B cell	hematopoietic precursor cell
+5898575	B cell	hematopoietic precursor cell
+5901885	B cell	hematopoietic precursor cell
+5904201	myeloid cell	hematopoietic precursor cell
+5913261	B cell	hematopoietic precursor cell
+5921784	myeloid cell	hematopoietic precursor cell
+5921956	myeloid cell	hematopoietic precursor cell
+5922603	myeloid cell	hematopoietic precursor cell
+5922898	myeloid cell	hematopoietic precursor cell
+5922947	myeloid cell	hematopoietic precursor cell
+5924077	myeloid cell	hematopoietic precursor cell
+5926305	myeloid cell	hematopoietic precursor cell
+5926507	myeloid cell	hematopoietic precursor cell
+5927616	myeloid cell	hematopoietic precursor cell
+5933161	B cell	hematopoietic precursor cell
+11640448	lymphocyte	hematopoietic precursor cell
+11652038	CD8-positive, alpha-beta T cell	hematopoietic precursor cell
+11669379	lymphocyte	hematopoietic precursor cell
+11674879	monocyte	hematopoietic precursor cell
+11677080	myeloid cell	hematopoietic precursor cell
+11709649	myeloid cell	hematopoietic precursor cell
+21711542	B cell	hematopoietic precursor cell
+21714628	myeloid cell	hematopoietic precursor cell
+21715236	lymphocyte	hematopoietic precursor cell
+21716631	myeloid cell	hematopoietic precursor cell
+21718513	T cell	hematopoietic precursor cell
+21718980	T cell	hematopoietic precursor cell
+21722551	lymphocyte	hematopoietic precursor cell
+32602981	myeloid cell	hematopoietic precursor cell
+32618868	myeloid cell	hematopoietic precursor cell
+32621320	myeloid cell	hematopoietic precursor cell
+32621820	myeloid cell	hematopoietic precursor cell
+32621853	myeloid cell	hematopoietic precursor cell
+32622225	myeloid cell	hematopoietic precursor cell
+32624081	myeloid cell	hematopoietic precursor cell
+32624803	leukocyte	hematopoietic precursor cell
+32625350	myeloid cell	hematopoietic precursor cell
+32625494	myeloid cell	hematopoietic precursor cell
+32626692	myeloid cell	hematopoietic precursor cell
+32627795	myeloid cell	hematopoietic precursor cell
+32632357	myeloid cell	hematopoietic precursor cell
+32632732	myeloid cell	hematopoietic precursor cell
+32633246	myeloid cell	hematopoietic precursor cell
+32633681	myeloid cell	hematopoietic precursor cell
+32633797	myeloid cell	hematopoietic precursor cell
+32634825	myeloid cell	hematopoietic precursor cell
+32635882	myeloid cell	hematopoietic precursor cell
+32636459	endothelial cell	hematopoietic precursor cell
+32636523	myeloid cell	hematopoietic precursor cell
+32638354	myeloid cell	hematopoietic precursor cell
+32641238	myeloid cell	hematopoietic precursor cell
+32641605	myeloid cell	hematopoietic precursor cell
+32642548	myeloid cell	hematopoietic precursor cell
+32645302	B cell	hematopoietic precursor cell
+32647816	myeloid cell	hematopoietic precursor cell
+32651011	myeloid cell	hematopoietic precursor cell
+32651484	leukocyte	hematopoietic precursor cell
+32663982	myeloid cell	hematopoietic precursor cell
+32664865	myeloid cell	hematopoietic precursor cell
+32673132	myeloid cell	hematopoietic precursor cell
+32720518	myeloid cell	hematopoietic precursor cell
+32753187	B cell	hematopoietic precursor cell
+33006725	myeloid cell	hematopoietic precursor cell
+33014385	myeloid cell	hematopoietic precursor cell
+33095974	myeloid cell	hematopoietic precursor cell
+33327442	myeloid cell	hematopoietic precursor cell
+33802410	lymphocyte	hematopoietic precursor cell
+39952053	B cell	hematopoietic precursor cell
+39963387	myeloid cell	hematopoietic precursor cell
+39972603	myeloid cell	hematopoietic precursor cell
+39973837	myeloid cell	hematopoietic precursor cell
+39981668	myeloid cell	hematopoietic precursor cell
+39989039	myeloid cell	hematopoietic precursor cell
+39992388	B cell	hematopoietic precursor cell
+39999812	myeloid cell	hematopoietic precursor cell
+40000438	myeloid cell	hematopoietic precursor cell
+40001386	myeloid cell	hematopoietic precursor cell
+40001450	myeloid cell	hematopoietic precursor cell
+40012063	myeloid cell	hematopoietic precursor cell
+40013181	myeloid cell	hematopoietic precursor cell
+40014150	myeloid cell	hematopoietic precursor cell
+40014370	myeloid cell	hematopoietic precursor cell
+40016428	myeloid cell	hematopoietic precursor cell
+40016980	myeloid cell	hematopoietic precursor cell
+40017459	myeloid cell	hematopoietic precursor cell
+40017657	myeloid cell	hematopoietic precursor cell
+40017748	myeloid cell	hematopoietic precursor cell
+40017845	myeloid cell	hematopoietic precursor cell
+40018365	myeloid cell	hematopoietic precursor cell
+40018714	myeloid cell	hematopoietic precursor cell
+40018786	myeloid cell	hematopoietic precursor cell
+40018967	myeloid cell	hematopoietic precursor cell
+40019255	myeloid cell	hematopoietic precursor cell
+40038491	B cell	hematopoietic precursor cell
+40038819	myeloid cell	hematopoietic precursor cell
+40040094	myeloid cell	hematopoietic precursor cell
+40040478	myeloid cell	hematopoietic precursor cell
+40082278	cardiocyte	hematopoietic precursor cell
+40101406	non-terminally differentiated cell	hematopoietic precursor cell
+40214893	lymphocyte	hematopoietic precursor cell
+40224709	sensory neuron	hematopoietic precursor cell
+40226113	cardiocyte	hematopoietic precursor cell
+40233735	lymphocyte	hematopoietic precursor cell
+42118004	T cell	hematopoietic precursor cell
+42128113	myeloid cell	hematopoietic precursor cell
+42174771	T cell	hematopoietic precursor cell
+42253680	lymphocyte	hematopoietic precursor cell
+42258693	lymphocyte	hematopoietic precursor cell
+42273991	dendritic cell	hematopoietic precursor cell
+42317443	myeloid cell	hematopoietic precursor cell
+42323505	myeloid cell	hematopoietic precursor cell
+42443254	leukocyte	hematopoietic precursor cell
+42589234	T cell	hematopoietic precursor cell
+42593181	T cell	hematopoietic precursor cell
+42593524	T cell	hematopoietic precursor cell
+42596044	T cell	hematopoietic precursor cell
+42601349	T cell	hematopoietic precursor cell
+42603587	T cell	hematopoietic precursor cell
+42616080	myeloid cell	hematopoietic precursor cell
+42618415	T cell	hematopoietic precursor cell
+42652256	T cell	hematopoietic precursor cell
+45953964	lymphocyte	hematopoietic precursor cell
+47715769	myeloid cell	hematopoietic precursor cell
+47791206	myeloid cell	hematopoietic precursor cell
+50838387	myeloid cell	hematopoietic precursor cell
+50841909	progenitor cell	hematopoietic precursor cell
+50957289	myeloid cell	hematopoietic precursor cell
+50978270	myeloid cell	hematopoietic precursor cell
+50996530	myeloid cell	hematopoietic precursor cell
+51119527	myeloid cell	hematopoietic precursor cell
+51211595	myeloid cell	hematopoietic precursor cell
+51364288	myeloid cell	hematopoietic precursor cell
+54527772	leukocyte	hematopoietic precursor cell
+54581174	leukocyte	hematopoietic precursor cell
+54694871	CD8-positive, alpha-beta T cell	hematopoietic precursor cell
+54695127	CD4-positive, alpha-beta T cell	hematopoietic precursor cell
+54696513	T cell	hematopoietic precursor cell
+54716318	lymphocyte	hematopoietic precursor cell
+61303009	myeloid cell	hematopoietic precursor cell
+61327414	myeloid cell	hematopoietic precursor cell
+61381551	myeloid cell	hematopoietic precursor cell
+64780314	monocyte	hematopoietic precursor cell
+64817645	myeloid cell	hematopoietic precursor cell
+65480444	myeloid cell	hematopoietic precursor cell
+65480528	myeloid cell	hematopoietic precursor cell
+65481066	myeloid cell	hematopoietic precursor cell
+33030467	duct epithelial cell	hepatocyte
+50603358	stromal cell	hepatocyte
+50605548	stromal cell	hepatocyte
+50606354	stromal cell	hepatocyte
+50608037	stromal cell	hepatocyte
+50608867	stromal cell	hepatocyte
+50608895	stromal cell	hepatocyte
+50609658	stromal cell	hepatocyte
+50643247	endothelial cell	hepatocyte
+50655799	duct epithelial cell	hepatocyte
+42812212	fibroblast	inflammatory cell
+881821	GABAergic neuron	interneuron
+7440552	neuron	interneuron
+7457122	neuron	interneuron
+24433332	T cell	interneuron
+24449913	glial cell	interneuron
+25455873	GABAergic neuron	interneuron
+35868975	motor neuron	interneuron
+35876077	motor neuron	interneuron
+35876898	motor neuron	interneuron
+57701909	CNS neuron (sensu Vertebrata)	interneuron
+57704194	CNS neuron (sensu Vertebrata)	interneuron
+57710995	CNS neuron (sensu Vertebrata)	interneuron
+57711782	CNS neuron (sensu Vertebrata)	interneuron
+57711997	CNS neuron (sensu Vertebrata)	interneuron
+57722936	CNS neuron (sensu Vertebrata)	interneuron
+57724963	CNS neuron (sensu Vertebrata)	interneuron
+57740465	CNS neuron (sensu Vertebrata)	interneuron
+57742400	CNS neuron (sensu Vertebrata)	interneuron
+57744386	motor neuron	interneuron
+58464152	CNS neuron (sensu Vertebrata)	interneuron
+58485216	CNS neuron (sensu Vertebrata)	interneuron
+58540750	glutamatergic neuron	interneuron
+58620689	CNS neuron (sensu Vertebrata)	interneuron
+58800482	GABAergic neuron	interneuron
+58927376	CNS neuron (sensu Vertebrata)	interneuron
+59040552	glutamatergic neuron	interneuron
+62864489	GABAergic neuron	interneuron
+21854341	mesenchymal cell	interstitial cell
+21857035	germ cell	interstitial cell
+16393110	epithelial cell of lung	ionocyte
+18440672	endo-epithelial cell	ionocyte
+19613425	columnar/cuboidal epithelial cell	kidney cell
+19613635	columnar/cuboidal epithelial cell	kidney cell
+19615680	columnar/cuboidal epithelial cell	kidney cell
+42875921	kidney epithelial cell	kidney cell
+42876564	meso-epithelial cell	kidney cell
+42876902	kidney epithelial cell	kidney cell
+42877898	kidney epithelial cell	kidney cell
+42878318	kidney epithelial cell	kidney cell
+42880163	kidney epithelial cell	kidney cell
+49793205	kidney epithelial cell	kidney cell
+49856123	supporting cell	kidney cell
+50204422	meso-epithelial cell	kidney cell
+25759347	meso-epithelial cell	kidney epithelial cell
+25777217	meso-epithelial cell	kidney epithelial cell
+25777800	meso-epithelial cell	kidney epithelial cell
+25778219	meso-epithelial cell	kidney epithelial cell
+25780071	meso-epithelial cell	kidney epithelial cell
+25789757	meso-epithelial cell	kidney epithelial cell
+33410480	glial cell	kidney epithelial cell
+42873561	kidney cell	kidney epithelial cell
+42874241	kidney cell	kidney epithelial cell
+42875273	kidney cell	kidney epithelial cell
+42875422	kidney cell	kidney epithelial cell
+42876078	kidney cell	kidney epithelial cell
+42876359	kidney cell	kidney epithelial cell
+42876818	kidney cell	kidney epithelial cell
+42876913	kidney cell	kidney epithelial cell
+42878266	kidney cell	kidney epithelial cell
+42878505	kidney cell	kidney epithelial cell
+42880053	kidney cell	kidney epithelial cell
+48174496	stem cell	kidney epithelial cell
+49770052	meso-epithelial cell	kidney epithelial cell
+49774864	meso-epithelial cell	kidney epithelial cell
+49780846	meso-epithelial cell	kidney epithelial cell
+49780922	meso-epithelial cell	kidney epithelial cell
+49788462	meso-epithelial cell	kidney epithelial cell
+49793966	meso-epithelial cell	kidney epithelial cell
+49794419	meso-epithelial cell	kidney epithelial cell
+49797753	meso-epithelial cell	kidney epithelial cell
+49798674	meso-epithelial cell	kidney epithelial cell
+49800322	meso-epithelial cell	kidney epithelial cell
+49810923	meso-epithelial cell	kidney epithelial cell
+49818905	meso-epithelial cell	kidney epithelial cell
+49819405	meso-epithelial cell	kidney epithelial cell
+49819987	meso-epithelial cell	kidney epithelial cell
+49820556	meso-epithelial cell	kidney epithelial cell
+49821309	meso-epithelial cell	kidney epithelial cell
+49822528	meso-epithelial cell	kidney epithelial cell
+49823042	meso-epithelial cell	kidney epithelial cell
+49834279	meso-epithelial cell	kidney epithelial cell
+49848067	meso-epithelial cell	kidney epithelial cell
+49848784	meso-epithelial cell	kidney epithelial cell
+49849235	meso-epithelial cell	kidney epithelial cell
+49850352	kidney cell	kidney epithelial cell
+49851430	meso-epithelial cell	kidney epithelial cell
+49853183	meso-epithelial cell	kidney epithelial cell
+49858418	meso-epithelial cell	kidney epithelial cell
+49860784	meso-epithelial cell	kidney epithelial cell
+49860908	meso-epithelial cell	kidney epithelial cell
+49861810	meso-epithelial cell	kidney epithelial cell
+49862320	meso-epithelial cell	kidney epithelial cell
+49866276	meso-epithelial cell	kidney epithelial cell
+49867933	meso-epithelial cell	kidney epithelial cell
+50048479	macrophage	kidney epithelial cell
+50049237	meso-epithelial cell	kidney epithelial cell
+50052378	meso-epithelial cell	kidney epithelial cell
+50054281	meso-epithelial cell	kidney epithelial cell
+50063032	meso-epithelial cell	kidney epithelial cell
+50179885	meso-epithelial cell	kidney epithelial cell
+50187930	meso-epithelial cell	kidney epithelial cell
+50208657	meso-epithelial cell	kidney epithelial cell
+50225766	meso-epithelial cell	kidney epithelial cell
+50230190	meso-epithelial cell	kidney epithelial cell
+50244064	meso-epithelial cell	kidney epithelial cell
+50247433	meso-epithelial cell	kidney epithelial cell
+50261903	meso-epithelial cell	kidney epithelial cell
+50263340	meso-epithelial cell	kidney epithelial cell
+50263624	meso-epithelial cell	kidney epithelial cell
+50280294	meso-epithelial cell	kidney epithelial cell
+50280716	meso-epithelial cell	kidney epithelial cell
+50287411	meso-epithelial cell	kidney epithelial cell
+50310341	meso-epithelial cell	kidney epithelial cell
+50312522	meso-epithelial cell	kidney epithelial cell
+50334360	columnar/cuboidal epithelial cell	kidney epithelial cell
+50336758	meso-epithelial cell	kidney epithelial cell
+50337818	meso-epithelial cell	kidney epithelial cell
+50342645	meso-epithelial cell	kidney epithelial cell
+50345047	meso-epithelial cell	kidney epithelial cell
+50346687	meso-epithelial cell	kidney epithelial cell
+64850973	columnar/cuboidal epithelial cell	kidney epithelial cell
+64852306	columnar/cuboidal epithelial cell	kidney epithelial cell
+64854148	meso-epithelial cell	kidney epithelial cell
+64859463	meso-epithelial cell	kidney epithelial cell
+65211319	epithelial cell	kidney epithelial cell
+65216498	meso-epithelial cell	kidney epithelial cell
+65459812	meso-epithelial cell	kidney epithelial cell
+65612770	meso-epithelial cell	kidney epithelial cell
+6551056	monocyte	leukocyte
+6561798	animal cell	leukocyte
+6585681	monocyte	leukocyte
+7589850	transit amplifying cell	leukocyte
+7604851	macrophage	leukocyte
+7605139	CD4-positive, alpha-beta T cell	leukocyte
+7605357	macrophage	leukocyte
+10533482	macrophage	leukocyte
+10562959	macrophage	leukocyte
+10620083	macrophage	leukocyte
+11937018	myeloid cell	leukocyte
+15871419	monocyte	leukocyte
+15875733	monocyte	leukocyte
+15881678	monocyte	leukocyte
+15954595	CD8-positive, alpha-beta T cell	leukocyte
+16172447	squamous epithelial cell	leukocyte
+16184569	T cell	leukocyte
+17683810	dendritic cell	leukocyte
+17979889	CD4-positive, alpha-beta T cell	leukocyte
+22297049	mesenchymal cell	leukocyte
+22300875	mesenchymal cell	leukocyte
+23669135	T cell	leukocyte
+23807746	dendritic cell	leukocyte
+24111726	T cell	leukocyte
+24113562	macrophage	leukocyte
+24116155	endocrine cell	leukocyte
+24121167	T cell	leukocyte
+24134309	dendritic cell	leukocyte
+24139598	dendritic cell	leukocyte
+24477763	lymphocyte	leukocyte
+24482459	macrophage	leukocyte
+25857618	myeloid cell	leukocyte
+26537718	macrophage	leukocyte
+26611303	T cell	leukocyte
+29340493	macrophage	leukocyte
+30744861	macrophage	leukocyte
+32614643	myeloid cell	leukocyte
+32621983	hematopoietic precursor cell	leukocyte
+32623357	myeloid cell	leukocyte
+32623836	myeloid cell	leukocyte
+32624183	hematopoietic precursor cell	leukocyte
+32628752	myeloid cell	leukocyte
+32629666	myeloid cell	leukocyte
+32632173	myeloid cell	leukocyte
+32639702	hematopoietic precursor cell	leukocyte
+32644581	myeloid cell	leukocyte
+32652753	hematopoietic precursor cell	leukocyte
+32653104	myeloid cell	leukocyte
+32653904	precursor cell	leukocyte
+32655739	myeloid cell	leukocyte
+32656285	myeloid cell	leukocyte
+32656851	myeloid cell	leukocyte
+32658484	myeloid cell	leukocyte
+32671361	myeloid cell	leukocyte
+32680935	myeloid cell	leukocyte
+32681335	hematopoietic precursor cell	leukocyte
+32682595	myeloid cell	leukocyte
+32684890	hematopoietic precursor cell	leukocyte
+32716587	CD8-positive, alpha-beta T cell	leukocyte
+32741843	stromal cell	leukocyte
+32756675	hematopoietic cell	leukocyte
+32867202	macrophage	leukocyte
+32877017	T cell	leukocyte
+32877582	macrophage	leukocyte
+32877640	CD4-positive, alpha-beta T cell	leukocyte
+32877677	dendritic cell	leukocyte
+33191359	myeloid cell	leukocyte
+33554238	myeloid cell	leukocyte
+33554303	myeloid cell	leukocyte
+37234001	macrophage	leukocyte
+37575259	CD4-positive, alpha-beta T cell	leukocyte
+38668746	hematopoietic cell	leukocyte
+42331367	hematopoietic precursor cell	leukocyte
+42884220	monocyte	leukocyte
+42994541	myeloid cell	leukocyte
+43055206	muscle cell	leukocyte
+43077640	myeloid cell	leukocyte
+43092620	glial cell	leukocyte
+43173515	dendritic cell	leukocyte
+43174183	dendritic cell	leukocyte
+43666896	abnormal cell	leukocyte
+45022571	supporting cell	leukocyte
+45094098	stromal cell	leukocyte
+45101599	eukaryotic cell	leukocyte
+46025716	myeloid cell	leukocyte
+47411843	myeloid cell	leukocyte
+48175553	macrophage	leukocyte
+48175794	macrophage	leukocyte
+48175924	myeloid cell	leukocyte
+50070113	meso-epithelial cell	leukocyte
+50250873	meso-epithelial cell	leukocyte
+54210852	lymphocyte	leukocyte
+54293672	fibroblast	leukocyte
+54489175	monocyte	leukocyte
+54499878	T cell	leukocyte
+54515326	T cell	leukocyte
+54578860	fibroblast	leukocyte
+54704225	monocyte	leukocyte
+54714014	monocyte	leukocyte
+56602733	monocyte	leukocyte
+56609458	monocyte	leukocyte
+57445627	squamous epithelial cell	leukocyte
+61750151	lymphocyte	leukocyte
+61750928	myeloid cell	leukocyte
+61751957	lymphocyte	leukocyte
+61753056	myeloid cell	leukocyte
+63060921	myeloid cell	leukocyte
+64034918	CD4-positive, alpha-beta T cell	leukocyte
+64035223	lymphocyte	leukocyte
+64037429	B cell	leukocyte
+64037891	CD4-positive, alpha-beta T cell	leukocyte
+64042065	T cell	leukocyte
+64042302	myeloid cell	leukocyte
+64048790	CD8-positive, alpha-beta T cell	leukocyte
+64049292	CD4-positive, alpha-beta T cell	leukocyte
+64049808	CD8-positive, alpha-beta T cell	leukocyte
+64054281	CD4-positive, alpha-beta T cell	leukocyte
+64057695	CD4-positive, alpha-beta T cell	leukocyte
+64060867	CD4-positive, alpha-beta T cell	leukocyte
+64061795	CD4-positive, alpha-beta T cell	leukocyte
+64067056	T cell	leukocyte
+64808021	dendritic cell	leukocyte
+65117380	hematopoietic precursor cell	leukocyte
+65153148	myeloid cell	leukocyte
+65480382	hematopoietic precursor cell	leukocyte
+65625804	monocyte	leukocyte
+5320410	CD8-positive, alpha-beta T cell	lymphocyte
+5324009	CD8-positive, alpha-beta T cell	lymphocyte
+5338898	CD4-positive, alpha-beta T cell	lymphocyte
+5348443	T cell	lymphocyte
+5349625	CD8-positive, alpha-beta T cell	lymphocyte
+5351349	leukocyte	lymphocyte
+5351647	CD8-positive, alpha-beta T cell	lymphocyte
+5378170	myeloid cell	lymphocyte
+5441581	CD4-positive, alpha-beta T cell	lymphocyte
+5689878	myeloid cell	lymphocyte
+5754449	CD8-positive, alpha-beta T cell	lymphocyte
+5847525	hematopoietic precursor cell	lymphocyte
+5908236	hematopoietic precursor cell	lymphocyte
+6561336	T cell	lymphocyte
+6623359	T cell	lymphocyte
+6642473	T cell	lymphocyte
+7523485	B cell	lymphocyte
+10358452	T cell	lymphocyte
+10362705	leukocyte	lymphocyte
+10463129	CD8-positive, alpha-beta T cell	lymphocyte
+10614025	endothelial cell	lymphocyte
+10628597	T cell	lymphocyte
+10634534	B cell	lymphocyte
+10858656	T cell	lymphocyte
+10859075	T cell	lymphocyte
+10861236	T cell	lymphocyte
+10866313	T cell	lymphocyte
+10867264	T cell	lymphocyte
+10868376	T cell	lymphocyte
+10872591	T cell	lymphocyte
+10875382	T cell	lymphocyte
+10875632	T cell	lymphocyte
+10884779	T cell	lymphocyte
+11648950	hematopoietic precursor cell	lymphocyte
+11649868	hematopoietic precursor cell	lymphocyte
+11659452	hematopoietic precursor cell	lymphocyte
+11699099	T cell	lymphocyte
+14926631	fat cell	lymphocyte
+14959464	hematopoietic precursor cell	lymphocyte
+15036872	T cell	lymphocyte
+15359611	T cell	lymphocyte
+15397909	hematopoietic precursor cell	lymphocyte
+15639072	CD8-positive, alpha-beta T cell	lymphocyte
+15866650	B cell	lymphocyte
+16300342	macrophage	lymphocyte
+17919358	T cell	lymphocyte
+18597498	CD8-positive, alpha-beta T cell	lymphocyte
+19376322	CD8-positive, alpha-beta T cell	lymphocyte
+19376904	CD8-positive, alpha-beta T cell	lymphocyte
+19398769	CD8-positive, alpha-beta T cell	lymphocyte
+19436935	CD8-positive, alpha-beta T cell	lymphocyte
+23428118	B cell	lymphocyte
+23429517	leukocyte	lymphocyte
+23653534	T cell	lymphocyte
+23665425	T cell	lymphocyte
+23669186	transit amplifying cell	lymphocyte
+23670535	T cell	lymphocyte
+23680090	T cell	lymphocyte
+23888426	stem cell	lymphocyte
+24027734	hematopoietic precursor cell	lymphocyte
+24029838	T cell	lymphocyte
+24032612	T cell	lymphocyte
+24152425	endothelial cell	lymphocyte
+24206390	endothelial cell	lymphocyte
+24213501	endothelial cell	lymphocyte
+25175330	T cell	lymphocyte
+25181061	muscle cell	lymphocyte
+25490721	animal cell	lymphocyte
+25556108	CD8-positive, alpha-beta T cell	lymphocyte
+25569601	B cell	lymphocyte
+25600767	hematopoietic precursor cell	lymphocyte
+25601026	myeloid cell	lymphocyte
+32682155	hematopoietic precursor cell	lymphocyte
+32724218	hematopoietic precursor cell	lymphocyte
+32737945	T cell	lymphocyte
+35711437	B cell	lymphocyte
+35787756	hematopoietic precursor cell	lymphocyte
+37218090	CD4-positive, alpha-beta T cell	lymphocyte
+37633712	B cell	lymphocyte
+38104079	epithelial cell of lung	lymphocyte
+38279733	B cell	lymphocyte
+40047303	myeloid cell	lymphocyte
+40053165	cardiocyte	lymphocyte
+40056738	hematopoietic precursor cell	lymphocyte
+40224627	sensory neuron	lymphocyte
+40225205	hematopoietic precursor cell	lymphocyte
+40226085	hematopoietic precursor cell	lymphocyte
+41046306	CD8-positive, alpha-beta T cell	lymphocyte
+41219070	CD8-positive, alpha-beta T cell	lymphocyte
+41223406	hematopoietic precursor cell	lymphocyte
+42076247	hematopoietic precursor cell	lymphocyte
+42128258	CD4-positive, alpha-beta T cell	lymphocyte
+42253705	leukocyte	lymphocyte
+42279198	endothelial cell	lymphocyte
+42429456	T cell	lymphocyte
+42855391	CD4-positive, alpha-beta T cell	lymphocyte
+42886970	hematopoietic precursor cell	lymphocyte
+43615885	T cell	lymphocyte
+45488238	T cell	lymphocyte
+45494502	T cell	lymphocyte
+45508088	CD8-positive, alpha-beta T cell	lymphocyte
+45522914	T cell	lymphocyte
+45535501	B cell	lymphocyte
+45690254	T cell	lymphocyte
+45796617	T cell	lymphocyte
+45813891	T cell	lymphocyte
+45935457	B cell	lymphocyte
+45940532	B cell	lymphocyte
+45946482	B cell	lymphocyte
+45957406	CD4-positive, alpha-beta T cell	lymphocyte
+45965880	B cell	lymphocyte
+45979185	T cell	lymphocyte
+45987399	T cell	lymphocyte
+46065476	epithelial cell of lung	lymphocyte
+46238832	T cell	lymphocyte
+46359743	CD8-positive, alpha-beta T cell	lymphocyte
+46709248	CD8-positive, alpha-beta T cell	lymphocyte
+46811834	T cell	lymphocyte
+46881868	CD4-positive, alpha-beta T cell	lymphocyte
+47362160	CD8-positive, alpha-beta T cell	lymphocyte
+47380354	CD8-positive, alpha-beta T cell	lymphocyte
+47382847	T cell	lymphocyte
+47384250	T cell	lymphocyte
+47390224	CD8-positive, alpha-beta T cell	lymphocyte
+47392186	CD4-positive, alpha-beta T cell	lymphocyte
+47638249	hematopoietic cell	lymphocyte
+47727872	B cell	lymphocyte
+47812139	CD8-positive, alpha-beta T cell	lymphocyte
+47818555	B cell	lymphocyte
+47833029	CD8-positive, alpha-beta T cell	lymphocyte
+47921015	CD8-positive, alpha-beta T cell	lymphocyte
+49604268	hematopoietic cell	lymphocyte
+50053506	meso-epithelial cell	lymphocyte
+50063013	T cell	lymphocyte
+50065810	T cell	lymphocyte
+50066691	T cell	lymphocyte
+50653673	hepatocyte	lymphocyte
+50733592	B cell	lymphocyte
+50766637	B cell	lymphocyte
+50766769	B cell	lymphocyte
+50767412	B cell	lymphocyte
+50767630	myeloid cell	lymphocyte
+50767988	B cell	lymphocyte
+50768365	B cell	lymphocyte
+50777396	B cell	lymphocyte
+50802649	B cell	lymphocyte
+50809173	B cell	lymphocyte
+50810937	T cell	lymphocyte
+50855253	B cell	lymphocyte
+50855370	T cell	lymphocyte
+50867970	B cell	lymphocyte
+50868392	B cell	lymphocyte
+50890032	B cell	lymphocyte
+50895555	B cell	lymphocyte
+50896605	B cell	lymphocyte
+50905414	B cell	lymphocyte
+50923728	B cell	lymphocyte
+50947847	B cell	lymphocyte
+50995195	B cell	lymphocyte
+50998601	B cell	lymphocyte
+51029569	B cell	lymphocyte
+51037600	B cell	lymphocyte
+51038179	B cell	lymphocyte
+51054925	B cell	lymphocyte
+51065017	B cell	lymphocyte
+51072506	B cell	lymphocyte
+51078420	B cell	lymphocyte
+51085233	B cell	lymphocyte
+51089250	B cell	lymphocyte
+51089748	T cell	lymphocyte
+51091169	B cell	lymphocyte
+51094516	B cell	lymphocyte
+51123863	B cell	lymphocyte
+51133358	B cell	lymphocyte
+51149468	B cell	lymphocyte
+51152931	B cell	lymphocyte
+51177545	B cell	lymphocyte
+51180442	B cell	lymphocyte
+51188776	B cell	lymphocyte
+51200027	B cell	lymphocyte
+51210358	B cell	lymphocyte
+51221962	B cell	lymphocyte
+51224819	B cell	lymphocyte
+51275602	B cell	lymphocyte
+51280908	B cell	lymphocyte
+51294114	B cell	lymphocyte
+51301863	B cell	lymphocyte
+51306724	B cell	lymphocyte
+51308533	CD8-positive, alpha-beta T cell	lymphocyte
+51311144	B cell	lymphocyte
+52312715	CD4-positive, alpha-beta T cell	lymphocyte
+52928677	CD8-positive, alpha-beta T cell	lymphocyte
+53649887	T cell	lymphocyte
+53718017	T cell	lymphocyte
+53732586	myeloid cell	lymphocyte
+54082647	T cell	lymphocyte
+54466273	T cell	lymphocyte
+54468572	T cell	lymphocyte
+54471717	CD4-positive, alpha-beta T cell	lymphocyte
+54474153	T cell	lymphocyte
+54476598	B cell	lymphocyte
+54477201	T cell	lymphocyte
+54587909	B cell	lymphocyte
+54587917	B cell	lymphocyte
+54588842	T cell	lymphocyte
+54599040	CD4-positive, alpha-beta T cell	lymphocyte
+54603890	CD4-positive, alpha-beta T cell	lymphocyte
+54610290	T cell	lymphocyte
+54694524	T cell	lymphocyte
+54695259	T cell	lymphocyte
+54695683	T cell	lymphocyte
+54695980	T cell	lymphocyte
+54696424	T cell	lymphocyte
+54698186	T cell	lymphocyte
+54702498	B cell	lymphocyte
+54735109	CD4-positive, alpha-beta T cell	lymphocyte
+54736126	B cell	lymphocyte
+54738452	CD8-positive, alpha-beta T cell	lymphocyte
+54740469	T cell	lymphocyte
+54742449	T cell	lymphocyte
+54905518	leukocyte	lymphocyte
+56453005	CD8-positive, alpha-beta T cell	lymphocyte
+56481745	T cell	lymphocyte
+56519381	T cell	lymphocyte
+57078543	squamous epithelial cell	lymphocyte
+57308777	CD8-positive, alpha-beta T cell	lymphocyte
+57547146	CD8-positive, alpha-beta T cell	lymphocyte
+57614636	CD8-positive, alpha-beta T cell	lymphocyte
+61300912	hematopoietic precursor cell	lymphocyte
+61327456	myeloid cell	lymphocyte
+61383249	myeloid cell	lymphocyte
+61445116	T cell	lymphocyte
+64038401	monocyte	lymphocyte
+64787625	T cell	lymphocyte
+65116388	CD8-positive, alpha-beta T cell	lymphocyte
+65763586	B cell	lymphocyte
+7364979	glial cell	macrophage
+7458344	neuron	macrophage
+8863860	leukocyte	macrophage
+8993798	leukocyte	macrophage
+10449147	leukocyte	macrophage
+10457757	monocyte	macrophage
+10485865	epithelial cell	macrophage
+10819513	dendritic cell	macrophage
+11587335	leukocyte	macrophage
+14931631	leukocyte	macrophage
+15043614	dendritic cell	macrophage
+15119302	leukocyte	macrophage
+15119307	dendritic cell	macrophage
+15119333	leukocyte	macrophage
+15406421	dendritic cell	macrophage
+15840251	leukocyte	macrophage
+16543922	myeloid cell	macrophage
+16683881	dendritic cell	macrophage
+17136790	leukocyte	macrophage
+17453776	monocyte	macrophage
+17482675	monocyte	macrophage
+17591023	leukocyte	macrophage
+18156860	myeloid cell	macrophage
+20467799	leukocyte	macrophage
+21721601	dendritic cell	macrophage
+22443763	myeloid cell	macrophage
+23467275	monocyte	macrophage
+23485219	monocyte	macrophage
+23803115	dendritic cell	macrophage
+23809527	dendritic cell	macrophage
+23815318	dendritic cell	macrophage
+23822032	dendritic cell	macrophage
+24117395	leukocyte	macrophage
+25151024	leukocyte	macrophage
+25398032	myeloid cell	macrophage
+25548017	monocyte	macrophage
+25666972	myeloid cell	macrophage
+25771316	dendritic cell	macrophage
+25784156	phagocyte	macrophage
+32700257	hematopoietic cell	macrophage
+32845367	monocyte	macrophage
+32845407	myeloid cell	macrophage
+32851852	monocyte	macrophage
+32932967	leukocyte	macrophage
+33028398	myeloid cell	macrophage
+33265619	myeloid cell	macrophage
+33266701	hepatocyte	macrophage
+35854884	glial cell	macrophage
+37180448	dendritic cell	macrophage
+37810659	dendritic cell	macrophage
+37861741	monocyte	macrophage
+38095604	monocyte	macrophage
+38294902	monocyte	macrophage
+39030197	monocyte	macrophage
+39266053	monocyte	macrophage
+39344534	leukocyte	macrophage
+39406912	dendritic cell	macrophage
+39645781	monocyte	macrophage
+42677206	T cell	macrophage
+42818473	hematopoietic cell	macrophage
+42884970	dendritic cell	macrophage
+42899180	phagocyte	macrophage
+43081049	leukocyte	macrophage
+43085116	leukocyte	macrophage
+43105985	myeloid cell	macrophage
+43641321	dendritic cell	macrophage
+46034554	leukocyte	macrophage
+46043423	phagocyte	macrophage
+47637799	abnormal cell	macrophage
+47675116	monocyte	macrophage
+49787585	dendritic cell	macrophage
+49787853	myeloid cell	macrophage
+49819723	phagocyte	macrophage
+49832829	phagocyte	macrophage
+49833280	dendritic cell	macrophage
+49870280	dendritic cell	macrophage
+50209959	meso-epithelial cell	macrophage
+50319124	leukocyte	macrophage
+50322265	phagocyte	macrophage
+50605500	hepatocyte	macrophage
+50622736	hepatocyte	macrophage
+50631894	hepatocyte	macrophage
+50639113	T cell	macrophage
+50651530	duct epithelial cell	macrophage
+50660559	hepatocyte	macrophage
+50661864	endothelial cell	macrophage
+51395628	CNS neuron (sensu Vertebrata)	macrophage
+54769111	monocyte	macrophage
+54790802	monocyte	macrophage
+54893673	monocyte	macrophage
+56606285	monocyte	macrophage
+57260401	monocyte	macrophage
+57430139	monocyte	macrophage
+63647837	myeloid cell	macrophage
+63714893	myeloid cell	macrophage
+64909767	leukocyte	macrophage
+64998186	glutamatergic neuron	macrophage
+64998798	glutamatergic neuron	macrophage
+65555421	dendritic cell	macrophage
+15088995	stem cell	mammary gland epithelial cell
+15599028	duct epithelial cell	mammary gland epithelial cell
+21757416	interstitial cell	mesenchymal cell
+21774572	interstitial cell	mesenchymal cell
+21789227	stromal cell	mesenchymal cell
+21808814	stromal cell	mesenchymal cell
+21814120	interstitial cell	mesenchymal cell
+22088565	stromal cell	mesenchymal cell
+22181932	stromal cell	mesenchymal cell
+22231348	somatic cell	mesenchymal cell
+22236278	stromal cell	mesenchymal cell
+22247313	somatic cell	mesenchymal cell
+10887348	monocyte	meso-epithelial cell
+10894939	monocyte	meso-epithelial cell
+10899010	monocyte	meso-epithelial cell
+14979108	fat cell	meso-epithelial cell
+14982218	neuron associated cell	meso-epithelial cell
+19619033	kidney epithelial cell	meso-epithelial cell
+20264624	fibroblast	meso-epithelial cell
+20357880	fibroblast	meso-epithelial cell
+21746297	supporting cell	meso-epithelial cell
+21750297	somatic cell	meso-epithelial cell
+21766833	mesenchymal cell	meso-epithelial cell
+21769997	hematopoietic cell	meso-epithelial cell
+21773049	hematopoietic cell	meso-epithelial cell
+21781993	mesenchymal cell	meso-epithelial cell
+21788102	hematopoietic cell	meso-epithelial cell
+21796284	mesenchymal cell	meso-epithelial cell
+21803430	hematopoietic cell	meso-epithelial cell
+21853693	ovarian surface epithelial cell	meso-epithelial cell
+22073957	somatic cell	meso-epithelial cell
+22076580	somatic cell	meso-epithelial cell
+22081916	stromal cell	meso-epithelial cell
+22090573	stromal cell	meso-epithelial cell
+22097853	ovarian surface epithelial cell	meso-epithelial cell
+22116495	ovarian surface epithelial cell	meso-epithelial cell
+22128839	ovarian surface epithelial cell	meso-epithelial cell
+22139590	ovarian surface epithelial cell	meso-epithelial cell
+22142717	ovarian surface epithelial cell	meso-epithelial cell
+22149963	stromal cell	meso-epithelial cell
+22150974	ovarian surface epithelial cell	meso-epithelial cell
+22154525	stromal cell	meso-epithelial cell
+22157279	ovarian surface epithelial cell	meso-epithelial cell
+22171642	somatic cell	meso-epithelial cell
+22193280	stromal cell	meso-epithelial cell
+22226496	ovarian surface epithelial cell	meso-epithelial cell
+22229970	supporting cell	meso-epithelial cell
+22252095	somatic cell	meso-epithelial cell
+22261994	ovarian surface epithelial cell	meso-epithelial cell
+22270790	supporting cell	meso-epithelial cell
+24476252	columnar/cuboidal epithelial cell	meso-epithelial cell
+24477174	columnar/cuboidal epithelial cell	meso-epithelial cell
+24479088	columnar/cuboidal epithelial cell	meso-epithelial cell
+24479620	kidney epithelial cell	meso-epithelial cell
+24481144	columnar/cuboidal epithelial cell	meso-epithelial cell
+24482101	columnar/cuboidal epithelial cell	meso-epithelial cell
+24482940	columnar/cuboidal epithelial cell	meso-epithelial cell
+24490804	columnar/cuboidal epithelial cell	meso-epithelial cell
+24491947	columnar/cuboidal epithelial cell	meso-epithelial cell
+24494000	columnar/cuboidal epithelial cell	meso-epithelial cell
+25759608	pericyte	meso-epithelial cell
+25761521	kidney epithelial cell	meso-epithelial cell
+25768336	kidney epithelial cell	meso-epithelial cell
+25781171	kidney epithelial cell	meso-epithelial cell
+42737871	stromal cell	meso-epithelial cell
+42905126	columnar/cuboidal epithelial cell	meso-epithelial cell
+43018176	endo-epithelial cell	meso-epithelial cell
+43024456	muscle cell	meso-epithelial cell
+49766116	kidney epithelial cell	meso-epithelial cell
+49768579	kidney epithelial cell	meso-epithelial cell
+49768670	kidney epithelial cell	meso-epithelial cell
+49778916	kidney epithelial cell	meso-epithelial cell
+49780625	kidney epithelial cell	meso-epithelial cell
+49792276	kidney epithelial cell	meso-epithelial cell
+49793983	kidney epithelial cell	meso-epithelial cell
+49796828	kidney epithelial cell	meso-epithelial cell
+49798383	kidney epithelial cell	meso-epithelial cell
+49811573	kidney epithelial cell	meso-epithelial cell
+49818312	kidney epithelial cell	meso-epithelial cell
+49818592	kidney epithelial cell	meso-epithelial cell
+49825494	kidney epithelial cell	meso-epithelial cell
+49830469	kidney epithelial cell	meso-epithelial cell
+49830605	kidney epithelial cell	meso-epithelial cell
+49831773	kidney epithelial cell	meso-epithelial cell
+49836262	kidney epithelial cell	meso-epithelial cell
+49840821	kidney epithelial cell	meso-epithelial cell
+49841086	kidney epithelial cell	meso-epithelial cell
+49841724	kidney epithelial cell	meso-epithelial cell
+49842594	kidney epithelial cell	meso-epithelial cell
+49853485	kidney epithelial cell	meso-epithelial cell
+49856272	kidney epithelial cell	meso-epithelial cell
+49856336	kidney epithelial cell	meso-epithelial cell
+50053138	kidney epithelial cell	meso-epithelial cell
+50057120	kidney epithelial cell	meso-epithelial cell
+50059182	muscle cell	meso-epithelial cell
+50059959	kidney epithelial cell	meso-epithelial cell
+50197328	kidney epithelial cell	meso-epithelial cell
+50198993	columnar/cuboidal epithelial cell	meso-epithelial cell
+50207001	kidney epithelial cell	meso-epithelial cell
+50227278	kidney epithelial cell	meso-epithelial cell
+50229159	kidney epithelial cell	meso-epithelial cell
+50239348	kidney epithelial cell	meso-epithelial cell
+50239470	kidney epithelial cell	meso-epithelial cell
+50244852	fibroblast	meso-epithelial cell
+50246471	kidney epithelial cell	meso-epithelial cell
+50259245	macrophage	meso-epithelial cell
+50271904	kidney epithelial cell	meso-epithelial cell
+50291980	kidney epithelial cell	meso-epithelial cell
+50303996	kidney epithelial cell	meso-epithelial cell
+50320500	columnar/cuboidal epithelial cell	meso-epithelial cell
+50327402	columnar/cuboidal epithelial cell	meso-epithelial cell
+50329845	kidney epithelial cell	meso-epithelial cell
+50346284	kidney cell	meso-epithelial cell
+50347220	kidney cell	meso-epithelial cell
+50347658	kidney cell	meso-epithelial cell
+50347894	kidney epithelial cell	meso-epithelial cell
+54629849	salivary gland cell	meso-epithelial cell
+57834434	stromal cell	meso-epithelial cell
+57926166	stem cell	meso-epithelial cell
+63808106	endothelial cell	meso-epithelial cell
+64860279	kidney epithelial cell	meso-epithelial cell
+65204725	kidney epithelial cell	meso-epithelial cell
+65205573	kidney epithelial cell	meso-epithelial cell
+65211215	kidney epithelial cell	meso-epithelial cell
+65216199	kidney epithelial cell	meso-epithelial cell
+65447177	epithelial cell	meso-epithelial cell
+65452910	epithelial cell	meso-epithelial cell
+65490289	stem cell	meso-epithelial cell
+65490294	stem cell	meso-epithelial cell
+65699208	epithelial cell	meso-epithelial cell
+35808458	myofibroblast cell	mesodermal cell
+35820991	fibroblast	mesodermal cell
+35829375	myofibroblast cell	mesodermal cell
+35839308	myofibroblast cell	mesodermal cell
+35863144	myofibroblast cell	mesodermal cell
+41966674	muscle cell	mesodermal cell
+41976224	muscle cell	mesodermal cell
+41987117	muscle cell	mesodermal cell
+41990209	muscle cell	mesodermal cell
+42006649	columnar/cuboidal epithelial cell	mesodermal cell
+42019832	columnar/cuboidal epithelial cell	mesodermal cell
+5912460	leukocyte	monocyte
+7536726	macrophage	monocyte
+10840725	T cell	monocyte
+10912894	dendritic cell	monocyte
+11034790	hematopoietic cell	monocyte
+15840455	macrophage	monocyte
+15885131	dendritic cell	monocyte
+15890800	leukocyte	monocyte
+15892837	leukocyte	monocyte
+15925223	dendritic cell	monocyte
+16200629	macrophage	monocyte
+16288779	leukocyte	monocyte
+17653883	macrophage	monocyte
+17795139	macrophage	monocyte
+18152213	macrophage	monocyte
+18894019	animal cell	monocyte
+19172358	dendritic cell	monocyte
+23476392	muscle cell	monocyte
+23816993	dendritic cell	monocyte
+25526156	T cell	monocyte
+25534084	T cell	monocyte
+25556583	dendritic cell	monocyte
+25563075	macrophage	monocyte
+25663327	dendritic cell	monocyte
+32648044	myeloid cell	monocyte
+32670144	myeloid cell	monocyte
+32697114	myeloid cell	monocyte
+32715420	myeloid cell	monocyte
+32940847	myeloid cell	monocyte
+33165046	leukocyte	monocyte
+33276816	dendritic cell	monocyte
+35806684	dendritic cell	monocyte
+37435305	macrophage	monocyte
+37906163	macrophage	monocyte
+38291193	dendritic cell	monocyte
+38717354	macrophage	monocyte
+38792638	macrophage	monocyte
+38957955	macrophage	monocyte
+39012779	macrophage	monocyte
+39124616	macrophage	monocyte
+39206926	macrophage	monocyte
+39309846	macrophage	monocyte
+39635314	macrophage	monocyte
+39642803	macrophage	monocyte
+39659235	macrophage	monocyte
+39992218	myeloid cell	monocyte
+40024879	myeloid cell	monocyte
+40025283	myeloid cell	monocyte
+40026802	myeloid cell	monocyte
+40031990	myeloid cell	monocyte
+42782581	macrophage	monocyte
+42794958	dendritic cell	monocyte
+42883308	leukocyte	monocyte
+45695427	hematopoietic precursor cell	monocyte
+45961199	dendritic cell	monocyte
+45999126	dendritic cell	monocyte
+46034892	dendritic cell	monocyte
+46036167	macrophage	monocyte
+46049152	macrophage	monocyte
+47380279	dendritic cell	monocyte
+47461914	hematopoietic cell	monocyte
+47463407	T cell	monocyte
+47485649	macrophage	monocyte
+47658637	macrophage	monocyte
+47678341	macrophage	monocyte
+49015415	hematopoietic cell	monocyte
+49051890	hematopoietic cell	monocyte
+49194226	hematopoietic cell	monocyte
+49210945	dendritic cell	monocyte
+49330479	hematopoietic cell	monocyte
+49359646	hematopoietic cell	monocyte
+49460005	hematopoietic cell	monocyte
+49539879	hematopoietic cell	monocyte
+49591726	hematopoietic cell	monocyte
+49643463	hematopoietic cell	monocyte
+49719741	hematopoietic cell	monocyte
+50751371	dendritic cell	monocyte
+50757979	T cell	monocyte
+50758294	T cell	monocyte
+50865923	hematopoietic precursor cell	monocyte
+50891623	T cell	monocyte
+50919600	hematopoietic precursor cell	monocyte
+50929445	T cell	monocyte
+51146401	dendritic cell	monocyte
+52816508	dendritic cell	monocyte
+52870544	dendritic cell	monocyte
+53582024	dendritic cell	monocyte
+53735332	hematopoietic cell	monocyte
+53773509	myeloid cell	monocyte
+54085827	myeloid cell	monocyte
+54319537	dendritic cell	monocyte
+54451121	CD8-positive, alpha-beta T cell	monocyte
+54491170	leukocyte	monocyte
+54601384	macrophage	monocyte
+54610451	macrophage	monocyte
+54758694	leukocyte	monocyte
+54853918	dendritic cell	monocyte
+56513175	dendritic cell	monocyte
+56617733	dendritic cell	monocyte
+56630357	leukocyte	monocyte
+56630366	dendritic cell	monocyte
+57385747	dendritic cell	monocyte
+57435235	leukocyte	monocyte
+57436232	leukocyte	monocyte
+57440710	squamous epithelial cell	monocyte
+57595779	dendritic cell	monocyte
+57677845	myeloid cell	monocyte
+63651492	myeloid cell	monocyte
+63671026	myeloid cell	monocyte
+63825548	myeloid cell	monocyte
+64041554	dendritic cell	monocyte
+65757798	dendritic cell	monocyte
+35785414	non-terminally differentiated cell	motor neuron
+35839395	interneuron	motor neuron
+35877898	non-terminally differentiated cell	motor neuron
+61000434	neuron	motor neuron
+61007491	neuron	motor neuron
+61022817	neuron	motor neuron
+61023914	neuron	motor neuron
+61060508	neuron	motor neuron
+61405350	glutamatergic neuron	motor neuron
+61405455	glutamatergic neuron	motor neuron
+61408326	glutamatergic neuron	motor neuron
+61421136	glutamatergic neuron	motor neuron
+61424565	glutamatergic neuron	motor neuron
+61425896	glutamatergic neuron	motor neuron
+61461990	glutamatergic neuron	motor neuron
+61512395	GABAergic neuron	motor neuron
+61540274	glutamatergic neuron	motor neuron
+61565783	glutamatergic neuron	motor neuron
+61614372	glutamatergic neuron	motor neuron
+5369198	pericyte	mural cell
+5705113	fibroblast	mural cell
+5717557	muscle cell	mural cell
+5721983	pericyte	mural cell
+5797014	pericyte	mural cell
+11566541	endothelial cell	mural cell
+22178463	fibroblast	mural cell
+38742021	fibroblast	mural cell
+41014088	pericyte	mural cell
+41107077	muscle cell	mural cell
+41132374	fibroblast	mural cell
+41233476	pericyte	mural cell
+41379191	pericyte	mural cell
+41385879	pericyte	mural cell
+41487658	pericyte	mural cell
+41553227	pericyte	mural cell
+41555406	pericyte	mural cell
+41649363	pericyte	mural cell
+6593564	pericyte	muscle cell
+10342281	stromal cell	muscle cell
+10385014	stromal cell	muscle cell
+10431183	stromal cell	muscle cell
+10505504	stromal cell	muscle cell
+14944528	neuron associated cell	muscle cell
+14950688	neuron associated cell	muscle cell
+14988695	neuron associated cell	muscle cell
+15184586	stem cell	muscle cell
+15197013	pericyte	muscle cell
+15556131	pericyte	muscle cell
+15557265	pericyte	muscle cell
+15566327	pericyte	muscle cell
+15568768	pericyte	muscle cell
+15700105	pericyte	muscle cell
+15703118	pericyte	muscle cell
+16835122	pericyte	muscle cell
+16943568	pericyte	muscle cell
+17537267	endothelial cell	muscle cell
+18250448	pericyte	muscle cell
+25297953	columnar/cuboidal epithelial cell	muscle cell
+25578657	pericyte	muscle cell
+25655195	pericyte	muscle cell
+26537450	endothelial cell	muscle cell
+28697734	endothelial cell	muscle cell
+31878034	fibroblast	muscle cell
+32673892	progenitor cell	muscle cell
+32731549	non-terminally differentiated cell	muscle cell
+32732140	mesodermal cell	muscle cell
+32743611	leukocyte	muscle cell
+32745487	cell of skeletal muscle	muscle cell
+33410418	fibroblast	muscle cell
+33507142	pericyte	muscle cell
+35794089	myofibroblast cell	muscle cell
+35860449	mesenchymal cell	muscle cell
+37731543	fibroblast	muscle cell
+37943738	pericyte	muscle cell
+41963132	mesodermal cell	muscle cell
+42020132	hematopoietic cell	muscle cell
+42094131	stem cell	muscle cell
+42731654	stem cell	muscle cell
+43036859	columnar/cuboidal epithelial cell	muscle cell
+43047333	glial cell	muscle cell
+43061881	endothelial cell	muscle cell
+43141811	endo-epithelial cell	muscle cell
+43143757	contractile cell	muscle cell
+43144141	fibroblast	muscle cell
+43163798	endo-epithelial cell	muscle cell
+43164950	contractile cell	muscle cell
+45039546	endothelial cell	muscle cell
+45040214	supporting cell	muscle cell
+45041739	supporting cell	muscle cell
+45065798	stromal cell	muscle cell
+45103769	stromal cell	muscle cell
+45801277	myofibroblast cell	muscle cell
+46013564	pericyte	muscle cell
+46034607	supporting cell	muscle cell
+46052034	pericyte	muscle cell
+46063356	leukocyte	muscle cell
+53555419	myofibroblast cell	muscle cell
+53556981	fibroblast	muscle cell
+54328501	fibroblast	muscle cell
+54340866	fibroblast	muscle cell
+54342055	fibroblast	muscle cell
+54346099	fibroblast	muscle cell
+54365636	pericyte	muscle cell
+54555589	cardiocyte	muscle cell
+54691452	pericyte	muscle cell
+54700270	myofibroblast cell	muscle cell
+54701330	pericyte	muscle cell
+54702684	myofibroblast cell	muscle cell
+61067816	endothelial cell	muscle cell
+61649742	pericyte	muscle cell
+63642332	neuron	muscle cell
+63655693	pericyte	muscle cell
+63679485	mural cell	muscle cell
+63762646	pericyte	muscle cell
+63861523	pericyte	muscle cell
+63873763	stem cell	muscle cell
+63885559	pericyte	muscle cell
+63930100	stem cell	muscle cell
+63947960	pericyte	muscle cell
+63954918	pericyte	muscle cell
+63986498	pericyte	muscle cell
+65141724	endothelial cell	muscle cell
+65199084	myofibroblast cell	muscle cell
+65253150	endothelial cell	muscle cell
+65405618	stem cell	muscle cell
+65422035	stem cell	muscle cell
+65533864	stem cell	muscle cell
+65685251	stem cell	muscle cell
+5334204	dendritic cell	myeloid cell
+5342213	endothelial cell	myeloid cell
+5409707	monocyte	myeloid cell
+5742730	macrophage	myeloid cell
+5813493	leukocyte	myeloid cell
+5832328	hematopoietic precursor cell	myeloid cell
+5833725	hematopoietic precursor cell	myeloid cell
+5842002	hematopoietic precursor cell	myeloid cell
+5844731	hematopoietic precursor cell	myeloid cell
+5845075	hematopoietic precursor cell	myeloid cell
+5845486	hematopoietic precursor cell	myeloid cell
+5845763	hematopoietic precursor cell	myeloid cell
+5846411	hematopoietic precursor cell	myeloid cell
+5855556	hematopoietic precursor cell	myeloid cell
+5857666	hematopoietic precursor cell	myeloid cell
+5858184	hematopoietic precursor cell	myeloid cell
+5858512	hematopoietic precursor cell	myeloid cell
+5862267	hematopoietic precursor cell	myeloid cell
+5867257	hematopoietic precursor cell	myeloid cell
+5869635	hematopoietic precursor cell	myeloid cell
+5872350	hematopoietic precursor cell	myeloid cell
+5879266	hematopoietic precursor cell	myeloid cell
+5881106	hematopoietic precursor cell	myeloid cell
+5896994	hematopoietic precursor cell	myeloid cell
+5902071	hematopoietic precursor cell	myeloid cell
+5906319	hematopoietic precursor cell	myeloid cell
+5908368	monocyte	myeloid cell
+5913504	hematopoietic precursor cell	myeloid cell
+5922399	hematopoietic precursor cell	myeloid cell
+5925733	hematopoietic precursor cell	myeloid cell
+5928516	hematopoietic precursor cell	myeloid cell
+5930347	hematopoietic precursor cell	myeloid cell
+11648868	hematopoietic precursor cell	myeloid cell
+11650558	hematopoietic precursor cell	myeloid cell
+19549249	leukocyte	myeloid cell
+19556100	monocyte	myeloid cell
+19556986	leukocyte	myeloid cell
+19592585	leukocyte	myeloid cell
+19601130	dendritic cell	myeloid cell
+21708524	hematopoietic precursor cell	myeloid cell
+21715473	hematopoietic precursor cell	myeloid cell
+22307387	leukocyte	myeloid cell
+22373682	hematopoietic precursor cell	myeloid cell
+32617554	hematopoietic precursor cell	myeloid cell
+32619696	hematopoietic precursor cell	myeloid cell
+32620927	hematopoietic precursor cell	myeloid cell
+32622728	hematopoietic precursor cell	myeloid cell
+32623033	hematopoietic precursor cell	myeloid cell
+32623247	hematopoietic precursor cell	myeloid cell
+32624265	hematopoietic precursor cell	myeloid cell
+32624340	hematopoietic precursor cell	myeloid cell
+32625731	hematopoietic precursor cell	myeloid cell
+32625958	hematopoietic precursor cell	myeloid cell
+32626010	hematopoietic precursor cell	myeloid cell
+32626112	hematopoietic precursor cell	myeloid cell
+32626318	hematopoietic precursor cell	myeloid cell
+32626674	hematopoietic precursor cell	myeloid cell
+32628412	hematopoietic precursor cell	myeloid cell
+32628773	hematopoietic precursor cell	myeloid cell
+32628884	hematopoietic precursor cell	myeloid cell
+32631108	hematopoietic precursor cell	myeloid cell
+32633709	hematopoietic precursor cell	myeloid cell
+32634756	hematopoietic precursor cell	myeloid cell
+32636342	hematopoietic precursor cell	myeloid cell
+32638658	hematopoietic precursor cell	myeloid cell
+32638833	leukocyte	myeloid cell
+32640853	hematopoietic precursor cell	myeloid cell
+32642776	hematopoietic precursor cell	myeloid cell
+32644239	hematopoietic precursor cell	myeloid cell
+32646256	hematopoietic precursor cell	myeloid cell
+32648540	hematopoietic precursor cell	myeloid cell
+32650425	hematopoietic precursor cell	myeloid cell
+32650937	hematopoietic precursor cell	myeloid cell
+32665050	leukocyte	myeloid cell
+32666473	dendritic cell	myeloid cell
+32670506	leukocyte	myeloid cell
+32678982	dendritic cell	myeloid cell
+32680329	dendritic cell	myeloid cell
+32681682	hematopoietic precursor cell	myeloid cell
+32682512	dendritic cell	myeloid cell
+32682551	hematopoietic precursor cell	myeloid cell
+32685963	hematopoietic precursor cell	myeloid cell
+32686056	hematopoietic precursor cell	myeloid cell
+32690748	leukocyte	myeloid cell
+32693154	hematopoietic precursor cell	myeloid cell
+32700465	monocyte	myeloid cell
+32700872	leukocyte	myeloid cell
+32701769	leukocyte	myeloid cell
+32702800	hematopoietic precursor cell	myeloid cell
+32716575	hematopoietic precursor cell	myeloid cell
+32717328	dendritic cell	myeloid cell
+32720918	hematopoietic precursor cell	myeloid cell
+32738645	leukocyte	myeloid cell
+32742339	hematopoietic precursor cell	myeloid cell
+32753477	leukocyte	myeloid cell
+33005977	hematopoietic precursor cell	myeloid cell
+33006927	dendritic cell	myeloid cell
+33009369	hematopoietic precursor cell	myeloid cell
+33086385	hematopoietic precursor cell	myeloid cell
+33087044	hematopoietic precursor cell	myeloid cell
+33310577	hematopoietic precursor cell	myeloid cell
+33311030	hematopoietic precursor cell	myeloid cell
+33397531	hematopoietic precursor cell	myeloid cell
+33434539	hematopoietic precursor cell	myeloid cell
+33481929	monocyte	myeloid cell
+33551142	hematopoietic precursor cell	myeloid cell
+33554400	hematopoietic precursor cell	myeloid cell
+33564125	hematopoietic precursor cell	myeloid cell
+33802251	hematopoietic precursor cell	myeloid cell
+33818894	dendritic cell	myeloid cell
+37545701	dendritic cell	myeloid cell
+37737632	dendritic cell	myeloid cell
+38304443	dendritic cell	myeloid cell
+39904430	hematopoietic precursor cell	myeloid cell
+39907386	hematopoietic precursor cell	myeloid cell
+39908075	leukocyte	myeloid cell
+39934179	hematopoietic precursor cell	myeloid cell
+39948725	B cell	myeloid cell
+39960152	hematopoietic precursor cell	myeloid cell
+39962654	hematopoietic precursor cell	myeloid cell
+39971680	hematopoietic precursor cell	myeloid cell
+39971902	hematopoietic precursor cell	myeloid cell
+39983554	hematopoietic precursor cell	myeloid cell
+39989460	hematopoietic precursor cell	myeloid cell
+39990216	hematopoietic precursor cell	myeloid cell
+39995379	dendritic cell	myeloid cell
+40001302	hematopoietic precursor cell	myeloid cell
+40001501	hematopoietic precursor cell	myeloid cell
+40002147	hematopoietic precursor cell	myeloid cell
+40002658	hematopoietic precursor cell	myeloid cell
+40012562	hematopoietic precursor cell	myeloid cell
+40012672	hematopoietic precursor cell	myeloid cell
+40013755	hematopoietic precursor cell	myeloid cell
+40015647	hematopoietic precursor cell	myeloid cell
+40016031	hematopoietic precursor cell	myeloid cell
+40016055	hematopoietic precursor cell	myeloid cell
+40017267	hematopoietic precursor cell	myeloid cell
+40036931	hematopoietic precursor cell	myeloid cell
+40790046	lymphocyte	myeloid cell
+40816368	dendritic cell	myeloid cell
+41185429	lymphocyte	myeloid cell
+41205277	leukocyte	myeloid cell
+41320108	lymphocyte	myeloid cell
+41430024	monocyte	myeloid cell
+41430321	monocyte	myeloid cell
+41431022	lymphocyte	myeloid cell
+41557705	monocyte	myeloid cell
+42327367	hematopoietic precursor cell	myeloid cell
+42621658	hematopoietic precursor cell	myeloid cell
+42629695	hematopoietic precursor cell	myeloid cell
+42656623	hematopoietic precursor cell	myeloid cell
+42657795	hematopoietic precursor cell	myeloid cell
+42658476	hematopoietic precursor cell	myeloid cell
+43589306	hematopoietic precursor cell	myeloid cell
+47347601	monocyte	myeloid cell
+47355190	CD8-positive, alpha-beta T cell	myeloid cell
+47365665	B cell	myeloid cell
+47452884	hematopoietic cell	myeloid cell
+47457232	monocyte	myeloid cell
+47461901	monocyte	myeloid cell
+48862519	dendritic cell	myeloid cell
+49203615	hematopoietic cell	myeloid cell
+50374913	monocyte	myeloid cell
+50612682	hepatocyte	myeloid cell
+50956524	hematopoietic precursor cell	myeloid cell
+50960297	hematopoietic precursor cell	myeloid cell
+51080773	hematopoietic precursor cell	myeloid cell
+51120103	hematopoietic precursor cell	myeloid cell
+51235091	CD4-positive, alpha-beta T cell	myeloid cell
+51341191	B cell	myeloid cell
+53525528	lymphocyte	myeloid cell
+53529668	neoplastic cell	myeloid cell
+53557616	macrophage	myeloid cell
+54462157	leukocyte	myeloid cell
+54677545	dendritic cell	myeloid cell
+56234784	dendritic cell	myeloid cell
+56411593	monocyte	myeloid cell
+56774773	CD8-positive, alpha-beta T cell	myeloid cell
+57791687	lymphocyte	myeloid cell
+61719356	macrophage	myeloid cell
+61735654	hematopoietic precursor cell	myeloid cell
+64041724	leukocyte	myeloid cell
+64072890	dendritic cell	myeloid cell
+64098579	leukocyte	myeloid cell
+64116702	CD4-positive, alpha-beta T cell	myeloid cell
+64117718	CD8-positive, alpha-beta T cell	myeloid cell
+65551558	hematopoietic precursor cell	myeloid cell
+65659612	hematopoietic precursor cell	myeloid cell
+10918515	abnormal cell	myofibroblast cell
+10920756	abnormal cell	myofibroblast cell
+16377377	muscle cell	myofibroblast cell
+16627310	fibroblast	myofibroblast cell
+23865183	fibroblast	myofibroblast cell
+24180784	endo-epithelial cell	myofibroblast cell
+24185421	stromal cell	myofibroblast cell
+24218505	fibroblast	myofibroblast cell
+33101017	fibroblast	myofibroblast cell
+33284133	fibroblast	myofibroblast cell
+33383519	muscle cell	myofibroblast cell
+35797304	muscle cell	myofibroblast cell
+35824811	mesodermal cell	myofibroblast cell
+35860190	mesodermal cell	myofibroblast cell
+35869803	fibroblast	myofibroblast cell
+39873761	fibroblast	myofibroblast cell
+42018716	columnar/cuboidal epithelial cell	myofibroblast cell
+42860475	pericyte	myofibroblast cell
+42865312	stem cell	myofibroblast cell
+50500728	epithelial cell	myofibroblast cell
+50539806	stromal cell	myofibroblast cell
+62991532	muscle cell	myofibroblast cell
+63006388	fibroblast	myofibroblast cell
+63033080	meso-epithelial cell	myofibroblast cell
+37423183	epithelial cell of lung	neoplastic cell
+37481432	epithelial cell of lung	neoplastic cell
+37625635	epithelial cell of lung	neoplastic cell
+37743727	epithelial cell of lung	neoplastic cell
+38261157	stem cell	neoplastic cell
+38814552	glial cell	neoplastic cell
+39307622	pigment cell	neoplastic cell
+39399863	glial cell	neoplastic cell
+39519836	glial cell	neoplastic cell
+39520601	glial cell	neoplastic cell
+39555541	glial cell	neoplastic cell
+39560773	glial cell	neoplastic cell
+39620395	glial cell	neoplastic cell
+39646676	progenitor cell	neoplastic cell
+39702284	progenitor cell	neoplastic cell
+42676559	macrophage	neoplastic cell
+48832649	B cell	neoplastic cell
+48840370	B cell	neoplastic cell
+51331345	B cell	neoplastic cell
+5686414	neuron	neural cell
+5687037	neuron	neural cell
+5690150	glial cell	neural cell
+5705145	neuron	neural cell
+63000963	glial cell	neural cell
+63014885	non-terminally differentiated cell	neural cell
+63675684	neuron	neural cell
+63715931	glial cell	neural cell
+6175701	endothelial cell	neuron
+6187141	interneuron	neuron
+6196510	interneuron	neuron
+7352702	glial cell	neuron
+7447970	interneuron	neuron
+16779952	endo-epithelial cell	neuron
+22299010	motor neuron	neuron
+22368222	leukocyte	neuron
+23557590	endocrine cell	neuron
+23562403	endocrine cell	neuron
+28969890	interneuron	neuron
+31857549	glutamatergic neuron	neuron
+33436457	myeloid cell	neuron
+35739509	endothelial cell	neuron
+35791162	endocrine cell	neuron
+35862957	endocrine cell	neuron
+35864818	endocrine cell	neuron
+35865559	endocrine cell	neuron
+41322984	cardiocyte	neuron
+41533452	glial cell	neuron
+41963812	stem cell	neuron
+41970959	stem cell	neuron
+41971814	stem cell	neuron
+41973837	stem cell	neuron
+41996864	stem cell	neuron
+41998728	stem cell	neuron
+42000083	stem cell	neuron
+42002487	stem cell	neuron
+42015148	stem cell	neuron
+43007799	columnar/cuboidal epithelial cell	neuron
+47636486	ciliated cell	neuron
+57933884	motor neuron	neuron
+58025040	motor neuron	neuron
+58669871	CNS neuron (sensu Vertebrata)	neuron
+59768814	CNS neuron (sensu Vertebrata)	neuron
+61434799	GABAergic neuron	neuron
+61439524	endo-epithelial cell	neuron
+61675626	endocrine cell	neuron
+61745489	endocrine cell	neuron
+65406117	endothelial cell	neuron
+65408502	epithelial cell	neuron
+65672448	endocrine cell	neuron
+11591098	glial cell	neuron associated cell
+14926299	fat cell	neuron associated cell
+14997402	fat cell	neuron associated cell
+58282613	CNS neuron (sensu Vertebrata)	neuron associated cell
+58343437	CNS neuron (sensu Vertebrata)	neuron associated cell
+58399888	glial cell	neuron associated cell
+58464050	CNS neuron (sensu Vertebrata)	neuron associated cell
+58807512	glial cell	neuron associated cell
+58839148	glial cell	neuron associated cell
+58846139	glial cell	neuron associated cell
+58871679	CNS neuron (sensu Vertebrata)	neuron associated cell
+58891016	CNS neuron (sensu Vertebrata)	neuron associated cell
+58903264	glial cell	neuron associated cell
+58941959	CNS neuron (sensu Vertebrata)	neuron associated cell
+59089823	CNS neuron (sensu Vertebrata)	neuron associated cell
+59119068	CNS neuron (sensu Vertebrata)	neuron associated cell
+59122691	CNS neuron (sensu Vertebrata)	neuron associated cell
+59138103	CNS neuron (sensu Vertebrata)	neuron associated cell
+59155471	glial cell	neuron associated cell
+59163107	CNS neuron (sensu Vertebrata)	neuron associated cell
+59205979	CNS neuron (sensu Vertebrata)	neuron associated cell
+32694148	progenitor cell	non-terminally differentiated cell
+33536671	endo-epithelial cell	non-terminally differentiated cell
+33821211	muscle cell	non-terminally differentiated cell
+35788395	motor neuron	non-terminally differentiated cell
+35843519	motor neuron	non-terminally differentiated cell
+35843889	motor neuron	non-terminally differentiated cell
+35861869	stem cell	non-terminally differentiated cell
+40033915	myeloid cell	non-terminally differentiated cell
+40033962	myeloid cell	non-terminally differentiated cell
+40055795	contractile cell	non-terminally differentiated cell
+40251241	pericyte	non-terminally differentiated cell
+61638134	cell of skeletal muscle	non-terminally differentiated cell
+22103174	meso-epithelial cell	ovarian surface epithelial cell
+22103254	meso-epithelial cell	ovarian surface epithelial cell
+22111016	meso-epithelial cell	ovarian surface epithelial cell
+22115593	stromal cell	ovarian surface epithelial cell
+22229889	supporting cell	ovarian surface epithelial cell
+22267630	meso-epithelial cell	ovarian surface epithelial cell
+6621202	muscle cell	pericyte
+6634847	muscle cell	pericyte
+14941764	fat cell	pericyte
+14941767	endothelial cell	pericyte
+14955847	muscle cell	pericyte
+14979086	fat cell	pericyte
+15190674	muscle cell	pericyte
+15232938	muscle cell	pericyte
+15551771	muscle cell	pericyte
+15556785	muscle cell	pericyte
+15558087	muscle cell	pericyte
+15564226	stem cell	pericyte
+16175930	fibroblast	pericyte
+16476279	muscle cell	pericyte
+17293296	muscle cell	pericyte
+17882047	muscle cell	pericyte
+17929205	muscle cell	pericyte
+18161966	endo-epithelial cell	pericyte
+18414643	muscle cell	pericyte
+23472957	muscle cell	pericyte
+23857291	endothelial cell	pericyte
+23892670	supporting cell	pericyte
+24145467	muscle cell	pericyte
+24159512	fibroblast	pericyte
+24191178	glial cell	pericyte
+25747956	meso-epithelial cell	pericyte
+25779067	kidney cell	pericyte
+32897034	muscle cell	pericyte
+32904730	muscle cell	pericyte
+32906715	muscle cell	pericyte
+35710684	muscle cell	pericyte
+35831945	mural cell	pericyte
+40055360	non-terminally differentiated cell	pericyte
+40129919	non-terminally differentiated cell	pericyte
+40156987	non-terminally differentiated cell	pericyte
+40205821	non-terminally differentiated cell	pericyte
+40239739	non-terminally differentiated cell	pericyte
+40252417	non-terminally differentiated cell	pericyte
+41967768	myofibroblast cell	pericyte
+41971491	stem cell	pericyte
+41997215	mesodermal cell	pericyte
+50044124	fibroblast	pericyte
+50052003	fibroblast	pericyte
+50199859	fibroblast	pericyte
+50231596	fibroblast	pericyte
+50240740	fibroblast	pericyte
+50257462	meso-epithelial cell	pericyte
+50329927	kidney epithelial cell	pericyte
+54340026	muscle cell	pericyte
+54659563	myofibroblast cell	pericyte
+54918328	muscle cell	pericyte
+63554068	mural cell	pericyte
+63554123	mural cell	pericyte
+63566797	mural cell	pericyte
+63613245	mural cell	pericyte
+63616345	mural cell	pericyte
+63618684	mural cell	pericyte
+63627908	mural cell	pericyte
+63629973	mural cell	pericyte
+63640430	mural cell	pericyte
+63649628	mural cell	pericyte
+63666588	mural cell	pericyte
+63667170	mural cell	pericyte
+63669537	mural cell	pericyte
+63685358	mural cell	pericyte
+63685395	mural cell	pericyte
+63687752	mural cell	pericyte
+63798800	muscle cell	pericyte
+63995615	endothelial cell	pericyte
+2754775	leukocyte	phagocyte
+45808664	dendritic cell	phagocyte
+45887417	macrophage	phagocyte
+49769414	macrophage	phagocyte
+49787831	macrophage	phagocyte
+49808510	progenitor cell	phagocyte
+49811223	macrophage	phagocyte
+49843767	macrophage	phagocyte
+49850278	dendritic cell	phagocyte
+50054717	macrophage	phagocyte
+50056531	macrophage	phagocyte
+50066166	macrophage	phagocyte
+50198995	macrophage	phagocyte
+50260910	macrophage	phagocyte
+50262277	macrophage	phagocyte
+50265585	dendritic cell	phagocyte
+50271688	macrophage	phagocyte
+50306378	macrophage	phagocyte
+50313890	macrophage	phagocyte
+50321374	macrophage	phagocyte
+50324049	macrophage	phagocyte
+16185023	glial cell	pigment cell
+25291148	glial cell	pigment cell
+25355027	glial cell	pigment cell
+25372960	columnar/cuboidal epithelial cell	pigment cell
+42805462	glial cell	pigment cell
+43174699	ecto-epithelial cell	pigment cell
+32663868	progenitor cell	precursor cell
+32707390	myofibroblast cell	precursor cell
+32735294	progenitor cell	precursor cell
+65405379	cell of skeletal muscle	primordial germ cell
+65476609	myeloid cell	primordial germ cell
+65477699	myeloid cell	primordial germ cell
+65490248	stem cell	primordial germ cell
+65507338	cell of skeletal muscle	primordial germ cell
+65514802	cell of skeletal muscle	primordial germ cell
+65516372	cell of skeletal muscle	primordial germ cell
+65685438	leukocyte	primordial germ cell
+7208828	glial cell	progenitor cell
+7430187	neuron associated cell	progenitor cell
+7594620	exocrine cell	progenitor cell
+7619287	exocrine cell	progenitor cell
+14933253	fat cell	progenitor cell
+14944229	fat cell	progenitor cell
+20054397	fibroblast	progenitor cell
+20124678	duct epithelial cell	progenitor cell
+25581170	cardiocyte	progenitor cell
+25596173	cardiocyte	progenitor cell
+25606618	muscle cell	progenitor cell
+27149763	fibroblast	progenitor cell
+32653327	myeloid cell	progenitor cell
+32672555	precursor cell	progenitor cell
+32674998	myeloid cell	progenitor cell
+32681246	myeloid cell	progenitor cell
+32681912	myeloid cell	progenitor cell
+32689173	myeloid cell	progenitor cell
+32699349	myeloid cell	progenitor cell
+32699395	myeloid cell	progenitor cell
+32700204	myeloid cell	progenitor cell
+32703232	myeloid cell	progenitor cell
+32710998	myeloid cell	progenitor cell
+32712430	myeloid cell	progenitor cell
+32717936	myeloid cell	progenitor cell
+32721420	myeloid cell	progenitor cell
+32727699	myeloid cell	progenitor cell
+32727737	myeloid cell	progenitor cell
+32735826	precursor cell	progenitor cell
+32736023	myeloid cell	progenitor cell
+32742511	myeloid cell	progenitor cell
+32752515	myeloid cell	progenitor cell
+32752577	leukocyte	progenitor cell
+32753623	leukocyte	progenitor cell
+32801129	squamous epithelial cell	progenitor cell
+32806504	squamous epithelial cell	progenitor cell
+32812728	squamous epithelial cell	progenitor cell
+32825001	squamous epithelial cell	progenitor cell
+35583953	transit amplifying cell	progenitor cell
+35594272	transit amplifying cell	progenitor cell
+35594281	endo-epithelial cell	progenitor cell
+35594375	endo-epithelial cell	progenitor cell
+35755240	endocrine cell	progenitor cell
+35792883	endo-epithelial cell	progenitor cell
+35839921	transit amplifying cell	progenitor cell
+35879861	motor neuron	progenitor cell
+39644564	neoplastic cell	progenitor cell
+39679303	neoplastic cell	progenitor cell
+39746135	neoplastic cell	progenitor cell
+39747031	neoplastic cell	progenitor cell
+39926592	glial cell	progenitor cell
+42315644	myeloid cell	progenitor cell
+42318031	myeloid cell	progenitor cell
+42327739	myeloid cell	progenitor cell
+42328416	myeloid cell	progenitor cell
+42933144	kidney cell	progenitor cell
+43171230	endo-epithelial cell	progenitor cell
+45612580	animal cell	progenitor cell
+51558430	macrophage	progenitor cell
+51588347	GABAergic neuron	progenitor cell
+51606390	glial cell	progenitor cell
+52303004	hematopoietic precursor cell	progenitor cell
+53777878	hematopoietic precursor cell	progenitor cell
+53814293	hematopoietic precursor cell	progenitor cell
+53859324	hematopoietic precursor cell	progenitor cell
+53867682	hematopoietic precursor cell	progenitor cell
+53928005	hematopoietic precursor cell	progenitor cell
+54053410	hematopoietic precursor cell	progenitor cell
+54066188	myeloid cell	progenitor cell
+54089573	myeloid cell	progenitor cell
+54107768	hematopoietic precursor cell	progenitor cell
+62907923	exocrine cell	progenitor cell
+62914471	stem cell	progenitor cell
+62915243	T cell	progenitor cell
+62916873	macrophage	progenitor cell
+43174580	meso-epithelial cell	sebaceous gland cell
+32899658	epithelial cell	secretory cell
+32928579	epithelial cell	secretory cell
+36075056	endo-epithelial cell	secretory cell
+36076112	endo-epithelial cell	secretory cell
+42804452	inflammatory cell	secretory cell
+42816766	inflammatory cell	secretory cell
+47476982	endo-epithelial cell	secretory cell
+47478223	endo-epithelial cell	secretory cell
+47482493	endo-epithelial cell	secretory cell
+47485393	endo-epithelial cell	secretory cell
+47494012	ciliated cell	secretory cell
+47496005	endo-epithelial cell	secretory cell
+47506285	endo-epithelial cell	secretory cell
+47507461	endo-epithelial cell	secretory cell
+47521724	endo-epithelial cell	secretory cell
+47524441	endo-epithelial cell	secretory cell
+47538965	endo-epithelial cell	secretory cell
+47568458	endo-epithelial cell	secretory cell
+47585185	endo-epithelial cell	secretory cell
+47591425	endo-epithelial cell	secretory cell
+47595206	endo-epithelial cell	secretory cell
+47596325	endo-epithelial cell	secretory cell
+47598695	endo-epithelial cell	secretory cell
+47600298	endo-epithelial cell	secretory cell
+47623202	endo-epithelial cell	secretory cell
+47630367	endo-epithelial cell	secretory cell
+47663302	endo-epithelial cell	secretory cell
+47675951	endo-epithelial cell	secretory cell
+47681842	endo-epithelial cell	secretory cell
+47685324	endo-epithelial cell	secretory cell
+47687552	endo-epithelial cell	secretory cell
+47689119	endo-epithelial cell	secretory cell
+47701111	endo-epithelial cell	secretory cell
+50555385	leukocyte	secretory cell
+54289432	endo-epithelial cell	secretory cell
+54294443	epithelial cell of urethra	secretory cell
+54298142	endo-epithelial cell	secretory cell
+54298212	endo-epithelial cell	secretory cell
+54299305	endo-epithelial cell	secretory cell
+54305052	epithelial cell of urethra	secretory cell
+54326932	CD8-positive, alpha-beta T cell	secretory cell
+54347314	endo-epithelial cell	secretory cell
+56625761	squamous epithelial cell	secretory cell
+35818788	motor neuron	sensory neuron
+35825681	motor neuron	sensory neuron
+35842734	motor neuron	sensory neuron
+35862646	neuron	sensory neuron
+40061319	neuron	sensory neuron
+40098085	lymphocyte	sensory neuron
+40169013	cardiocyte	sensory neuron
+40201988	lymphocyte	sensory neuron
+40225669	hematopoietic precursor cell	sensory neuron
+54519490	eukaryotic cell	sensory neuron
+17735430	glandular epithelial cell	seromucus secreting cell
+17769914	endo-epithelial cell	seromucus secreting cell
+23394798	ciliated cell	seromucus secreting cell
+23410552	epithelial cell of lung	seromucus secreting cell
+23410822	epithelial cell of lung	seromucus secreting cell
+23411302	epithelial cell of lung	seromucus secreting cell
+23411518	epithelial cell of lung	seromucus secreting cell
+23411546	epithelial cell of lung	seromucus secreting cell
+23411646	epithelial cell of lung	seromucus secreting cell
+23411911	epithelial cell of lung	seromucus secreting cell
+23412073	epithelial cell of lung	seromucus secreting cell
+23412469	epithelial cell of lung	seromucus secreting cell
+23412724	epithelial cell of lung	seromucus secreting cell
+23455596	ciliated cell	seromucus secreting cell
+23487465	epithelial cell of lung	seromucus secreting cell
+54446528	glandular epithelial cell	seromucus secreting cell
+54585866	ciliated cell	seromucus secreting cell
+54585915	epithelial cell of lung	seromucus secreting cell
+54846321	duct epithelial cell	seromucus secreting cell
+65751848	epithelial cell of lung	seromucus secreting cell
+22102591	stromal cell	somatic cell
+22237706	meso-epithelial cell	somatic cell
+22245883	meso-epithelial cell	somatic cell
+22276544	supporting cell	somatic cell
+6552810	T cell	squamous epithelial cell
+6586041	CD4-positive, alpha-beta T cell	squamous epithelial cell
+6595189	pigment cell	squamous epithelial cell
+16171567	fibroblast	squamous epithelial cell
+16173326	fibroblast	squamous epithelial cell
+16173787	progenitor cell	squamous epithelial cell
+16175842	fibroblast	squamous epithelial cell
+16179777	fibroblast	squamous epithelial cell
+25213029	epithelial cell	squamous epithelial cell
+32764757	progenitor cell	squamous epithelial cell
+32790521	progenitor cell	squamous epithelial cell
+32790924	progenitor cell	squamous epithelial cell
+32791542	progenitor cell	squamous epithelial cell
+32798203	progenitor cell	squamous epithelial cell
+32809038	progenitor cell	squamous epithelial cell
+32813679	progenitor cell	squamous epithelial cell
+42805496	stem cell	squamous epithelial cell
+42805498	stem cell	squamous epithelial cell
+42807893	cell of skeletal muscle	squamous epithelial cell
+42811458	stem cell	squamous epithelial cell
+42817583	stem cell	squamous epithelial cell
+42817697	stem cell	squamous epithelial cell
+43010069	endo-epithelial cell	squamous epithelial cell
+43013566	dendritic cell	squamous epithelial cell
+43016134	endo-epithelial cell	squamous epithelial cell
+43017500	endo-epithelial cell	squamous epithelial cell
+47537527	transitional epithelial cell	squamous epithelial cell
+56605240	secretory cell	squamous epithelial cell
+57435058	ciliated cell	squamous epithelial cell
+61747409	endo-epithelial cell	squamous epithelial cell
+7497720	endo-epithelial cell	stem cell
+7566094	progenitor cell	stem cell
+7567231	endocrine cell	stem cell
+15612051	mammary gland epithelial cell	stem cell
+15718712	meso-epithelial cell	stem cell
+22280579	precursor cell	stem cell
+22281089	epithelial cell	stem cell
+22333018	epithelial cell of lung	stem cell
+22343287	epithelial cell of lung	stem cell
+23500247	endo-epithelial cell	stem cell
+23506595	precursor cell	stem cell
+23524806	glandular epithelial cell	stem cell
+23526681	endo-epithelial cell	stem cell
+23537490	endo-epithelial cell	stem cell
+23542498	endo-epithelial cell	stem cell
+23547840	glandular epithelial cell	stem cell
+23551802	endo-epithelial cell	stem cell
+23571241	endo-epithelial cell	stem cell
+23574824	endo-epithelial cell	stem cell
+23575212	endo-epithelial cell	stem cell
+23596082	endo-epithelial cell	stem cell
+23596841	epithelial cell	stem cell
+23600392	endo-epithelial cell	stem cell
+23636530	endo-epithelial cell	stem cell
+23644505	endo-epithelial cell	stem cell
+23904115	endo-epithelial cell	stem cell
+23921963	epithelial cell	stem cell
+23922333	epithelial cell	stem cell
+23934926	glandular epithelial cell	stem cell
+23971620	endo-epithelial cell	stem cell
+23976783	endo-epithelial cell	stem cell
+23981137	glandular epithelial cell	stem cell
+23987245	endocrine cell	stem cell
+24692783	glandular epithelial cell	stem cell
+24794283	endo-epithelial cell	stem cell
+25159814	epithelial cell	stem cell
+25171929	epithelial cell	stem cell
+25187504	squamous epithelial cell	stem cell
+25217432	squamous epithelial cell	stem cell
+25228582	squamous epithelial cell	stem cell
+35751153	transit amplifying cell	stem cell
+35797013	transit amplifying cell	stem cell
+35821978	endo-epithelial cell	stem cell
+35858819	endo-epithelial cell	stem cell
+36075914	secretory cell	stem cell
+39902067	endo-epithelial cell	stem cell
+41964949	mesodermal cell	stem cell
+41967976	neuron	stem cell
+41970286	neuron	stem cell
+41975786	neuron	stem cell
+41977215	neuron	stem cell
+41977555	neuron	stem cell
+41981429	endo-epithelial cell	stem cell
+41983458	neuron	stem cell
+41995076	neuron	stem cell
+42006260	neuron	stem cell
+42015927	neuron	stem cell
+42023212	endo-epithelial cell	stem cell
+42816809	glial cell	stem cell
+42817808	squamous epithelial cell	stem cell
+42860463	kidney cell	stem cell
+43015287	endo-epithelial cell	stem cell
+43022097	endo-epithelial cell	stem cell
+45838735	stratified epithelial cell	stem cell
+45846316	stratified epithelial cell	stem cell
+45848165	epithelial cell	stem cell
+45907368	stratified epithelial cell	stem cell
+53530585	endo-epithelial cell	stem cell
+54499084	endo-epithelial cell	stem cell
+54584807	adventitial cell	stem cell
+54584926	adventitial cell	stem cell
+54630086	duct epithelial cell	stem cell
+54704329	glial cell	stem cell
+54866237	adventitial cell	stem cell
+54882241	adventitial cell	stem cell
+61397960	glial cell	stem cell
+62912238	endothelial cell	stem cell
+62914314	pericyte	stem cell
+64379393	endothelial cell	stem cell
+65305924	endocrine cell	stem cell
+65454274	epithelial cell	stem cell
+65456504	epithelial cell	stem cell
+65501938	stromal cell	stem cell
+65510052	primordial germ cell	stem cell
+65517400	stromal cell	stem cell
+65536756	stromal cell	stem cell
+65540243	stromal cell	stem cell
+65567128	epithelial cell	stem cell
+65619249	endo-epithelial cell	stem cell
+65678578	primordial germ cell	stem cell
+65704340	endothelial cell	stem cell
+65714663	epithelial cell	stem cell
+65763547	squamous epithelial cell	stem cell
+65791425	endo-epithelial cell	stem cell
+45858129	endo-epithelial cell	stratified epithelial cell
+45862014	epithelial cell	stratified epithelial cell
+45866555	epithelial cell	stratified epithelial cell
+45866754	epithelial cell	stratified epithelial cell
+45886990	epithelial cell	stratified epithelial cell
+45911967	epithelial cell	stratified epithelial cell
+2708332	lymphocyte	stromal cell
+2723558	glial cell	stromal cell
+2745360	pericyte	stromal cell
+10384560	endothelial cell	stromal cell
+10416805	muscle cell	stromal cell
+10490008	muscle cell	stromal cell
+10513401	muscle cell	stromal cell
+10533223	endothelial cell	stromal cell
+10575832	muscle cell	stromal cell
+10616106	lymphocyte	stromal cell
+10785194	endothelial cell	stromal cell
+10787982	endothelial cell	stromal cell
+22073249	mesenchymal cell	stromal cell
+22090349	somatic cell	stromal cell
+22132278	mesenchymal cell	stromal cell
+22135538	meso-epithelial cell	stromal cell
+22148424	interstitial cell	stromal cell
+22225980	somatic cell	stromal cell
+22226961	somatic cell	stromal cell
+22231978	somatic cell	stromal cell
+22255556	somatic cell	stromal cell
+22257724	mural cell	stromal cell
+22265166	pericyte	stromal cell
+22266375	meso-epithelial cell	stromal cell
+22307124	mesenchymal cell	stromal cell
+22309271	mesenchymal cell	stromal cell
+25802422	muscle cell	stromal cell
+32882111	fibroblast	stromal cell
+32900134	muscle cell	stromal cell
+32902823	muscle cell	stromal cell
+32922961	fibroblast	stromal cell
+45092806	leukocyte	stromal cell
+45863839	fibroblast	stromal cell
+50599154	endothelial cell	stromal cell
+50600723	hepatocyte	stromal cell
+50604887	macrophage	stromal cell
+50605880	endothelial cell	stromal cell
+50606915	hepatocyte	stromal cell
+50607693	hepatocyte	stromal cell
+50607946	endothelial cell	stromal cell
+50608193	hepatocyte	stromal cell
+50610388	endothelial cell	stromal cell
+50610485	endothelial cell	stromal cell
+50623116	hepatocyte	stromal cell
+50627807	hepatocyte	stromal cell
+50632145	hepatocyte	stromal cell
+50633936	endothelial cell	stromal cell
+50639275	hepatocyte	stromal cell
+50639380	hepatocyte	stromal cell
+50650480	endothelial cell	stromal cell
+50653555	duct epithelial cell	stromal cell
+50660205	hepatocyte	stromal cell
+53542718	fibroblast	stromal cell
+53543725	fibroblast	stromal cell
+53547905	fibroblast	stromal cell
+54542956	fibroblast	stromal cell
+54750789	stem cell	stromal cell
+54866066	stem cell	stromal cell
+54875447	stem cell	stromal cell
+54876526	stem cell	stromal cell
+54882161	adventitial cell	stromal cell
+57854336	muscle cell	stromal cell
+57898582	muscle cell	stromal cell
+61297855	hematopoietic cell	stromal cell
+61740577	muscle cell	stromal cell
+61746979	pericyte	stromal cell
+65193957	fibroblast	stromal cell
+65257594	fibroblast	stromal cell
+65424054	stem cell	stromal cell
+65482745	stem cell	stromal cell
+65503018	stem cell	stromal cell
+65516084	fibroblast	stromal cell
+65625446	fibroblast	stromal cell
+21750393	somatic cell	supporting cell
+21790063	meso-epithelial cell	supporting cell
+21832200	somatic cell	supporting cell
+21834754	somatic cell	supporting cell
+22065927	stromal cell	supporting cell
+22075684	somatic cell	supporting cell
+22148918	meso-epithelial cell	supporting cell
+22232741	meso-epithelial cell	supporting cell
+22247883	somatic cell	supporting cell
+22274121	somatic cell	supporting cell
+45029925	muscle cell	supporting cell
+45030127	muscle cell	supporting cell
+45038651	muscle cell	supporting cell
+45045862	muscle cell	supporting cell
+45088314	stromal cell	supporting cell
+7493813	CD4-positive, alpha-beta T cell	transit amplifying cell
+7514926	T cell	transit amplifying cell
+7519587	lymphocyte	transit amplifying cell
+7522404	T cell	transit amplifying cell
+7534155	T cell	transit amplifying cell
+7562862	CD4-positive, alpha-beta T cell	transit amplifying cell
+7569143	hematopoietic precursor cell	transit amplifying cell
+25698485	endo-epithelial cell	transit amplifying cell
+25700636	endo-epithelial cell	transit amplifying cell
+25704779	endo-epithelial cell	transit amplifying cell
+25705504	endo-epithelial cell	transit amplifying cell
+25715830	endo-epithelial cell	transit amplifying cell
+25717896	endo-epithelial cell	transit amplifying cell
+25718517	endo-epithelial cell	transit amplifying cell
+25726983	endo-epithelial cell	transit amplifying cell
+25727170	glandular epithelial cell	transit amplifying cell
+25732013	BEST4+ intestinal epithelial cell, human	transit amplifying cell
+25733627	BEST4+ intestinal epithelial cell, human	transit amplifying cell
+25733843	endo-epithelial cell	transit amplifying cell
+25737588	endo-epithelial cell	transit amplifying cell
+25741355	endo-epithelial cell	transit amplifying cell
+25742567	endo-epithelial cell	transit amplifying cell
+35704369	endo-epithelial cell	transit amplifying cell
+35714441	endo-epithelial cell	transit amplifying cell
+35724205	endo-epithelial cell	transit amplifying cell
+35724831	endo-epithelial cell	transit amplifying cell
+35725083	endo-epithelial cell	transit amplifying cell
+35725460	endo-epithelial cell	transit amplifying cell
+35727527	endo-epithelial cell	transit amplifying cell
+35734682	endo-epithelial cell	transit amplifying cell
+35734836	endo-epithelial cell	transit amplifying cell
+35735548	endo-epithelial cell	transit amplifying cell
+35742294	endo-epithelial cell	transit amplifying cell
+35744839	endo-epithelial cell	transit amplifying cell
+35755353	endo-epithelial cell	transit amplifying cell
+35769256	endo-epithelial cell	transit amplifying cell
+35772295	endo-epithelial cell	transit amplifying cell
+35772571	endo-epithelial cell	transit amplifying cell
+35804629	stem cell	transit amplifying cell
+45802794	stromal cell	transit amplifying cell
+54684062	endo-epithelial cell	transit amplifying cell
+54685047	endo-epithelial cell	transit amplifying cell
+54689074	endo-epithelial cell	transit amplifying cell
+54891010	endo-epithelial cell	transit amplifying cell
+54891146	endo-epithelial cell	transit amplifying cell
+54891472	endo-epithelial cell	transit amplifying cell
+10792109	T cell	transitional epithelial cell
+25849080	macrophage	trophoblast cell
+61697844	epithelial cell	trophoblast cell
+61701941	non-terminally differentiated cell	trophoblast cell
+25332477	columnar/cuboidal epithelial cell	vertebrate lens cell
+25334272	columnar/cuboidal epithelial cell	vertebrate lens cell
+25344098	columnar/cuboidal epithelial cell	vertebrate lens cell

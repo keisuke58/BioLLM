@@ -1,0 +1,3 @@
+Model,Accuracy,Macro F1,Macro F1 (no Platelet)
+Geneformer,0.57,0.390688921936931,0.4694667472869389
+scGPT,0.6,0.294488230365189,

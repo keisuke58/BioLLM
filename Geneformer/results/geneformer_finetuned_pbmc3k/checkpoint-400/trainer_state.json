@@ -1,0 +1,95 @@
+{
+  "best_metric": 0.9775323223327321,
+  "best_model_checkpoint": "/home/nishioka/LUH/BioLLM/Geneformer/results/geneformer_finetuned_pbmc3k/checkpoint-400",
+  "epoch": 2.6315789473684212,
+  "eval_steps": 200,
+  "global_step": 400,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 0.40131578947368424,
+      "grad_norm": 8.700766563415527,
+      "learning_rate": 3.05e-05,
+      "loss": 1.5172,
+      "step": 61
+    },
+    {
+      "epoch": 0.8026315789473685,
+      "grad_norm": 5.7786712646484375,
+      "learning_rate": 4.691011235955056e-05,
+      "loss": 0.8605,
+      "step": 122
+    },
+    {
+      "epoch": 1.2039473684210527,
+      "grad_norm": 4.709042072296143,
+      "learning_rate": 3.834269662921349e-05,
+      "loss": 0.2218,
+      "step": 183
+    },
+    {
+      "epoch": 1.3157894736842106,
+      "eval_accuracy": 0.95,
+      "eval_loss": 0.17159783840179443,
+      "eval_macro_f1": 0.9127208037130807,
+      "eval_runtime": 9.0867,
+      "eval_samples_per_second": 59.427,
+      "eval_steps_per_second": 1.871,
+      "step": 200
+    },
+    {
+      "epoch": 1.6052631578947367,
+      "grad_norm": 8.890313148498535,
+      "learning_rate": 2.9775280898876406e-05,
+      "loss": 0.1307,
+      "step": 244
+    },
+    {
+      "epoch": 2.0065789473684212,
+      "grad_norm": 6.161779403686523,
+      "learning_rate": 2.1207865168539328e-05,
+      "loss": 0.0985,
+      "step": 305
+    },
+    {
+      "epoch": 2.4078947368421053,
+      "grad_norm": 0.8303137421607971,
+      "learning_rate": 1.2640449438202249e-05,
+      "loss": 0.0658,
+      "step": 366
+    },
+    {
+      "epoch": 2.6315789473684212,
+      "eval_accuracy": 0.9777777777777777,
+      "eval_loss": 0.1019216924905777,
+      "eval_macro_f1": 0.9775323223327321,
+      "eval_runtime": 9.4115,
+      "eval_samples_per_second": 57.377,
+      "eval_steps_per_second": 1.806,
+      "step": 400
+    }
+  ],
+  "logging_steps": 61,
+  "max_steps": 456,
+  "num_input_tokens_seen": 0,
+  "num_train_epochs": 3,
+  "save_steps": 200,
+  "stateful_callbacks": {
+    "TrainerControl": {
+      "args": {
+        "should_epoch_stop": false,
+        "should_evaluate": false,
+        "should_log": false,
+        "should_save": true,
+        "should_training_stop": false
+      },
+      "attributes": {}
+    }
+  },
+  "total_flos": 1.1859318058693248e+16,
+  "train_batch_size": 32,
+  "trial_name": null,
+  "trial_params": null
+}

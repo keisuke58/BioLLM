@@ -1,0 +1,8 @@
+{
+  "test_loss": 0.11742433905601501,
+  "test_label_errors": 4339,
+  "test_label_error_rate": 0.03649254421745822,
+  "test_runtime": 1038.8091,
+  "test_samples_per_second": 114.459,
+  "test_steps_per_second": 3.577
+}

@@ -33,30 +33,30 @@ Single-cell foundation models have emerged as powerful paradigms for analyzing t
 \end{abstract}
 
 \section{Understanding the Limits of Single-Cell Foundation Models on Downstream Tasks}
-\textbackslash\{\}textbf\{Author\}: Keisuke Nishioka (Student ID: 10081049)
+\textbf{Author}: Keisuke Nishioka (Student ID: 10081049)
 
-\textbackslash\{\}textbf\{Course\}: AI Foundation Models in Biomedicine, WiSe 2025/26
+\textbf{Course}: AI Foundation Models in Biomedicine, WiSe 2025/26
 
-\textbackslash\{\}textbf\{Institution\}: Leibniz University of Hannover
+\textbf{Institution}: Leibniz University of Hannover
 
-\textbackslash\{\}textbf\{Date\}: January 2026
+\textbf{Date}: January 2026
 
 \subsection{Abstract}
 Single-cell foundation models have emerged as powerful paradigms for analyzing transcriptomic data. However, the conditions under which these models excel or fail remain poorly understood. This project evaluates the performance of single-cell foundation models (Geneformer and scGPT) on downstream cell type classification tasks, comparing frozen representations with fine-tuned models. We demonstrate that fine-tuning significantly improves performance, with Geneformer achieving 97.8\% accuracy after fine-tuning compared to 61.3\% with frozen representations. Our findings highlight the importance of task-specific fine-tuning for optimal performance on downstream tasks.
 
-\textbackslash\{\}textbf\{Keywords\}: Single-cell RNA-seq, Foundation Models, Geneformer, scGPT, Fine-tuning, Cell Type Classification
+\textbf{Keywords}: Single-cell RNA-seq, Foundation Models, Geneformer, scGPT, Fine-tuning, Cell Type Classification
 
 \subsection{1. Introduction}
-\subsubsection{1.1 Background}
+\subsubsection{Background}
 Single-cell RNA sequencing (scRNA-seq) has revolutionized our understanding of cellular heterogeneity and function. Foundation models based on transformer architectures have shown remarkable success in capturing biological patterns from large-scale transcriptomic data. Three prominent models have emerged:
 
 \begin{itemize}
-\item \textbackslash\{\}textbf\{Geneformer\}: A transformer model pretrained on large-scale gene expression sequences, achieving transferable representations for diverse downstream tasks.
-\item \textbackslash\{\}textbf\{scGPT\}: A generative pretrained transformer that introduces generative pretraining objectives and demonstrates high performance across multiple single-cell applications.
-\item \textbackslash\{\}textbf\{scFoundation\}: A large-scale foundation model trained on tens of millions of human transcriptomes, reporting competitive results on benchmarks.
+\item \textbf{Geneformer}: A transformer model pretrained on large-scale gene expression sequences, achieving transferable representations for diverse downstream tasks.
+\item \textbf{scGPT}: A generative pretrained transformer that introduces generative pretraining objectives and demonstrates high performance across multiple single-cell applications.
+\item \textbf{scFoundation}: A large-scale foundation model trained on tens of millions of human transcriptomes, reporting competitive results on benchmarks.
 \end{itemize}
 
-\subsubsection{1.2 Problem Statement}
+\subsubsection{Problem Statement}
 Despite their reported successes, several critical questions remain unanswered:
 
 \begin{enumerate}
@@ -67,10 +67,10 @@ Despite their reported successes, several critical questions remain unanswered:
 
 The reported performances are difficult to compare due to heterogeneous datasets, preprocessing pipelines, and fine-tuning strategies.
 
-\subsubsection{1.3 Research Hypothesis}
+\subsubsection{Research Hypothesis}
 Foundation models provide strong advantages when downstream data aligns with the pretraining distribution, but their benefits diminish under domain shift, where representation quality becomes more decisive than task-specific optimization.
 
-\subsubsection{1.4 Project Objectives}
+\subsubsection{Project Objectives}
 This project aims to:
 
 \begin{enumerate}
@@ -81,32 +81,32 @@ This project aims to:
 \end{enumerate}
 
 \subsection{2. Related Work}
-\subsubsection{2.1 Single-Cell Foundation Models}
-\textbackslash\{\}textbf\{Geneformer\} (Theodoris et al., 2023) introduced a transformer architecture pretrained on 30 million human transcriptomes. The model uses rank-value encoding of gene expression and demonstrates strong performance on diverse downstream tasks including cell type classification, perturbation prediction, and disease modeling.
+\subsubsection{Single-Cell Foundation Models}
+\textbf{Geneformer} (Theodoris et al., 2023) introduced a transformer architecture pretrained on 30 million human transcriptomes. The model uses rank-value encoding of gene expression and demonstrates strong performance on diverse downstream tasks including cell type classification, perturbation prediction, and disease modeling.
 
-\textbackslash\{\}textbf\{scGPT\} (Cui et al., 2023) employs a generative pretraining objective, training the model to predict masked gene expressions. The model shows competitive performance on cell type annotation, batch correction, and multi-omics integration tasks.
+\textbf{scGPT} (Cui et al., 2023) employs a generative pretraining objective, training the model to predict masked gene expressions. The model shows competitive performance on cell type annotation, batch correction, and multi-omics integration tasks.
 
-\textbackslash\{\}textbf\{scFoundation\} represents a recent large-scale effort to scale pretraining to tens of millions of cells, though the model is not yet publicly available.
+\textbf{scFoundation} represents a recent large-scale effort to scale pretraining to tens of millions of cells, though the model is not yet publicly available.
 
-\subsubsection{2.2 Evaluation Studies}
+\subsubsection{Evaluation Studies}
 Recent evaluation studies (Kedzierska et al., bioRxiv; Boiarsky et al., bioRxiv) have begun to systematically assess single-cell foundation models, identifying limitations in generalization and highlighting the importance of careful evaluation protocols.
 
-\subsubsection{2.3 Fine-tuning vs Frozen Representations}
+\subsubsection{Fine-tuning vs Frozen Representations}
 The trade-off between frozen representations and fine-tuning has been extensively studied in NLP and computer vision. In single-cell biology, this comparison remains underexplored, with most studies focusing on either frozen or fine-tuned approaches separately.
 
 \subsection{3. Approach and Experiments}
-\subsubsection{3.1 Datasets}
-\textbackslash\{\}textbf\{PBMC3k Dataset\}: A subset of the 10x Genomics PBMC 68k dataset, containing 2,700 cells with 2,000 highly variable genes. Cell types include: T cells, B cells, DC (Dendritic Cells), NK cells, Monocytes, and Platelets. This dataset serves as our primary in-domain evaluation.
+\subsubsection{Datasets}
+\textbf{PBMC3k Dataset}: A subset of the 10x Genomics PBMC 68k dataset, containing 2,700 cells with 2,000 highly variable genes. Cell types include: T cells, B cells, DC (Dendritic Cells), NK cells, Monocytes, and Platelets. This dataset serves as our primary in-domain evaluation.
 
-\textbackslash\{\}textbf\{Tabula Sapiens\}: A comprehensive human cell atlas dataset (planned for cross-dataset evaluation, not executed due to time constraints).
+\textbf{Tabula Sapiens}: A comprehensive human cell atlas dataset (planned for cross-dataset evaluation, not executed due to time constraints).
 
-\subsubsection{3.2 Models}
+\subsubsection{Models}
 \begin{itemize}
-\item \textbackslash\{\}textbf\{Geneformer V2-104M\}: Pretrained transformer model with 104 million parameters
-\item \textbackslash\{\}textbf\{scGPT\}: Generative pretrained transformer for single-cell data
+\item \textbf{Geneformer V2-104M}: Pretrained transformer model with 104 million parameters
+\item \textbf{scGPT}: Generative pretrained transformer for single-cell data
 \end{itemize}
 
-\subsubsection{3.3 Experimental Setup}
+\subsubsection{Experimental Setup}
 For frozen representations, we:
 
 \begin{enumerate}
@@ -125,11 +125,11 @@ For fine-tuning, we:
 \end{enumerate}
 
 \begin{itemize}
-\item \textbackslash\{\}textbf\{Accuracy\}: Overall classification accuracy
-\item \textbackslash\{\}textbf\{Macro F1 Score\}: Average F1 score across all classes (handles class imbalance)
+\item \textbf{Accuracy}: Overall classification accuracy
+\item \textbf{Macro F1 Score}: Average F1 score across all classes (handles class imbalance)
 \end{itemize}
 
-\subsubsection{3.4 Implementation Details}
+\subsubsection{Implementation Details}
 All experiments were implemented in Python using:
 
 \begin{itemize}
@@ -175,7 +175,7 @@ where $P_i = \frac{TP_i}{TP_i + FP_i}$ and $R_i = \frac{TP_i}{TP_i + FN_i}$.
 For Geneformer: $\Delta_{\text{abs}} = 0.978 - 0.613 = 0.365$ (Equation~\eqref{eq:improvement}).
 
 \subsection{4. Results and Analysis}
-\subsubsection{4.1 Frozen Representation Performance}
+\subsubsection{Frozen Representation Performance}
 \begin{table}[H]
 \centering
 \begin{tabular}{lll}
@@ -190,7 +190,7 @@ scGPT (Frozen) & 0.600 & 0.294 \\
 \label{tab:comparison}
 \end{table}
 
-\textbackslash\{\}textbf\{Observations\}:
+\textbf{Observations}:
 
 \begin{itemize}
 \item Both models achieve similar accuracy (\textasciitilde{}60\%) with frozen representations
@@ -198,7 +198,7 @@ scGPT (Frozen) & 0.600 & 0.294 \\
 \item Performance is moderate, suggesting limitations of frozen representations alone
 \end{itemize}
 
-\subsubsection{4.2 Fine-tuned Model Performance}
+\subsubsection{Fine-tuned Model Performance}
 \begin{table}[H]
 \centering
 \begin{tabular}{llll}
@@ -206,17 +206,17 @@ scGPT (Frozen) & 0.600 & 0.294 \\
 Model & Accuracy & Macro F1 & Improvement \\
 \midrule
 Geneformer (Frozen) & 0.613 & 0.428 & Baseline \\
-Geneformer (Fine-tuned) & \textbackslash\{\}textbf\{0.978\} & \textbackslash\{\}textbf\{0.978\} & \textbackslash\{\}textbf\{+59.6\%\} \\
+Geneformer (Fine-tuned) & \textbf{0.978} & \textbf{0.978} & \textbf{+59.6\%} \\
 \bottomrule
 \end{tabular}
 \caption{Performance comparison}
 \label{tab:comparison}
 \end{table}
 
-\textbackslash\{\}textbf\{Key Finding\}: Fine-tuning dramatically improves performance, with accuracy increasing from 61.3\% to 97.8\% (a 59.6\% absolute improvement, representing a 97\% relative improvement).
+\textbf{Key Finding}: Fine-tuning dramatically improves performance, with accuracy increasing from 61.3\% to 97.8\% (a 59.6\% absolute improvement, representing a 97\% relative improvement).
 
-\subsubsection{4.3 Comparative Analysis}
-\textbackslash\{\}textbf\{Frozen vs Fine-tuned\}:
+\subsubsection{Comparative Analysis}
+\textbf{Frozen vs Fine-tuned}:
 
 \begin{itemize}
 \item The 60\% improvement demonstrates that pretrained representations alone are insufficient
@@ -224,7 +224,7 @@ Geneformer (Fine-tuned) & \textbackslash\{\}textbf\{0.978\} & \textbackslash\{\}
 \item The large gap suggests that frozen representations capture general patterns but miss task-specific nuances
 \end{itemize}
 
-\textbackslash\{\}textbf\{Model Comparison\}:
+\textbf{Model Comparison}:
 
 \begin{itemize}
 \item Geneformer and scGPT show similar frozen performance
@@ -232,37 +232,37 @@ Geneformer (Fine-tuned) & \textbackslash\{\}textbf\{0.978\} & \textbackslash\{\}
 \item Geneformer fine-tuning demonstrates the potential of end-to-end optimization
 \end{itemize}
 
-\subsubsection{4.4 Limitations and Challenges}
+\subsubsection{Limitations and Challenges}
 \begin{enumerate}
-\item \textbackslash\{\}textbf\{scGPT Fine-tuning\}: Could not be executed due to torchtext library compatibility issues with PyTorch 2.9+
-\item \textbackslash\{\}textbf\{Tabula Sapiens Evaluation\}: Not executed due to dataset size (\textasciitilde{}50GB) and time constraints
-\item \textbackslash\{\}textbf\{scFoundation\}: Model not publicly available for evaluation
+\item \textbf{scGPT Fine-tuning}: Could not be executed due to torchtext library compatibility issues with PyTorch 2.9+
+\item \textbf{Tabula Sapiens Evaluation}: Not executed due to dataset size (\textasciitilde{}50GB) and time constraints
+\item \textbf{scFoundation}: Model not publicly available for evaluation
 \end{enumerate}
 
 \subsection{5. Discussion}
-\subsubsection{5.1 Main Contributions}
+\subsubsection{Main Contributions}
 \begin{enumerate}
-\item \textbackslash\{\}textbf\{Empirical Evidence for Fine-tuning Importance\}: We demonstrate that fine-tuning provides substantial improvements (61.3\% → 97.8\% accuracy), confirming that task-specific optimization is essential.
-\item \textbackslash\{\}textbf\{Systematic Evaluation Framework\}: We implement a reproducible evaluation pipeline comparing frozen and fine-tuned approaches.
-\item \textbackslash\{\}textbf\{Baseline Performance Characterization\}: We establish baseline performance metrics for frozen representations of Geneformer and scGPT on PBMC3k dataset.
+\item \textbf{Empirical Evidence for Fine-tuning Importance}: We demonstrate that fine-tuning provides substantial improvements (61.3\% → 97.8\% accuracy), confirming that task-specific optimization is essential.
+\item \textbf{Systematic Evaluation Framework}: We implement a reproducible evaluation pipeline comparing frozen and fine-tuned approaches.
+\item \textbf{Baseline Performance Characterization}: We establish baseline performance metrics for frozen representations of Geneformer and scGPT on PBMC3k dataset.
 \end{enumerate}
 
-\subsubsection{5.2 Implications}
+\subsubsection{Implications}
 Our results suggest that:
 
 \begin{itemize}
-\item \textbackslash\{\}textbf\{Pretrained representations are valuable but limited\}: Frozen representations achieve \textasciitilde{}60\% accuracy, indicating they capture useful patterns but require task-specific adaptation.
-\item \textbackslash\{\}textbf\{Fine-tuning is essential\}: The dramatic improvement with fine-tuning (97.8\% accuracy) shows that end-to-end optimization is crucial for optimal performance.
-\item \textbackslash\{\}textbf\{Model choice matters less than training strategy\}: Both Geneformer and scGPT show similar frozen performance, suggesting the training approach (frozen vs fine-tuned) is more important than the specific model architecture.
+\item \textbf{Pretrained representations are valuable but limited}: Frozen representations achieve \textasciitilde{}60\% accuracy, indicating they capture useful patterns but require task-specific adaptation.
+\item \textbf{Fine-tuning is essential}: The dramatic improvement with fine-tuning (97.8\% accuracy) shows that end-to-end optimization is crucial for optimal performance.
+\item \textbf{Model choice matters less than training strategy}: Both Geneformer and scGPT show similar frozen performance, suggesting the training approach (frozen vs fine-tuned) is more important than the specific model architecture.
 \end{itemize}
 
-\subsubsection{5.3 Future Directions}
+\subsubsection{Future Directions}
 \begin{enumerate}
-\item \textbackslash\{\}textbf\{Cross-dataset Evaluation\}: Evaluate generalization to Tabula Sapiens and other datasets
-\item \textbackslash\{\}textbf\{scGPT Fine-tuning\}: Resolve technical issues and complete scGPT fine-tuning evaluation
-\item \textbackslash\{\}textbf\{Detailed Analysis\}: Perform per-class analysis, confusion matrices, and UMAP visualizations
-\item \textbackslash\{\}textbf\{Statistical Testing\}: Conduct significance tests to validate improvements
-\item \textbackslash\{\}textbf\{Ablation Studies\}: Investigate which layers benefit most from fine-tuning
+\item \textbf{Cross-dataset Evaluation}: Evaluate generalization to Tabula Sapiens and other datasets
+\item \textbf{scGPT Fine-tuning}: Resolve technical issues and complete scGPT fine-tuning evaluation
+\item \textbf{Detailed Analysis}: Perform per-class analysis, confusion matrices, and UMAP visualizations
+\item \textbf{Statistical Testing}: Conduct significance tests to validate improvements
+\item \textbf{Ablation Studies}: Investigate which layers benefit most from fine-tuning
 \end{enumerate}
 
 \subsection{6. Conclusion}
@@ -294,23 +294,23 @@ This project was completed individually by Keisuke Nishioka.
 \end{itemize}
 
 \subsubsection{C. Usage of AI Tools}
-\textbackslash\{\}textbf\{AI Tools Used\}:
+\textbf{AI Tools Used}:
 
 \begin{itemize}
-\item \textbackslash\{\}textbf\{Cursor AI Assistant\}: Used for code development, debugging, and documentation
+\item \textbf{Cursor AI Assistant}: Used for code development, debugging, and documentation
 \item Purpose: Code generation, error debugging, and script organization
 \item Usage: Interactive assistance during implementation of evaluation scripts
 \item Impact: Accelerated development but all final code was reviewed and validated
-\item \textbackslash\{\}textbf\{ChatGPT/Claude\}: Used for initial project planning and literature review
+\item \textbf{ChatGPT/Claude}: Used for initial project planning and literature review
 \item Purpose: Understanding project requirements and exploring related work
 \item Usage: Initial brainstorming and clarification of technical concepts
 \item Impact: Helped structure the project approach but all technical decisions were independently verified
 \end{itemize}
 
-\textbackslash\{\}textbf\{Declaration\}: All experimental results, code implementations, and analyses were performed by the author. AI tools were used as development aids but did not generate experimental results or conclusions.
+\textbf{Declaration}: All experimental results, code implementations, and analyses were performed by the author. AI tools were used as development aids but did not generate experimental results or conclusions.
 
 \subsubsection{D. Additional Results}
-\textbackslash\{\}textbf\{Geneformer (Frozen)\}:
+\textbf{Geneformer (Frozen)}:
 
 \begin{itemize}
 \item Per-class performance: Available in detailed logs
@@ -318,16 +318,16 @@ This project was completed individually by Keisuke Nishioka.
 \item Training time: \textasciitilde{}5 minutes on GPU
 \end{itemize}
 
-\textbackslash\{\}textbf\{Geneformer (Fine-tuned)\}:
+\textbf{Geneformer (Fine-tuned)}:
 
 \begin{itemize}
 \item Training epochs: 3
 \item Best validation accuracy: 0.978 (at epoch 2.63)
 \item Training time: \textasciitilde{}12 minutes on GPU
 \item Model size: 104M parameters
-\item \textbackslash\{\}textbf\{Datasets compatibility\}: Encountered compatibility issues with `datasets` library version 2.21.0, resolved by re-tokenizing data
-\item \textbackslash\{\}textbf\{Stratification\}: Could not use stratified splits due to ClassLabel type requirements in datasets library
-\item \textbackslash\{\}textbf\{Reproducibility\}: All experiments use random seed 42 for reproducibility
+\item \textbf{Datasets compatibility}: Encountered compatibility issues with `datasets` library version 2.21.0, resolved by re-tokenizing data
+\item \textbf{Stratification}: Could not use stratified splits due to ClassLabel type requirements in datasets library
+\item \textbf{Reproducibility}: All experiments use random seed 42 for reproducibility
 \end{itemize}
 
 All code is available in the project repository:
@@ -339,7 +339,7 @@ All code is available in the project repository:
 \item Logs: `logs/` directory
 \end{itemize}
 
-\textbackslash\{\}textbf\{End of Report\}
+\textbf{End of Report}
 
 
 \section{Figures}

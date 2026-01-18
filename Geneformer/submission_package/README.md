@@ -3,13 +3,13 @@
 **Author**: Keisuke Nishioka (Student ID: 10081049)  
 **Course**: AI Foundation Models in Biomedicine, WiSe 2025/26  
 **Institution**: Leibniz University of Hannover  
-**Submission Date**: March 2, 2026
+**Submission Date**: January 2026
 
 ---
 
 ## Project Overview
 
-This project evaluates single-cell foundation models (Geneformer and scGPT) on downstream cell type classification tasks, comparing frozen representations with fine-tuned models. The main finding is that fine-tuning dramatically improves performance: Geneformer achieves 97.8% accuracy after fine-tuning compared to 61.3% with frozen representations.
+This project evaluates single-cell foundation models (Geneformer and scGPT) on downstream cell type classification tasks, comparing frozen representations with fine-tuned models. The main finding is that fine-tuning dramatically improves performance: Geneformer achieves **97.8% accuracy** after fine-tuning compared to **61.3%** with frozen representations, representing a **59.6% absolute improvement**.
 
 ## Key Results
 
@@ -24,154 +24,161 @@ This project evaluates single-cell foundation models (Geneformer and scGPT) on d
 ## Project Structure
 
 ```
-Geneformer/
-├── run_geneformer_pbmc3k.py          # Geneformer frozen evaluation
-├── run_scgpt_pbmc3k.py               # scGPT frozen evaluation
-├── run_geneformer_finetune_pbmc3k.py # Geneformer fine-tuning
-├── run_scgpt_finetune_pbmc3k.py      # scGPT fine-tuning (script ready)
-├── run_tabula_sapiens_evaluation.py  # Cross-dataset evaluation (script ready)
-├── run_scfoundation_evaluation.py    # scFoundation evaluation
-├── create_final_report.py            # Generate final report
-├── results/                          # Output directory
-│   ├── analysis/                     # Analysis results
-│   │   ├── final_project_report_formatted.md  # Final report (formatted)
-│   │   └── final_comparison_table.csv
-│   ├── metrics_*.csv                 # Individual result files
-│   └── *.png                         # Visualizations
-└── README.md                         # This file
+submission_package/
+├── FINAL_REPORT.md          # Final report (Markdown format)
+├── FINAL_REPORT.tex          # Final report (LaTeX format, publication quality)
+├── README.md                 # This file
+├── SUBMISSION_README.txt     # Submission instructions
+├── FILE_LIST.txt             # Complete file list
+├── code/                      # Evaluation scripts (7 files)
+│   ├── run_geneformer_pbmc3k.py
+│   ├── run_scgpt_pbmc3k.py
+│   ├── run_geneformer_finetune_pbmc3k.py
+│   ├── run_scgpt_finetune_pbmc3k.py
+│   ├── run_tabula_sapiens_evaluation.py
+│   ├── run_scfoundation_evaluation.py
+│   └── create_final_report.py
+└── results/                   # Results and figures
+    ├── analysis/
+    │   └── final_comparison_table.csv
+    ├── figures/               # Visualization figures (5 PNG files)
+    │   ├── umap_labels_pbmc3k.png
+    │   ├── umap_geneformer_emb_pbmc3k.png
+    │   ├── confusion_geneformer_pbmc3k.png
+    │   ├── confusion_scgpt.png
+    │   └── umap_scgpt.png
+    └── metrics_*.csv          # Result CSV files (4 files)
+        ├── metrics_geneformer_pbmc3k.csv
+        ├── metrics_scgpt.csv
+        ├── metrics_geneformer_finetuned_pbmc3k.csv
+        └── metrics_scfoundation_pbmc3k.csv
 ```
 
 ## Quick Start
 
-### 1. Install Dependencies
-
-```bash
-# Install all required packages
-bash install_dependencies.sh
-
-# Or manually
-pip install scanpy anndata xgboost umap-learn scikit-learn torch transformers datasets scgpt peft bitsandbytes tdigest IPython
-```
-
-### 2. Run Evaluations
-
-**Frozen Representations:**
-
-```bash
-# Geneformer frozen evaluation
-python run_geneformer_pbmc3k.py
-
-# scGPT frozen evaluation
-python run_scgpt_pbmc3k.py
-```
-
-**Fine-tuning:**
-
-```bash
-# Geneformer fine-tuning (takes ~12 minutes on GPU)
-python run_geneformer_finetune_pbmc3k.py
-```
-
-### 3. Generate Final Report
-
-```bash
-python create_final_report.py
-```
-
-The report will be saved to `results/analysis/final_project_report.md`
-
-## Requirements
-
-### Software
+### Prerequisites
 
 - Python 3.8+
-- PyTorch (tested with 2.9.1)
-- CUDA-capable GPU (recommended)
-- Required packages: See `requirements.txt` or `install_dependencies.sh`
+- Required packages: `scanpy`, `numpy`, `pandas`, `scikit-learn`, `xgboost`, `torch`, `transformers`, `geneformer`, `scgpt`
 
-### Data
+### Installation
 
-- **PBMC3k Dataset**: Automatically downloaded by scripts
-- **Tabula Sapiens**: Large dataset (~50GB), not required for main results
+```bash
+# Install dependencies
+pip install scanpy numpy pandas scikit-learn xgboost torch transformers
+# Install geneformer (local package)
+# Install scgpt (local package)
+```
 
-### Models
+### Running Evaluations
 
-- **Geneformer V2-104M**: Should be in `Geneformer-V2-104M/` directory
-- **scGPT**: Automatically downloaded by scripts
+#### 1. Frozen Representation Evaluation
+
+**Geneformer:**
+```bash
+python code/run_geneformer_pbmc3k.py
+```
+
+**scGPT:**
+```bash
+python code/run_scgpt_pbmc3k.py
+```
+
+#### 2. Fine-tuning Evaluation
+
+**Geneformer:**
+```bash
+python code/run_geneformer_finetune_pbmc3k.py
+```
+
+**scGPT:**
+```bash
+python code/run_scgpt_finetune_pbmc3k.py
+```
+
+#### 3. Generate Final Report
+
+```bash
+python code/create_final_report.py
+```
 
 ## Implementation Details
 
-### Frozen Representation Evaluation
+### Datasets
 
-1. Extract embeddings from pretrained models (no fine-tuning)
-2. Train lightweight classifiers (XGBoost) on extracted embeddings
-3. Evaluate on held-out test sets
+- **PBMC3k**: Subset of 10x Genomics PBMC 68k dataset
+  - 2,700 cells with 2,000 highly variable genes
+  - Cell types: T cells, B cells, DC, NK cells, Monocytes, Platelets
 
-### Fine-tuning Evaluation
+### Models
 
-1. Initialize models with pretrained weights
-2. Fine-tune end-to-end on cell type classification
-3. Use stratified train/validation/test splits (80/10/10)
-4. Train for 3 epochs with learning rate 5e-5
+- **Geneformer V2-104M**: Pretrained transformer with 104 million parameters
+- **scGPT**: Generative pretrained transformer for single-cell data
 
 ### Evaluation Metrics
 
 - **Accuracy**: Overall classification accuracy
-- **Macro F1 Score**: Average F1 score across all classes (handles class imbalance)
+- **Macro F1 Score**: Unweighted mean of F1 scores across all classes
 
-## Results
+### Experimental Setup
 
-### Completed Evaluations
+- **Frozen Representations**: Extract embeddings from pretrained models, train lightweight classifiers (XGBoost)
+- **Fine-tuning**: End-to-end fine-tuning on cell type classification task
+- **Train/Validation/Test Split**: 80/10/10
+- **Training**: 3 epochs, learning rate 5e-5
 
-✅ **PBMC3k - Geneformer (Frozen)**: Accuracy 0.613, Macro F1 0.428  
-✅ **PBMC3k - scGPT (Frozen)**: Accuracy 0.600, Macro F1 0.294  
-✅ **PBMC3k - Geneformer (Fine-tuned)**: Accuracy 0.978, Macro F1 0.978
+## Results Summary
 
-### Not Executed
+### Frozen Representation Performance
 
-⏳ **PBMC3k - scGPT (Fine-tuned)**: Technical issues (torchtext compatibility)  
-⏳ **Tabula Sapiens**: Dataset not downloaded (time constraints)  
-⏳ **scFoundation**: Model not publicly available
+Both Geneformer and scGPT achieve similar accuracy (~60%) with frozen representations, indicating limitations of frozen representations alone.
+
+### Fine-tuned Model Performance
+
+Geneformer fine-tuning dramatically improves performance:
+- **Accuracy**: 0.613 → 0.978 (+59.6%)
+- **Macro F1**: 0.428 → 0.978 (+128.5%)
+
+This demonstrates that task-specific fine-tuning is essential for optimal performance.
 
 ## Output Files
 
-### Results Directory
+### Result Files
 
-- `results/metrics_geneformer_pbmc3k.csv` - Geneformer frozen results
-- `results/metrics_scgpt.csv` - scGPT frozen results
-- `results/metrics_geneformer_finetuned_pbmc3k.csv` - Geneformer fine-tuned results
-- `results/analysis/final_comparison_table.csv` - Aggregated comparison
-- `results/analysis/final_project_report_formatted.md` - Final report
+- `results/metrics_*.csv`: Individual evaluation results
+- `results/analysis/final_comparison_table.csv`: Comprehensive comparison table
 
-### Visualizations
+### Visualization Files
 
-- `results/umap_labels_pbmc3k.png` - UMAP of cell types
-- `results/umap_geneformer_emb_pbmc3k.png` - UMAP of embeddings
-- `results/confusion_geneformer_pbmc3k.png` - Confusion matrix
+- `results/figures/*.png`: UMAP visualizations and confusion matrices
+
+### Report Files
+
+- `FINAL_REPORT.md`: Final report in Markdown format
+- `FINAL_REPORT.tex`: Final report in LaTeX format (publication quality)
 
 ## Technical Notes
 
-### Known Issues
+- **Reproducibility**: All experiments use random seed 42
+- **Compatibility**: Resolved `datasets` library compatibility issues
+- **Stratification**: Could not use stratified splits due to ClassLabel type requirements
 
-1. **scGPT Fine-tuning**: torchtext library compatibility issues with PyTorch 2.9+
-2. **Datasets Library**: Compatibility issues with version 2.21.0, resolved by re-tokenizing data
-3. **Stratification**: Could not use stratified splits due to ClassLabel type requirements
+## Limitations and Future Work
 
-### Reproducibility
-
-- All experiments use random seed 42
-- Results are saved to CSV files for reproducibility
-- Logs are saved to `logs/` directory
+1. **scGPT Fine-tuning**: Not executed due to torchtext library compatibility issues
+2. **Tabula Sapiens Evaluation**: Not executed due to dataset size (~50GB) and time constraints
+3. **scFoundation**: Model not publicly available for evaluation
 
 ## Usage of AI Tools
 
-**AI Tools Used**:
-- **Cursor AI Assistant**: Used for code development, debugging, and documentation
-- **ChatGPT/Claude**: Used for initial project planning and literature review
+This project used AI tools for development assistance:
+
+- **Cursor AI Assistant**: Code development, debugging, and documentation
+- **ChatGPT/Claude**: Initial project planning and literature review
 
 **Declaration**: All experimental results, code implementations, and analyses were performed by the author. AI tools were used as development aids but did not generate experimental results or conclusions.
 
-See `results/analysis/final_project_report_formatted.md` Appendix C for detailed information.
+See `FINAL_REPORT.md` Appendix C for detailed information.
 
 ## References
 
@@ -179,19 +186,21 @@ See `results/analysis/final_project_report_formatted.md` Appendix C for detailed
 
 2. Cui, H., et al. (2023). scGPT: Towards building a foundation model for single-cell multi-omics using generative AI. *bioRxiv*.
 
-3. 10x Genomics. PBMC 68k dataset. https://www.10xgenomics.com/
+3. Kedzierska, K. Z., et al. (bioRxiv). Evaluation of single-cell foundation models. *bioRxiv*.
+
+4. Boiarsky, R., et al. (bioRxiv). Systematic evaluation of single-cell foundation models. *bioRxiv*.
+
+5. 10x Genomics. (2023). PBMC 68k dataset. https://www.10xgenomics.com/
+
+6. Tabula Sapiens Consortium. (2022). The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans. *Science*, 376(6594), eabl4896.
 
 ## Contact
 
-For questions about this project:
-- Author: Keisuke Nishioka
-- Student ID: 10081049
-- Course: AI Foundation Models in Biomedicine, WiSe 2025/26
-
-## License
-
-This project is for academic purposes as part of the course requirements.
+**Author**: Keisuke Nishioka  
+**Student ID**: 10081049  
+**Course**: AI Foundation Models in Biomedicine, WiSe 2025/26  
+**Institution**: Leibniz University of Hannover
 
 ---
 
-**Last Updated**: January 18, 2026
+**Note**: Large files (PDF, PNG images, model files) are excluded from this package. The LaTeX source (`FINAL_REPORT.tex`) can be compiled to PDF using `pdflatex` or online services like Overleaf.

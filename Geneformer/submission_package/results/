@@ -1,0 +1,2 @@
+method,dataset,accuracy,macro_f1
+geneformer_finetuned,pbmc3k,0.9777777777777777,0.9775323223327321
