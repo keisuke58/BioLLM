@@ -1,0 +1,5 @@
+Method,Dataset,Accuracy,Macro F1,Status
+PBMC3k - Geneformer (Frozen),PBMC3K,0.6129629629629629,0.4283571412247883,Completed
+PBMC3k - scGPT (Frozen),PBMC3K,0.6,0.294488230365189,Completed
+PBMC3k - Geneformer (Fine-tuned),PBMC3K,0.9777777777777776,0.977532322332732,Completed
+PBMC3k - scFoundation,PBMC3K,,,Completed

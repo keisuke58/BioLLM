@@ -1,0 +1,23 @@
+Submission Package File List
+========================================
+
+FINAL_REPORT.md
+README.md
+SUBMISSION_README.txt
+code/create_final_report.py
+code/run_geneformer_finetune_pbmc3k.py
+code/run_geneformer_pbmc3k.py
+code/run_scfoundation_evaluation.py
+code/run_scgpt_finetune_pbmc3k.py
+code/run_scgpt_pbmc3k.py
+code/run_tabula_sapiens_evaluation.py
+results/analysis/final_comparison_table.csv
+results/figures/confusion_geneformer_pbmc3k.png
+results/figures/confusion_scgpt.png
+results/figures/umap_geneformer_emb_pbmc3k.png
+results/figures/umap_labels_pbmc3k.png
+results/figures/umap_scgpt.png
+results/metrics_geneformer_finetuned_pbmc3k.csv
+results/metrics_geneformer_pbmc3k.csv
+results/metrics_scfoundation_pbmc3k.csv
+results/metrics_scgpt.csv

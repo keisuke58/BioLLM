@@ -1,0 +1,65 @@
+# Large files and binaries
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.h5ad
+*.h5
+*.pkl
+*.pickle
+*.model
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.dataset
+*.dat
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Results and logs (keep structure but not large files)
+*.log
+*.aux
+*.out
+*.toc
+
+# Data directories (large datasets)
+data/
+datasets/
+models/
+checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+
+# Keep submission package structure but exclude large files
+submission_package/*.pdf
+submission_package/*.png
+submission_package/results/figures/*.png
+submission_package/*.aux
+submission_package/*.log
+submission_package/*.out

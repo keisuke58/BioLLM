@@ -1,0 +1,5 @@
+metric,value
+accuracy,0.6129629629629629
+macro_f1,0.42835714122478835
+accuracy_no_platelet,0.6163873370577281
+macro_f1_no_platelet,0.5152351156314045
